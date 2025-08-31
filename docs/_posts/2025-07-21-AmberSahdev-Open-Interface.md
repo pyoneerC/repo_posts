@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T14:35:22.662232
-image: assets/AmberSahdev_Open-Interface_cropped.png
+date: 2025-07-21 14:35:22.662232
 ---
 
 # [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface)

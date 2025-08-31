@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-26T07:42:16.389438
-image: assets/FoundationAgents_OpenManus_cropped.png
+date: 2025-06-26 07:42:16.389438
 ---
 
 # [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)

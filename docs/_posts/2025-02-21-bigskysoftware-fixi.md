@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-21T07:23:17.742593
-image: assets/bigskysoftware_fixi_cropped.png
+date: 2025-02-21 07:23:17.742593
 ---
 
 # [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-13T03:45:43.196493
-image: assets/littleosbook_littleosbook_cropped.png
+date: 2025-05-13 03:45:43.196493
 ---
 
 # [littleosbook/littleosbook](https://github.com/littleosbook/littleosbook)

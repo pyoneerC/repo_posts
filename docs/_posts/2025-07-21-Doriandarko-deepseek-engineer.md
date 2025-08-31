@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T18:37:35.832718
-image: assets/Doriandarko_deepseek-engineer_cropped.png
+date: 2025-07-21 18:37:35.832718
 ---
 
 # [Doriandarko/deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer)

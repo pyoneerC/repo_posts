@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T03:55:11.260517
-image: assets/microsoft_data-formulator_cropped.png
+date: 2025-04-20 03:55:11.260517
 ---
 
 # [microsoft/data-formulator](https://github.com/microsoft/data-formulator)

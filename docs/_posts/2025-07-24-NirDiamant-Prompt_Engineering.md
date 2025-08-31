@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T21:48:34.674863
-image: assets/NirDiamant_Prompt_Engineering_cropped.png
+date: 2025-07-24 21:48:34.674863
 ---
 
 # [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)

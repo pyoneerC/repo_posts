@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T10:07:50.966416
-image: assets/abi_screenshot-to-code_cropped.png
+date: 2025-04-26 10:07:50.966416
 ---
 
 # [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)

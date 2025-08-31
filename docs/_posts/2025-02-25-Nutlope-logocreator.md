@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-25T01:56:31.059814
-image: assets/Nutlope_logocreator_cropped.png
+date: 2025-02-25 01:56:31.059814
 ---
 
 # [Nutlope/logocreator](https://github.com/Nutlope/logocreator)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T03:39:22.133324
-image: assets/Genymobile_scrcpy_cropped.png
+date: 2025-06-25 03:39:22.133324
 ---
 
 # [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T06:47:17.967808
-image: assets/TechnitiumSoftware_DnsServer_cropped.png
+date: 2025-08-01 06:47:17.967808
 ---
 
 # [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)

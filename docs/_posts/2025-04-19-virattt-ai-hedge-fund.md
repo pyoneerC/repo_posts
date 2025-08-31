@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-19T02:14:42.963132
-image: assets/virattt_ai-hedge-fund_cropped.png
+date: 2025-04-19 02:14:42.963132
 ---
 
 # [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-26T04:39:09.855046
-image: assets/e2b-dev_awesome-ai-agents_cropped.png
+date: 2025-02-26 04:39:09.855046
 ---
 
 # [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)

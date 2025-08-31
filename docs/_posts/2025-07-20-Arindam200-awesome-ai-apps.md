@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T18:24:12.296958
-image: assets/Arindam200_awesome-ai-apps_cropped.png
+date: 2025-07-20 18:24:12.296958
 ---
 
 # [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)

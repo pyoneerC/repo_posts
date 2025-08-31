@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T10:39:08.706904
-image: assets/un-ts_unuse_cropped.png
+date: 2025-07-01 10:39:08.706904
 ---
 
 # [un-ts/unuse](https://github.com/un-ts/unuse)

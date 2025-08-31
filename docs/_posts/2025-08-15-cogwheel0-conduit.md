@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T02:57:45.314360
-image: assets/20250815T010219364_cogwheel0_conduit--20250815T010617080--cropped.png
+date: 2025-08-15 02:57:45.314360
 ---
 
 # [cogwheel0/conduit](https://github.com/cogwheel0/conduit)

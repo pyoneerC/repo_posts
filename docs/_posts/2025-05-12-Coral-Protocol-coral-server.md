@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T02:46:54.024012
-image: assets/Coral-Protocol_coral-server_cropped.png
+date: 2025-05-12 02:46:54.024012
 ---
 
 # [Coral-Protocol/coral-server](https://github.com/Coral-Protocol/coral-server)

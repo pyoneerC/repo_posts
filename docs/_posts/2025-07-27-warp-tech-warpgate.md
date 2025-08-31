@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T14:52:50.548580
-image: assets/warp-tech_warpgate_cropped.png
+date: 2025-07-27 14:52:50.548580
 ---
 
 # [warp-tech/warpgate](https://github.com/warp-tech/warpgate)

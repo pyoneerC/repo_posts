@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T14:52:00.470712
-image: assets/getfider_fider_cropped.png
+date: 2025-07-20 14:52:00.470712
 ---
 
 # [getfider/fider](https://github.com/getfider/fider)

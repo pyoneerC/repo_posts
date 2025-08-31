@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T16:27:37.483461
-image: assets/NirDiamant_agents-towards-production_cropped.png
+date: 2025-07-14 16:27:37.483461
 ---
 
 # [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)

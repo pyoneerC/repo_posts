@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T09:33:29.343905
-image: assets/Atlas-OS_Atlas_cropped.png
+date: 2025-07-12 09:33:29.343905
 ---
 
 # [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)

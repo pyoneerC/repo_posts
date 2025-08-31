@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T19:52:20.790258
-image: assets/Flux159_mcp-server-kubernetes_cropped.png
+date: 2025-07-04 19:52:20.790258
 ---
 
 # [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes)

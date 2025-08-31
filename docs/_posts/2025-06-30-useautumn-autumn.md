@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-30T21:32:20.547913
-image: assets/useautumn_autumn_cropped.png
+date: 2025-06-30 21:32:20.547913
 ---
 
 # [useautumn/autumn](https://github.com/useautumn/autumn)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T06:23:03.352246
-image: assets/cocoindex-io_cocoindex_cropped.png
+date: 2025-07-07 06:23:03.352246
 ---
 
 # [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-26T04:51:12.921355
-image: assets/20250825T030107740--datarhei--restreamer--20250825T030802532--cropped.png
+date: 2025-08-26 04:51:12.921355
 ---
 
 # [datarhei/restreamer](https://github.com/datarhei/restreamer)

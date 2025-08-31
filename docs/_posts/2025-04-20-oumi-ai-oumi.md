@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T20:34:58.278853
-image: assets/oumi-ai_oumi_cropped.png
+date: 2025-04-20 20:34:58.278853
 ---
 
 # [oumi-ai/oumi](https://github.com/oumi-ai/oumi)

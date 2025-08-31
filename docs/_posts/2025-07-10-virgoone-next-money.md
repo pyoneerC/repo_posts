@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T00:33:38.891164
-image: assets/virgoone_next-money_cropped.png
+date: 2025-07-10 00:33:38.891164
 ---
 
 # [virgoone/next-money](https://github.com/virgoone/next-money)

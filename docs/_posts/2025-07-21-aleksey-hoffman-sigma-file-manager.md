@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T01:58:19.969033
-image: assets/aleksey-hoffman_sigma-file-manager_cropped.png
+date: 2025-07-21 01:58:19.969033
 ---
 
 # [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)

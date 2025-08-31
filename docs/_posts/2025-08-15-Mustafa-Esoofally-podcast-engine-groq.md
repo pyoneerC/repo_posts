@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T14:02:57.766736
-image: assets/Mustafa-Esoofally_podcast-engine-groq--20250815T015206652--cropped.png
+date: 2025-08-15 14:02:57.766736
 ---
 
 # [Mustafa-Esoofally/podcast-engine-groq](https://github.com/Mustafa-Esoofally/podcast-engine-groq)

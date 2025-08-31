@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-11T19:37:21.013749
-image: assets/upstash_context7_cropped.png
+date: 2025-05-11 19:37:21.013749
 ---
 
 # [upstash/context7](https://github.com/upstash/context7)

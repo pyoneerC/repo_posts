@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T04:45:56.457454
-image: assets/BorealisAI_PETSA_cropped.png
+date: 2025-08-01 04:45:56.457454
 ---
 
 # [BorealisAI/PETSA](https://github.com/BorealisAI/PETSA)

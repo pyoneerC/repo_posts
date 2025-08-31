@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T22:36:59.241468
-image: assets/quickemu-project_quickemu_cropped.png
+date: 2025-06-24 22:36:59.241468
 ---
 
 # [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)

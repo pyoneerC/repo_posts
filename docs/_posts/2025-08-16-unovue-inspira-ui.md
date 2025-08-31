@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T23:18:45.537487
-image: assets/20250816T012333406_unovue_inspira-ui--20250816T012618231--cropped.png
+date: 2025-08-16 23:18:45.537487
 ---
 
 # [unovue/inspira-ui](https://github.com/unovue/inspira-ui)

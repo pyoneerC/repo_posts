@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T19:27:39.670402
-image: assets/ChrisBuilds_terminaltexteffects_cropped.png
+date: 2025-07-18 19:27:39.670402
 ---
 
 # [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects)

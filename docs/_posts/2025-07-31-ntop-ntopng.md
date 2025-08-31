@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T10:36:07.157953
-image: assets/ntop_ntopng_cropped.png
+date: 2025-07-31 10:36:07.157953
 ---
 
 # [ntop/ntopng](https://github.com/ntop/ntopng)

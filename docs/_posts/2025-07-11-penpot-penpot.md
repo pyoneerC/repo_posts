@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T04:18:08.396350
-image: assets/penpot_penpot_cropped.png
+date: 2025-07-11 04:18:08.396350
 ---
 
 # [penpot/penpot](https://github.com/penpot/penpot)

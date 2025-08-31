@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-21T01:48:11.728940
-image: assets/vitessio_vitess_cropped.png
+date: 2025-02-21 01:48:11.728940
 ---
 
 # [vitessio/vitess](https://github.com/vitessio/vitess)

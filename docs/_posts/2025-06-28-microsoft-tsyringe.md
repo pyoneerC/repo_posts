@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-28T05:07:54.983521
-image: assets/microsoft_tsyringe_cropped.png
+date: 2025-06-28 05:07:54.983521
 ---
 
 # [microsoft/tsyringe](https://github.com/microsoft/tsyringe)

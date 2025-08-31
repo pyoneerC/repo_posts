@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T20:44:44.840712
-image: assets/directvt_vtm_cropped.png
+date: 2025-07-17 20:44:44.840712
 ---
 
 # [directvt/vtm](https://github.com/directvt/vtm)

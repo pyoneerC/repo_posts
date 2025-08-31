@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T14:05:06.682486
-image: assets/veggiemonk_awesome-docker_cropped.png
+date: 2025-07-21 14:05:06.682486
 ---
 
 # [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)

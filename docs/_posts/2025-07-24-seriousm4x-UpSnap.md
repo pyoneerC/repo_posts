@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T18:46:51.048593
-image: assets/seriousm4x_UpSnap_cropped.png
+date: 2025-07-24 18:46:51.048593
 ---
 
 # [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap)

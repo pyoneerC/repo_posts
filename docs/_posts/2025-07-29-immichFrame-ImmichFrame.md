@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T13:41:41.060868
-image: assets/immichFrame_ImmichFrame_cropped.png
+date: 2025-07-29 13:41:41.060868
 ---
 
 # [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T11:12:44.739966
-image: assets/f_mcptools_cropped.png
+date: 2025-06-25 11:12:44.739966
 ---
 
 # [f/mcptools](https://github.com/f/mcptools)

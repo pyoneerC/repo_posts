@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T09:42:18.968151
-image: assets/FradSer_dotclaude--20250815T024201085--cropped.png
+date: 2025-08-16 09:42:18.968151
 ---
 
 # [FradSer/dotclaude](https://github.com/FradSer/dotclaude)

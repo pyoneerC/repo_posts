@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T07:51:47.661563
-image: assets/Shopify_remote-dom_cropped.png
+date: 2025-07-16 07:51:47.661563
 ---
 
 # [Shopify/remote-dom](https://github.com/Shopify/remote-dom)

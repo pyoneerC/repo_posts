@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-20T02:17:22.779334
-image: assets/Luctia_ezarr_cropped.png
+date: 2025-06-20 02:17:22.779334
 ---
 
 # [Luctia/ezarr](https://github.com/Luctia/ezarr)

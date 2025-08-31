@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T05:52:47.419033
-image: assets/sympy_sympy_cropped.png
+date: 2025-07-07 05:52:47.419033
 ---
 
 # [sympy/sympy](https://github.com/sympy/sympy)

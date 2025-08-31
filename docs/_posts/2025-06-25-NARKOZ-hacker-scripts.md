@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T16:15:02.305060
-image: assets/NARKOZ_hacker-scripts_cropped.png
+date: 2025-06-25 16:15:02.305060
 ---
 
 # [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T02:37:17.103958
-image: assets/HKUDS_AutoAgent_cropped.png
+date: 2025-04-24 02:37:17.103958
 ---
 
 # [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent)

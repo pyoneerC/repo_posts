@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T17:46:19.429294
-image: assets/shlinkio_shlink_cropped.png
+date: 2025-07-24 17:46:19.429294
 ---
 
 # [shlinkio/shlink](https://github.com/shlinkio/shlink)

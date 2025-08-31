@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T02:08:21.401058
-image: assets/HelloCSV_HelloCSV_cropped.png
+date: 2025-07-06 02:08:21.401058
 ---
 
 # [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV)

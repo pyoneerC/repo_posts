@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-25T05:30:58.916837
-image: assets/CapSoftware_Cap_cropped.png
+date: 2025-02-25 05:30:58.916837
 ---
 
 # [CapSoftware/Cap](https://github.com/CapSoftware/Cap)

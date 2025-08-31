@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T08:42:04.636132
-image: assets/modelscope_FunClip_cropped.png
+date: 2025-08-11 08:42:04.636132
 ---
 
 # [modelscope/FunClip](https://github.com/modelscope/FunClip)

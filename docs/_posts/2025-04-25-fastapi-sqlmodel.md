@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T12:58:04.440381
-image: assets/fastapi_sqlmodel_cropped.png
+date: 2025-04-25 12:58:04.440381
 ---
 
 # [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)

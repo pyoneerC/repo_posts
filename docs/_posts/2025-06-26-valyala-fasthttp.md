@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-26T16:16:43.387852
-image: assets/valyala_fasthttp_cropped.png
+date: 2025-06-26 16:16:43.387852
 ---
 
 # [valyala/fasthttp](https://github.com/valyala/fasthttp)

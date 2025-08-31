@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T21:28:43.180100
-image: assets/Blaizzy_mlx-audio_cropped.png
+date: 2025-07-18 21:28:43.180100
 ---
 
 # [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)

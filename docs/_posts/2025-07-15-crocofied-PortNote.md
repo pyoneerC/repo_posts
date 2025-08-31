@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-15T20:14:31.713654
-image: assets/crocofied_PortNote_cropped.png
+date: 2025-07-15 20:14:31.713654
 ---
 
 # [crocofied/PortNote](https://github.com/crocofied/PortNote)

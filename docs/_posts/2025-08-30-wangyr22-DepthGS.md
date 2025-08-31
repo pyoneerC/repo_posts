@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-30T09:25:02.418232
-image: assets/20250829T010824197--wangyr22--DepthGS--20250830T033351793--cropped.png
+date: 2025-08-30 09:25:02.418232
 ---
 
 # [wangyr22/DepthGS](https://github.com/wangyr22/DepthGS)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T02:33:23.152808
-image: assets/sigoden_aichat_cropped.png
+date: 2025-07-17 02:33:23.152808
 ---
 
 # [sigoden/aichat](https://github.com/sigoden/aichat)

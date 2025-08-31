@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T20:05:51.449983
-image: assets/nirui_sshwifty--20250815T020136610--cropped.png
+date: 2025-08-15 20:05:51.449983
 ---
 
 # [nirui/sshwifty](https://github.com/nirui/sshwifty)

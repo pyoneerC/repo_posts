@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T21:19:16.221188
-image: assets/johnpc_BookGrab_cropped.png
+date: 2025-07-08 21:19:16.221188
 ---
 
 # [johnpc/BookGrab](https://github.com/johnpc/BookGrab)

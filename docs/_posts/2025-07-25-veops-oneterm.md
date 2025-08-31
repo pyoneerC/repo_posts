@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T01:20:31.329879
-image: assets/veops_oneterm_cropped.png
+date: 2025-07-25 01:20:31.329879
 ---
 
 # [veops/oneterm](https://github.com/veops/oneterm)

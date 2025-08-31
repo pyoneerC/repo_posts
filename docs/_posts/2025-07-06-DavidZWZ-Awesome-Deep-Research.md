@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T16:15:40.412502
-image: assets/DavidZWZ_Awesome-Deep-Research_cropped.png
+date: 2025-07-06 16:15:40.412502
 ---
 
 # [DavidZWZ/Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research)

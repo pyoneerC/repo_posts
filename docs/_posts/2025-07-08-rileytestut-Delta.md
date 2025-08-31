@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T18:17:42.190178
-image: assets/rileytestut_Delta_cropped.png
+date: 2025-07-08 18:17:42.190178
 ---
 
 # [rileytestut/Delta](https://github.com/rileytestut/Delta)

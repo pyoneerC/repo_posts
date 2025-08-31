@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-18T18:08:46.818938
-image: assets/mediar-ai_screenpipe_cropped.png
+date: 2025-02-18 18:08:46.818938
 ---
 
 # [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)

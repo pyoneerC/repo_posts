@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T10:22:51.513807
-image: assets/pingcap_tidb_cropped.png
+date: 2025-07-18 10:22:51.513807
 ---
 
 # [pingcap/tidb](https://github.com/pingcap/tidb)

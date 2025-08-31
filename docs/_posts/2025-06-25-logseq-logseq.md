@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T09:11:52.011287
-image: assets/logseq_logseq_cropped.png
+date: 2025-06-25 09:11:52.011287
 ---
 
 # [logseq/logseq](https://github.com/logseq/logseq)

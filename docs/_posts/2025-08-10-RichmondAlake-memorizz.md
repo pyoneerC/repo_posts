@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T09:00:39.761389
-image: assets/RichmondAlake_memorizz_cropped.png
+date: 2025-08-10 09:00:39.761389
 ---
 
 # [RichmondAlake/memorizz](https://github.com/RichmondAlake/memorizz)

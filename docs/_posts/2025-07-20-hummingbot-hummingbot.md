@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T14:21:43.522573
-image: assets/hummingbot_hummingbot_cropped.png
+date: 2025-07-20 14:21:43.522573
 ---
 
 # [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)

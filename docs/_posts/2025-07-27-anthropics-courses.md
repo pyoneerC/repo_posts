@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T15:53:26.605769
-image: assets/anthropics_courses_cropped.png
+date: 2025-07-27 15:53:26.605769
 ---
 
 # [anthropics/courses](https://github.com/anthropics/courses)

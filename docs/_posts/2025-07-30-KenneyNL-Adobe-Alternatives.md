@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T10:22:55.023565
-image: assets/KenneyNL_Adobe-Alternatives_cropped.png
+date: 2025-07-30 10:22:55.023565
 ---
 
 # [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)

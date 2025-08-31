@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-29T05:34:35.916084
-image: assets/20250829T023757755--mito-ds--mito--20250829T030317894--cropped.png
+date: 2025-08-29 05:34:35.916084
 ---
 
 # [mito-ds/mito](https://github.com/mito-ds/mito)

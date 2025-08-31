@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T03:19:01.685889
-image: assets/filebrowser_filebrowser_cropped.png
+date: 2025-07-02 03:19:01.685889
 ---
 
 # [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-25T09:11:16.114880
-image: assets/20250825T015041162--DeanWard--CaddyGen--20250825T015329173--cropped.png
+date: 2025-08-25 09:11:16.114880
 ---
 
 # [DeanWard/CaddyGen](https://github.com/DeanWard/CaddyGen)

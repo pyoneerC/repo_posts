@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T22:07:48.485796
-image: assets/Codehagen_Badget_cropped.png
+date: 2025-08-05 22:07:48.485796
 ---
 
 # [Codehagen/Badget](https://github.com/Codehagen/Badget)

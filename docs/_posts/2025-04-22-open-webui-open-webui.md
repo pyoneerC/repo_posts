@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T06:55:40.281095
-image: assets/open-webui_open-webui_cropped.png
+date: 2025-04-22 06:55:40.281095
 ---
 
 # [open-webui/open-webui](https://github.com/open-webui/open-webui)

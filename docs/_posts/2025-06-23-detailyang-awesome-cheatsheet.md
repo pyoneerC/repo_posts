@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T19:09:10.476222
-image: assets/detailyang_awesome-cheatsheet_cropped.png
+date: 2025-06-23 19:09:10.476222
 ---
 
 # [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)

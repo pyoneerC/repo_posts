@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T01:45:06.434409
-image: assets/vllm-project_vllm_cropped.png
+date: 2025-02-24 01:45:06.434409
 ---
 
 # [vllm-project/vllm](https://github.com/vllm-project/vllm)

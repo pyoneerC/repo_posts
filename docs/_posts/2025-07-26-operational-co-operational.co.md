@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T23:15:00.003996
-image: assets/operational-co_operational.co_cropped.png
+date: 2025-07-26 23:15:00.003996
 ---
 
 # [operational-co/operational.co](https://github.com/operational-co/operational.co)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T07:33:31.872023
-image: assets/gitroomhq_postiz-app_cropped.png
+date: 2025-07-03 07:33:31.872023
 ---
 
 # [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)

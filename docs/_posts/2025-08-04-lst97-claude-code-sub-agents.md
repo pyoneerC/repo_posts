@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T23:56:12.892662
-image: assets/lst97_claude-code-sub-agents_cropped.png
+date: 2025-08-04 23:56:12.892662
 ---
 
 # [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents)

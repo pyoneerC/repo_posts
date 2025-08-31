@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T07:19:07.522032
-image: assets/ChristosChristofidis_awesome-deep-learning_cropped.png
+date: 2025-06-23 07:19:07.522032
 ---
 
 # [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)

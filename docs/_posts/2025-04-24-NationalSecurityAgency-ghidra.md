@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T08:10:08.970156
-image: assets/NationalSecurityAgency_ghidra_cropped.png
+date: 2025-04-24 08:10:08.970156
 ---
 
 # [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)

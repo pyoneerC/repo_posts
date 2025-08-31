@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T01:32:49.283372
-image: assets/TecharoHQ_yeet_cropped.png
+date: 2025-07-17 01:32:49.283372
 ---
 
 # [TecharoHQ/yeet](https://github.com/TecharoHQ/yeet)

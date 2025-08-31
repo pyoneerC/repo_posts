@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-07T14:28:20.197515
-image: assets/spyboy-productions_CloakQuest3r_cropped.png
+date: 2025-08-07 14:28:20.197515
 ---
 
 # [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r)

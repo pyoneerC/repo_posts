@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-13T08:10:01.500713
-image: assets/jiaweing_DropDrawer_cropped.png
+date: 2025-07-13 08:10:01.500713
 ---
 
 # [jiaweing/DropDrawer](https://github.com/jiaweing/DropDrawer)

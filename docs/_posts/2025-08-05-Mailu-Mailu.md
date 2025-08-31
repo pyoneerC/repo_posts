@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T15:34:32.205221
-image: assets/Mailu_Mailu_cropped.png
+date: 2025-08-05 15:34:32.205221
 ---
 
 # [Mailu/Mailu](https://github.com/Mailu/Mailu)

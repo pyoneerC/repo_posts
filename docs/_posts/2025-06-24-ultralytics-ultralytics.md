@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T23:07:13.612160
-image: assets/ultralytics_ultralytics_cropped.png
+date: 2025-06-24 23:07:13.612160
 ---
 
 # [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)

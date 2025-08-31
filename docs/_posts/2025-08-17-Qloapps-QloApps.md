@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-17T18:28:27.446224
-image: assets/Qloapps_QloApps--20250816T054804727--cropped.png
+date: 2025-08-17 18:28:27.446224
 ---
 
 # [Qloapps/QloApps](https://github.com/Qloapps/QloApps)

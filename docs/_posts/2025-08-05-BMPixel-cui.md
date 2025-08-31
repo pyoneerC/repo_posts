@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T04:58:48.189262
-image: assets/BMPixel_cui_cropped.png
+date: 2025-08-05 04:58:48.189262
 ---
 
 # [BMPixel/cui](https://github.com/BMPixel/cui)

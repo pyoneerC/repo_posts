@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T23:30:28.698405
-image: assets/adnanh_webhook_cropped.png
+date: 2025-07-30 23:30:28.698405
 ---
 
 # [adnanh/webhook](https://github.com/adnanh/webhook)

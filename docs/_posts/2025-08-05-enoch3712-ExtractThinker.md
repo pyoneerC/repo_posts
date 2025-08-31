@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T17:05:17.833438
-image: assets/enoch3712_ExtractThinker_cropped.png
+date: 2025-08-05 17:05:17.833438
 ---
 
 # [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker)

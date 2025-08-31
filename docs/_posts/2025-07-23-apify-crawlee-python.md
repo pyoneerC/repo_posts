@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T05:56:30.777186
-image: assets/apify_crawlee-python_cropped.png
+date: 2025-07-23 05:56:30.777186
 ---
 
 # [apify/crawlee-python](https://github.com/apify/crawlee-python)

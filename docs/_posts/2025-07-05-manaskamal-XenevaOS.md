@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T23:06:38.133598
-image: assets/manaskamal_XenevaOS_cropped.png
+date: 2025-07-05 23:06:38.133598
 ---
 
 # [manaskamal/XenevaOS](https://github.com/manaskamal/XenevaOS)

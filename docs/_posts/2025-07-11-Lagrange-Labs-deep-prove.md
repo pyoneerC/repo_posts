@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T19:56:16.191594
-image: assets/Lagrange-Labs_deep-prove_cropped.png
+date: 2025-07-11 19:56:16.191594
 ---
 
 # [Lagrange-Labs/deep-prove](https://github.com/Lagrange-Labs/deep-prove)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-26T07:22:24.904510
-image: assets/20250825T030603256--abpframework--abp--20250825T031116278--cropped.png
+date: 2025-08-26 07:22:24.904510
 ---
 
 # [abpframework/abp](https://github.com/abpframework/abp)

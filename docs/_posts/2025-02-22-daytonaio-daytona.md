@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-22T21:55:01.180632
-image: assets/daytonaio_daytona_cropped.png
+date: 2025-02-22 21:55:01.180632
 ---
 
 # [daytonaio/daytona](https://github.com/daytonaio/daytona)

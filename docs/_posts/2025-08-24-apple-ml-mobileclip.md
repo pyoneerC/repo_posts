@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T14:32:21.812636
-image: assets/20250823T012512361--apple--ml-mobileclip--20250823T013152291--cropped.png
+date: 2025-08-24 14:32:21.812636
 ---
 
 # [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip)

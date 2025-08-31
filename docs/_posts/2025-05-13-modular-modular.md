@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-13T05:46:49.201013
-image: assets/modular_modular_cropped.png
+date: 2025-05-13 05:46:49.201013
 ---
 
 # [modular/modular](https://github.com/modular/modular)

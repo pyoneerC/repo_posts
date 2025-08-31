@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T12:00:54.089793
-image: assets/The-Cool-Coders_Project-Ideas-And-Resources_cropped.png
+date: 2025-07-05 12:00:54.089793
 ---
 
 # [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)

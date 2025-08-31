@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T09:58:06.184283
-image: assets/wanghongenpin_proxypin_cropped.png
+date: 2025-06-22 09:58:06.184283
 ---
 
 # [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)

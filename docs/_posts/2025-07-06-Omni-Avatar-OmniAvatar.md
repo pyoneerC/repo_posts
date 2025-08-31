@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T22:49:11.290786
-image: assets/Omni-Avatar_OmniAvatar_cropped.png
+date: 2025-07-06 22:49:11.290786
 ---
 
 # [Omni-Avatar/OmniAvatar](https://github.com/Omni-Avatar/OmniAvatar)

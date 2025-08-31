@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T09:54:41.920590
-image: assets/StellarSand_privacy-settings--20250812T001206--cropped.png
+date: 2025-08-12 09:54:41.920590
 ---
 
 # [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings)

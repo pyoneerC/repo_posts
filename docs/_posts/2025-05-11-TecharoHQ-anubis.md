@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-11T16:04:59.795927
-image: assets/TecharoHQ_anubis_cropped.png
+date: 2025-05-11 16:04:59.795927
 ---
 
 # [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)

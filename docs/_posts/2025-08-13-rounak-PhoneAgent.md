@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-13T17:41:20.503105
-image: assets/rounak_PhoneAgent--20250812T233612--cropped.png
+date: 2025-08-13 17:41:20.503105
 ---
 
 # [rounak/PhoneAgent](https://github.com/rounak/PhoneAgent)

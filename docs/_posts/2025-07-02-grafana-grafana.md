@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T07:21:00.023927
-image: assets/grafana_grafana_cropped.png
+date: 2025-07-02 07:21:00.023927
 ---
 
 # [grafana/grafana](https://github.com/grafana/grafana)

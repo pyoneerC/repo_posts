@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T20:47:12.314707
-image: assets/robert-mcdermott_ai-knowledge-graph_cropped.png
+date: 2025-06-25 20:47:12.314707
 ---
 
 # [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T02:24:26.715124
-image: assets/joanrod_star-vector_cropped.png
+date: 2025-04-20 02:24:26.715124
 ---
 
 # [joanrod/star-vector](https://github.com/joanrod/star-vector)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T12:43:34.798442
-image: assets/CyberAlbSecOP_Awesome_GPT_Super_Prompting_cropped.png
+date: 2025-07-24 12:43:34.798442
 ---
 
 # [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)

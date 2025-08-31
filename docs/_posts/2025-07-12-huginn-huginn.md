@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T20:34:07.995172
-image: assets/huginn_huginn_cropped.png
+date: 2025-07-12 20:34:07.995172
 ---
 
 # [huginn/huginn](https://github.com/huginn/huginn)

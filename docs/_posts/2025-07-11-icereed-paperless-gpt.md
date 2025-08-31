@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T14:23:36.089623
-image: assets/icereed_paperless-gpt_cropped.png
+date: 2025-07-11 14:23:36.089623
 ---
 
 # [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt)

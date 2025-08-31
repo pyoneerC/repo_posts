@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T23:09:57.748316
-image: assets/lanedirt_AliasVault_cropped.png
+date: 2025-07-21 23:09:57.748316
 ---
 
 # [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault)

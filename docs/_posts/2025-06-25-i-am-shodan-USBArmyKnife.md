@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T13:43:51.787482
-image: assets/i-am-shodan_USBArmyKnife_cropped.png
+date: 2025-06-25 13:43:51.787482
 ---
 
 # [i-am-shodan/USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife)

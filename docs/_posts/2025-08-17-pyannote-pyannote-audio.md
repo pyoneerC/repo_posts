@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-17T07:23:11.886906
-image: assets/pyannote_pyannote-audio--20250816T044948776--cropped.png
+date: 2025-08-17 07:23:11.886906
 ---
 
 # [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)

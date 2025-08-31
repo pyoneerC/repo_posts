@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-07T10:26:23.591614
-image: assets/bypirob_airo_cropped.png
+date: 2025-08-07 10:26:23.591614
 ---
 
 # [bypirob/airo](https://github.com/bypirob/airo)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T22:01:24.249498
-image: assets/20250810T053926--NoCLin--LightMirrors--20250812T005810--cropped.png
+date: 2025-08-12 22:01:24.249498
 ---
 
 # [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors)

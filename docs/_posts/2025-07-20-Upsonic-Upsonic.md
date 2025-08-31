@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T05:46:43.859057
-image: assets/Upsonic_Upsonic_cropped.png
+date: 2025-07-20 05:46:43.859057
 ---
 
 # [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic)

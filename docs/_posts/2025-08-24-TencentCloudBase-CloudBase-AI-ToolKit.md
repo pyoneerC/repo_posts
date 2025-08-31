@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T05:57:16.723331
-image: assets/20250822T025944322--TencentCloudBase--CloudBase-AI-ToolKit--20250822T030551336--cropped.png
+date: 2025-08-24 05:57:16.723331
 ---
 
 # [TencentCloudBase/CloudBase-AI-ToolKit](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit)

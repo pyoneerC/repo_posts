@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T23:33:08.562644
-image: assets/LibreTranslate_LibreTranslate_cropped.png
+date: 2025-07-09 23:33:08.562644
 ---
 
 # [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)

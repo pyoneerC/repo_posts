@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T03:08:32.736545
-image: assets/Jieyab89_OSINT-Cheat-sheet_cropped.png
+date: 2025-07-24 03:08:32.736545
 ---
 
 # [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T20:35:52.154853
-image: assets/LAION-AI_Open-Assistant_cropped.png
+date: 2025-06-22 20:35:52.154853
 ---
 
 # [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)

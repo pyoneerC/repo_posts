@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T09:02:26.233849
-image: assets/ihmily_DouyinLiveRecorder_cropped.png
+date: 2025-07-21 09:02:26.233849
 ---
 
 # [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)

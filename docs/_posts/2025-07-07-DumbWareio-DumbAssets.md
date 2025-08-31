@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T17:59:52.360701
-image: assets/DumbWareio_DumbAssets_cropped.png
+date: 2025-07-07 17:59:52.360701
 ---
 
 # [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets)

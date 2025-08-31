@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T07:34:25.941804
-image: assets/surrealdb_surrealdb_cropped.png
+date: 2025-06-24 07:34:25.941804
 ---
 
 # [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T13:58:14.260943
-image: assets/RapidAI_RapidOCR_cropped.png
+date: 2025-07-09 13:58:14.260943
 ---
 
 # [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR)

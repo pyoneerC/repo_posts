@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T20:30:32.256091
-image: assets/Flagsmith_flagsmith_cropped.png
+date: 2025-07-25 20:30:32.256091
 ---
 
 # [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T23:46:17.209234
-image: assets/shenwei356_ClipboardTextJoiner_cropped.png
+date: 2025-06-19 23:46:17.209234
 ---
 
 # [shenwei356/ClipboardTextJoiner](https://github.com/shenwei356/ClipboardTextJoiner)

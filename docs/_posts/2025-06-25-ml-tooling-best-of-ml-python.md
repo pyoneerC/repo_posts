@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T21:17:27.399651
-image: assets/ml-tooling_best-of-ml-python_cropped.png
+date: 2025-06-25 21:17:27.399651
 ---
 
 # [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)

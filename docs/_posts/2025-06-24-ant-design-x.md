@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T09:35:16.153260
-image: assets/ant-design_x_cropped.png
+date: 2025-06-24 09:35:16.153260
 ---
 
 # [ant-design/x](https://github.com/ant-design/x)

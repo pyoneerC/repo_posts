@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-11T20:07:43.090090
-image: assets/QwenLM_Qwen-Agent_cropped.png
+date: 2025-05-11 20:07:43.090090
 ---
 
 # [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)

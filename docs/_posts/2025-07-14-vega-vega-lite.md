@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T06:51:54.632283
-image: assets/vega_vega-lite_cropped.png
+date: 2025-07-14 06:51:54.632283
 ---
 
 # [vega/vega-lite](https://github.com/vega/vega-lite)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T08:34:05.679408
-image: assets/srbhptl39_MCP-SuperAssistant_cropped.png
+date: 2025-07-19 08:34:05.679408
 ---
 
 # [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant)

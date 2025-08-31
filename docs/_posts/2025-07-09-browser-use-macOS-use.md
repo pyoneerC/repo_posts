@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T14:28:28.602572
-image: assets/browser-use_macOS-use_cropped.png
+date: 2025-07-09 14:28:28.602572
 ---
 
 # [browser-use/macOS-use](https://github.com/browser-use/macOS-use)

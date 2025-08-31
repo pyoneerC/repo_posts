@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-30T04:21:11.248693
-image: assets/20250830T030835665--HKUDS--DeepCode--20250830T032209075--cropped.png
+date: 2025-08-30 04:21:11.248693
 ---
 
 # [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)

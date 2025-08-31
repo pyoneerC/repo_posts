@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T13:15:25.235278
-image: assets/vkhamesi_ocpdet_cropped.png
+date: 2025-08-06 13:15:25.235278
 ---
 
 # [vkhamesi/ocpdet](https://github.com/vkhamesi/ocpdet)

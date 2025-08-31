@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T04:14:05.413611
-image: assets/mitchellh_libxev_cropped.png
+date: 2025-07-04 04:14:05.413611
 ---
 
 # [mitchellh/libxev](https://github.com/mitchellh/libxev)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T12:39:23.062405
-image: assets/geerlingguy_mini-rack_cropped.png
+date: 2025-07-26 12:39:23.062405
 ---
 
 # [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack)

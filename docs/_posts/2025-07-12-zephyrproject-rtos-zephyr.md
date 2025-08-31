@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T12:04:58.578247
-image: assets/zephyrproject-rtos_zephyr_cropped.png
+date: 2025-07-12 12:04:58.578247
 ---
 
 # [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-17T00:41:03.034156
-image: assets/aaPanel_BillionMail_cropped.png
+date: 2025-06-17 00:41:03.034156
 ---
 
 # [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail)

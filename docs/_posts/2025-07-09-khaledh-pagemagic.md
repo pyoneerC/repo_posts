@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T19:00:33.280302
-image: assets/khaledh_pagemagic_cropped.png
+date: 2025-07-09 19:00:33.280302
 ---
 
 # [khaledh/pagemagic](https://github.com/khaledh/pagemagic)

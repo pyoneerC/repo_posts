@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T19:48:33.719707
-image: assets/LibrePhotos_librephotos_cropped.png
+date: 2025-08-06 19:48:33.719707
 ---
 
 # [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)

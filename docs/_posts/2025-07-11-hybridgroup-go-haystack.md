@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T23:28:22.128506
-image: assets/hybridgroup_go-haystack_cropped.png
+date: 2025-07-11 23:28:22.128506
 ---
 
 # [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack)

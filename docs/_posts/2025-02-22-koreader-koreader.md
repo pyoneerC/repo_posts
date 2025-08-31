@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-22T19:23:13.927731
-image: assets/koreader_koreader_cropped.png
+date: 2025-02-22 19:23:13.927731
 ---
 
 # [koreader/koreader](https://github.com/koreader/koreader)

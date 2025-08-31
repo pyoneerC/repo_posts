@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T03:14:46.367254
-image: assets/CorentinTh_enclosed_cropped.png
+date: 2025-07-20 03:14:46.367254
 ---
 
 # [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed)

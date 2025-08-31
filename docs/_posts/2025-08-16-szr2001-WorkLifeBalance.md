@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T14:44:28.509020
-image: assets/20250816T004410045_szr2001_WorkLifeBalance--20250816T004552905--cropped.png
+date: 2025-08-16 14:44:28.509020
 ---
 
 # [szr2001/WorkLifeBalance](https://github.com/szr2001/WorkLifeBalance)

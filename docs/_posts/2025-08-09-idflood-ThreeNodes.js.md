@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T21:25:38.365291
-image: assets/idflood_ThreeNodes.js_cropped.png
+date: 2025-08-09 21:25:38.365291
 ---
 
 # [idflood/ThreeNodes.js](https://github.com/idflood/ThreeNodes.js)

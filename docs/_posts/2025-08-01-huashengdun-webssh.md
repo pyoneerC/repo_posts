@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T01:14:08.239353
-image: assets/huashengdun_webssh_cropped.png
+date: 2025-08-01 01:14:08.239353
 ---
 
 # [huashengdun/webssh](https://github.com/huashengdun/webssh)

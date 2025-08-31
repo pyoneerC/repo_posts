@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T14:56:00.541691
-image: assets/ByteDance-Seed_Bagel_cropped.png
+date: 2025-07-16 14:56:00.541691
 ---
 
 # [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel)

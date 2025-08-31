@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T09:39:20.928388
-image: assets/FiloSottile_mkcert_cropped.png
+date: 2025-06-19 09:39:20.928388
 ---
 
 # [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)

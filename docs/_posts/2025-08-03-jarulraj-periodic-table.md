@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T13:54:44.833286
-image: assets/jarulraj_periodic-table_cropped.png
+date: 2025-08-03 13:54:44.833286
 ---
 
 # [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T13:14:56.215957
-image: assets/apache_superset_cropped.png
+date: 2025-07-08 13:14:56.215957
 ---
 
 # [apache/superset](https://github.com/apache/superset)

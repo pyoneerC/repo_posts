@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T07:41:12.203761
-image: assets/Project-MONAI_MONAI_cropped.png
+date: 2025-06-25 07:41:12.203761
 ---
 
 # [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI)

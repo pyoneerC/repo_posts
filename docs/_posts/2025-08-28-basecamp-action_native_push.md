@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-28T15:54:51.179686
-image: assets/20250827T221027122--basecamp--action_native_push--20250827T221435992--cropped.png
+date: 2025-08-28 15:54:51.179686
 ---
 
 # [basecamp/action_native_push](https://github.com/basecamp/action_native_push)

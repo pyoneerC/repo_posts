@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T13:31:39.360212
-image: assets/swagger-api_swagger-ui_cropped.png
+date: 2025-07-05 13:31:39.360212
 ---
 
 # [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T23:05:25.236478
-image: assets/open-webui_openapi-servers_cropped.png
+date: 2025-07-12 23:05:25.236478
 ---
 
 # [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers)

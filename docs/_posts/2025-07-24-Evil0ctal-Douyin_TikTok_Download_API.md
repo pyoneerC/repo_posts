@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T18:16:34.876817
-image: assets/Evil0ctal_Douyin_TikTok_Download_API_cropped.png
+date: 2025-07-24 18:16:34.876817
 ---
 
 # [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)

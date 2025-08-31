@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T20:18:47.172587
-image: assets/clash-verge-rev_clash-verge-rev_cropped.png
+date: 2025-08-06 20:18:47.172587
 ---
 
 # [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T19:02:39.540647
-image: assets/20250818T115214686_dullage_flatnotes--20250818T115554101--cropped.png
+date: 2025-08-19 19:02:39.540647
 ---
 
 # [dullage/flatnotes](https://github.com/dullage/flatnotes)

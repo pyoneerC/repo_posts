@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-28T03:29:57.714286
-image: assets/designcombo_react-video-editor_cropped.png
+date: 2025-07-28 03:29:57.714286
 ---
 
 # [designcombo/react-video-editor](https://github.com/designcombo/react-video-editor)

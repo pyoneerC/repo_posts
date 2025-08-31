@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T09:07:16.535512
-image: assets/DataTalksClub_data-engineering-zoomcamp_cropped.png
+date: 2025-04-26 09:07:16.535512
 ---
 
 # [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)

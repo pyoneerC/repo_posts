@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-07T13:22:51.308997
-image: assets/containerd_containerd_cropped.png
+date: 2025-05-07 13:22:51.308997
 ---
 
 # [containerd/containerd](https://github.com/containerd/containerd)

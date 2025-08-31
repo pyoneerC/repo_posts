@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-15T22:15:56.678513
-image: assets/lutzroeder_netron_cropped.png
+date: 2025-07-15 22:15:56.678513
 ---
 
 # [lutzroeder/netron](https://github.com/lutzroeder/netron)

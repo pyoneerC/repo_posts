@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T12:39:43.653899
-image: assets/secdev_scapy_cropped.png
+date: 2025-07-10 12:39:43.653899
 ---
 
 # [secdev/scapy](https://github.com/secdev/scapy)

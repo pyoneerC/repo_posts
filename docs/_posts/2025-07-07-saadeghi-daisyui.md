@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T03:21:29.163655
-image: assets/saadeghi_daisyui_cropped.png
+date: 2025-07-07 03:21:29.163655
 ---
 
 # [saadeghi/daisyui](https://github.com/saadeghi/daisyui)

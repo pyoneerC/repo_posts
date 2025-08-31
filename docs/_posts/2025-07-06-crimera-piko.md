@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T11:43:23.824149
-image: assets/crimera_piko_cropped.png
+date: 2025-07-06 11:43:23.824149
 ---
 
 # [crimera/piko](https://github.com/crimera/piko)

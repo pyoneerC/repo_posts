@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T16:01:04.520385
-image: assets/20250818T114143100_pdfarranger_pdfarranger--20250818T114712982--cropped.png
+date: 2025-08-19 16:01:04.520385
 ---
 
 # [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)

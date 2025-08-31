@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T16:47:56.226633
-image: assets/sourcebot-dev_sourcebot_cropped.png
+date: 2025-02-24 16:47:56.226633
 ---
 
 # [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot)

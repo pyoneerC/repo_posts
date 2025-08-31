@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T20:44:48.975392
-image: assets/SikandarJODD_svelte-animations_cropped.png
+date: 2025-06-19 20:44:48.975392
 ---
 
 # [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations)

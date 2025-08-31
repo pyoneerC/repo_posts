@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T02:23:12.802990
-image: assets/geldata_gel_cropped.png
+date: 2025-04-22 02:23:12.802990
 ---
 
 # [geldata/gel](https://github.com/geldata/gel)

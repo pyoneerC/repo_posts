@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T13:28:20.101295
-image: assets/gravitl_netmaker_cropped.png
+date: 2025-04-25 13:28:20.101295
 ---
 
 # [gravitl/netmaker](https://github.com/gravitl/netmaker)

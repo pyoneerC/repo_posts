@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T11:23:35.664578
-image: assets/saltcorn_saltcorn_cropped.png
+date: 2025-08-03 11:23:35.664578
 ---
 
 # [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn)

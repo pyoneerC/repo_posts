@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T13:21:50.052069
-image: assets/kellyjonbrazil_jc_cropped.png
+date: 2025-06-23 13:21:50.052069
 ---
 
 # [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc)

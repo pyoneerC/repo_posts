@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T20:05:52.489900
-image: assets/afadil_wealthfolio_cropped.png
+date: 2025-06-21 20:05:52.489900
 ---
 
 # [afadil/wealthfolio](https://github.com/afadil/wealthfolio)

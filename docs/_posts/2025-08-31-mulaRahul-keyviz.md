@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T04:37:40.828815
-image: assets/20250830T051421657--mulaRahul--keyviz--20250830T052111681--cropped.png
+date: 2025-08-31 04:37:40.828815
 ---
 
 # [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz)

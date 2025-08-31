@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T20:08:58.691544
-image: assets/vijaythecoder_awesome-claude-agents_cropped.png
+date: 2025-08-02 20:08:58.691544
 ---
 
 # [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)

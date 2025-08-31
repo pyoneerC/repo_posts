@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-23T07:31:28.336871
-image: assets/openauthjs_openauth_cropped.png
+date: 2025-02-23 07:31:28.336871
 ---
 
 # [openauthjs/openauth](https://github.com/openauthjs/openauth)

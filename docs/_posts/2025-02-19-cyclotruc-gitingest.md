@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-19T04:48:17.333834
-image: assets/cyclotruc_gitingest_cropped.png
+date: 2025-02-19 04:48:17.333834
 ---
 
 # [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T22:52:51.681410
-image: assets/qdm12_ddns-updater_cropped.png
+date: 2025-07-22 22:52:51.681410
 ---
 
 # [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater)

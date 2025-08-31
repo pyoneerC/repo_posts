@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T11:34:43.518017
-image: assets/haris-musa_excel-mcp-server_cropped.png
+date: 2025-07-12 11:34:43.518017
 ---
 
 # [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)

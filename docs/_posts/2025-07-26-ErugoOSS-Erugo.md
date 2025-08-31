@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T14:10:08.851625
-image: assets/ErugoOSS_Erugo_cropped.png
+date: 2025-07-26 14:10:08.851625
 ---
 
 # [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)

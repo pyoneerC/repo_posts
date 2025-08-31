@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T14:14:05.076034
-image: assets/GopeedLab_gopeed_cropped.png
+date: 2025-06-25 14:14:05.076034
 ---
 
 # [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)

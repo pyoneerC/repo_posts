@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T11:38:51.606629
-image: assets/tolgee_tolgee-platform_cropped.png
+date: 2025-07-26 11:38:51.606629
 ---
 
 # [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)

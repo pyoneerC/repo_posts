@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T08:04:58.977467
-image: assets/travisvn_gptree--20250817T074026109--cropped.png
+date: 2025-08-18 08:04:58.977467
 ---
 
 # [travisvn/gptree](https://github.com/travisvn/gptree)

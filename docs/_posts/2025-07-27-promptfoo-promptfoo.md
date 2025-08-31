@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T17:54:36.978171
-image: assets/promptfoo_promptfoo_cropped.png
+date: 2025-07-27 17:54:36.978171
 ---
 
 # [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)

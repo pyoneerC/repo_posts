@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T01:41:21.844474
-image: assets/mifi_lossless-cut_cropped.png
+date: 2025-07-22 01:41:21.844474
 ---
 
 # [mifi/lossless-cut](https://github.com/mifi/lossless-cut)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T13:51:36.436031
-image: assets/chroma-core_chroma-mcp_cropped.png
+date: 2025-08-09 13:51:36.436031
 ---
 
 # [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp)

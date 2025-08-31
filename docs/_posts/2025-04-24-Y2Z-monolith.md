@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T16:44:31.758829
-image: assets/Y2Z_monolith_cropped.png
+date: 2025-04-24 16:44:31.758829
 ---
 
 # [Y2Z/monolith](https://github.com/Y2Z/monolith)

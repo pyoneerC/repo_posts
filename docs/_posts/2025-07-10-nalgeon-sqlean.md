@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T05:36:14.699888
-image: assets/nalgeon_sqlean_cropped.png
+date: 2025-07-10 05:36:14.699888
 ---
 
 # [nalgeon/sqlean](https://github.com/nalgeon/sqlean)

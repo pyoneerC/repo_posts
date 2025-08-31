@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-23T12:04:38.920005
-image: assets/krayin_laravel-crm_cropped.png
+date: 2025-02-23 12:04:38.920005
 ---
 
 # [krayin/laravel-crm](https://github.com/krayin/laravel-crm)

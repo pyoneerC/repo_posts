@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-25T06:09:50.649928
-image: assets/20250823T012108650--Textualize--textual--20250825T013549171--cropped.png
+date: 2025-08-25 06:09:50.649928
 ---
 
 # [Textualize/textual](https://github.com/Textualize/textual)

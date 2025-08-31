@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T06:58:29.954938
-image: assets/newren_git-filter-repo_cropped.png
+date: 2025-07-05 06:58:29.954938
 ---
 
 # [newren/git-filter-repo](https://github.com/newren/git-filter-repo)

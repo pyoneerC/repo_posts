@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-20T15:41:21.354665
-image: assets/dvershinin_gixy_cropped.png
+date: 2025-02-20 15:41:21.354665
 ---
 
 # [dvershinin/gixy](https://github.com/dvershinin/gixy)

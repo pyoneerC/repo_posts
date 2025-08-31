@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-18T21:10:56.339234
-image: assets/comet-ml_opik_cropped.png
+date: 2025-02-18 21:10:56.339234
 ---
 
 # [comet-ml/opik](https://github.com/comet-ml/opik)

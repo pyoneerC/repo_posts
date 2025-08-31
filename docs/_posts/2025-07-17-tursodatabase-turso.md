@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T04:04:14.783772
-image: assets/tursodatabase_turso_cropped.png
+date: 2025-07-17 04:04:14.783772
 ---
 
 # [tursodatabase/turso](https://github.com/tursodatabase/turso)

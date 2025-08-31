@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T16:53:28.617239
-image: assets/zudochkin_awesome-newsletters_cropped.png
+date: 2025-06-23 16:53:28.617239
 ---
 
 # [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)

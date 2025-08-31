@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T15:37:34.089075
-image: assets/good-lly_s3mini_cropped.png
+date: 2025-07-03 15:37:34.089075
 ---
 
 # [good-lly/s3mini](https://github.com/good-lly/s3mini)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-22T09:04:27.667977
-image: assets/20250820T141916669--logdyhq--logdy-core--20250820T142409189--cropped.png
+date: 2025-08-22 09:04:27.667977
 ---
 
 # [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core)

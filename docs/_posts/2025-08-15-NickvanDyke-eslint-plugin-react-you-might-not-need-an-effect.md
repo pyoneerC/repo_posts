@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T15:03:28.765162
-image: assets/NickvanDyke_eslint-plugin-react-you-might-not-need-an-effect--20250815T015335279--cropped.png
+date: 2025-08-15 15:03:28.765162
 ---
 
 # [NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect)

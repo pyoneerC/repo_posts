@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-13T01:06:24.082244
-image: assets/fastrepl_hyprnote_cropped.png
+date: 2025-07-13 01:06:24.082244
 ---
 
 # [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)

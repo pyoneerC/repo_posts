@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-07T04:53:49.139394
-image: assets/butlerx_wetty_cropped.png
+date: 2025-08-07 04:53:49.139394
 ---
 
 # [butlerx/wetty](https://github.com/butlerx/wetty)

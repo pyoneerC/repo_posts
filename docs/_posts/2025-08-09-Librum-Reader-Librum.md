@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T17:23:45.655375
-image: assets/Librum-Reader_Librum_cropped.png
+date: 2025-08-09 17:23:45.655375
 ---
 
 # [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum)

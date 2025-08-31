@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T00:47:49.347078
-image: assets/CesiumGS_cesium_cropped.png
+date: 2025-07-16 00:47:49.347078
 ---
 
 # [CesiumGS/cesium](https://github.com/CesiumGS/cesium)

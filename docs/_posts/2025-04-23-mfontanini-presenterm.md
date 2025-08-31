@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-23T03:00:22.138430
-image: assets/mfontanini_presenterm_cropped.png
+date: 2025-04-23 03:00:22.138430
 ---
 
 # [mfontanini/presenterm](https://github.com/mfontanini/presenterm)

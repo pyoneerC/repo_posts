@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T07:41:20.820409
-image: assets/idosal_mcp-ui--20250815T023151038--cropped.png
+date: 2025-08-16 07:41:20.820409
 ---
 
 # [idosal/mcp-ui](https://github.com/idosal/mcp-ui)

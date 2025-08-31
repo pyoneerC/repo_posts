@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-21T21:28:49.953809
-image: assets/20250818T124909636_simple-login_app--20250820T134747995--cropped.png
+date: 2025-08-21 21:28:49.953809
 ---
 
 # [simple-login/app](https://github.com/simple-login/app)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T09:51:16.495404
-image: assets/evroon_bracket_cropped.png
+date: 2025-05-12 09:51:16.495404
 ---
 
 # [evroon/bracket](https://github.com/evroon/bracket)

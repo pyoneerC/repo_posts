@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T05:48:17.751977
-image: assets/Haxxnet_Compose-Examples_cropped.png
+date: 2025-07-27 05:48:17.751977
 ---
 
 # [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples)

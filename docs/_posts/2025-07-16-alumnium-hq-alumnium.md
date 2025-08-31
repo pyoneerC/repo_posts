@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T13:55:17.520186
-image: assets/alumnium-hq_alumnium_cropped.png
+date: 2025-07-16 13:55:17.520186
 ---
 
 # [alumnium-hq/alumnium](https://github.com/alumnium-hq/alumnium)

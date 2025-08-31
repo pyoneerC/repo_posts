@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T10:58:32.278840
-image: assets/overleaf_overleaf_cropped.png
+date: 2025-06-22 10:58:32.278840
 ---
 
 # [overleaf/overleaf](https://github.com/overleaf/overleaf)

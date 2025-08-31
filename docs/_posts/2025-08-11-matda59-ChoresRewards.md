@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T15:45:22.487174
-image: assets/matda59_ChoresRewards_cropped.png
+date: 2025-08-11 15:45:22.487174
 ---
 
 # [matda59/ChoresRewards](https://github.com/matda59/ChoresRewards)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T07:08:51.591095
-image: assets/20250830T092026872--quadratichq--quadratic--20250830T115518251--cropped.png
+date: 2025-08-31 07:08:51.591095
 ---
 
 # [quadratichq/quadratic](https://github.com/quadratichq/quadratic)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T12:20:10.289528
-image: assets/oomol-lab_pdf-craft_cropped.png
+date: 2025-07-20 12:20:10.289528
 ---
 
 # [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft)

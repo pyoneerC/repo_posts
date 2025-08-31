@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-20T01:47:09.514396
-image: assets/postlund_pyatv_cropped.png
+date: 2025-06-20 01:47:09.514396
 ---
 
 # [postlund/pyatv](https://github.com/postlund/pyatv)

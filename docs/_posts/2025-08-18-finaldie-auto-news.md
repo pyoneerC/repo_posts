@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T13:37:44.008469
-image: assets/finaldie_auto-news--20250817T080503977--cropped.png
+date: 2025-08-18 13:37:44.008469
 ---
 
 # [finaldie/auto-news](https://github.com/finaldie/auto-news)

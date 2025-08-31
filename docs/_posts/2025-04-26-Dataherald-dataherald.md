@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T19:13:28.840299
-image: assets/Dataherald_dataherald_cropped.png
+date: 2025-04-26 19:13:28.840299
 ---
 
 # [Dataherald/dataherald](https://github.com/Dataherald/dataherald)

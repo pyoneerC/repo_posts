@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-28T01:36:09.498987
-image: assets/tysonthomas9_browser-operator-devtools-frontend_cropped.png
+date: 2025-06-28 01:36:09.498987
 ---
 
 # [tysonthomas9/browser-operator-devtools-frontend](https://github.com/tysonthomas9/browser-operator-devtools-frontend)

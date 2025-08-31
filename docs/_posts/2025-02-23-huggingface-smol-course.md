@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-23T23:13:24.591208
-image: assets/huggingface_smol-course_cropped.png
+date: 2025-02-23 23:13:24.591208
 ---
 
 # [huggingface/smol-course](https://github.com/huggingface/smol-course)

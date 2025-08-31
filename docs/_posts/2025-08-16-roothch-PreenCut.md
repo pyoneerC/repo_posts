@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T01:08:16.982266
-image: assets/roothch_PreenCut--20250815T021355725--cropped.png
+date: 2025-08-16 01:08:16.982266
 ---
 
 # [roothch/PreenCut](https://github.com/roothch/PreenCut)

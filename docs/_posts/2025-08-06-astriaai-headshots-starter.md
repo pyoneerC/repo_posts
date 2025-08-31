@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T04:40:51.046441
-image: assets/astriaai_headshots-starter_cropped.png
+date: 2025-08-06 04:40:51.046441
 ---
 
 # [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter)

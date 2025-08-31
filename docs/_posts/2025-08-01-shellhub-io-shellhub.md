@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T12:50:29.717130
-image: assets/shellhub-io_shellhub_cropped.png
+date: 2025-08-01 12:50:29.717130
 ---
 
 # [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T01:12:36.285701
-image: assets/poteto_hiring-without-whiteboards_cropped.png
+date: 2025-06-24 01:12:36.285701
 ---
 
 # [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)

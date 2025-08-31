@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T08:32:03.374738
-image: assets/EinGuterWaran_awesome-opensource-boilerplates_cropped.png
+date: 2025-08-02 08:32:03.374738
 ---
 
 # [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates)

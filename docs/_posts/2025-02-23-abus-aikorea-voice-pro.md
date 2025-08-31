@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-23T00:57:07.134277
-image: assets/abus-aikorea_voice-pro_cropped.png
+date: 2025-02-23 00:57:07.134277
 ---
 
 # [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)

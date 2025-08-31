@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T07:19:47.635523
-image: assets/HqWu-HITCS_Awesome-LLM-Survey_cropped.png
+date: 2025-05-12 07:19:47.635523
 ---
 
 # [HqWu-HITCS/Awesome-LLM-Survey](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)

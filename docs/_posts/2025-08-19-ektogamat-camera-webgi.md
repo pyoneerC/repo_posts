@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T20:33:24.648894
-image: assets/20250818T115418773_ektogamat_camera-webgi--20250818T115949409--cropped.png
+date: 2025-08-19 20:33:24.648894
 ---
 
 # [ektogamat/camera-webgi](https://github.com/ektogamat/camera-webgi)

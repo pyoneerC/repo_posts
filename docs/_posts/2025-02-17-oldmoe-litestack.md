@@ -1,8 +1,6 @@
 ---
-layout: default
-title: "oldmoe/litestack"
-date: 2025-02-17T08:16:17.466299
-image: assets/oldmoe_litestack_cropped.png
+title: oldmoe/litestack
+date: 2025-02-17 08:16:17.466299
 ---
 
 Ruby gem for data infrastructure

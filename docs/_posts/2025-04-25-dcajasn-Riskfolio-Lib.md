@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T07:25:02.416562
-image: assets/dcajasn_Riskfolio-Lib_cropped.png
+date: 2025-04-25 07:25:02.416562
 ---
 
 # [dcajasn/Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T22:37:16.918729
-image: assets/mendableai_firecrawl_cropped.png
+date: 2025-04-22 22:37:16.918729
 ---
 
 # [mendableai/firecrawl](https://github.com/mendableai/firecrawl)

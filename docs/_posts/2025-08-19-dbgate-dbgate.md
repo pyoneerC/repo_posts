@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T14:30:16.604105
-image: assets/20250818T114120730_dbgate_dbgate--20250818T114524132--cropped.png
+date: 2025-08-19 14:30:16.604105
 ---
 
 # [dbgate/dbgate](https://github.com/dbgate/dbgate)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T01:07:57.420688
-image: assets/nautechsystems_nautilus_trader_cropped.png
+date: 2025-06-27 01:07:57.420688
 ---
 
 # [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)

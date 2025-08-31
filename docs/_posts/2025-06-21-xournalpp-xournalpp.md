@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T10:01:12.378904
-image: assets/xournalpp_xournalpp_cropped.png
+date: 2025-06-21 10:01:12.378904
 ---
 
 # [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)

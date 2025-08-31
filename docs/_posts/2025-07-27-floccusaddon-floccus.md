@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T15:23:06.366485
-image: assets/floccusaddon_floccus_cropped.png
+date: 2025-07-27 15:23:06.366485
 ---
 
 # [floccusaddon/floccus](https://github.com/floccusaddon/floccus)

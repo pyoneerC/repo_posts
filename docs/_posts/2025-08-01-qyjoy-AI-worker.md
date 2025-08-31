@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T21:25:37.919825
-image: assets/qyjoy_AI-worker_cropped.png
+date: 2025-08-01 21:25:37.919825
 ---
 
 # [qyjoy/AI-worker](https://github.com/qyjoy/AI-worker)

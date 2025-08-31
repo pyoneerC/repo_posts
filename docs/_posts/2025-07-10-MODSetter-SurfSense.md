@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T01:34:10.789320
-image: assets/MODSetter_SurfSense_cropped.png
+date: 2025-07-10 01:34:10.789320
 ---
 
 # [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)

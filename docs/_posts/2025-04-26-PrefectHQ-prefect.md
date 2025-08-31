@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T11:38:44.487341
-image: assets/PrefectHQ_prefect_cropped.png
+date: 2025-04-26 11:38:44.487341
 ---
 
 # [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)

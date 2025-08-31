@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T03:18:46.502667
-image: assets/mrousavy_react-native-vision-camera_cropped.png
+date: 2025-07-18 03:18:46.502667
 ---
 
 # [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)

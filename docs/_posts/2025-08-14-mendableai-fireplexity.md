@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T23:56:14.288330
-image: assets/mendableai_fireplexity--20250814T050433558--cropped.png
+date: 2025-08-14 23:56:14.288330
 ---
 
 # [mendableai/fireplexity](https://github.com/mendableai/fireplexity)

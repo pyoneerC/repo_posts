@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T17:32:49.937414
-image: assets/getredash_redash_cropped.png
+date: 2025-07-23 17:32:49.937414
 ---
 
 # [getredash/redash](https://github.com/getredash/redash)

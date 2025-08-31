@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T21:43:19.231606
-image: assets/haystackeditor_haystack-editor_cropped.png
+date: 2025-08-03 21:43:19.231606
 ---
 
 # [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor)

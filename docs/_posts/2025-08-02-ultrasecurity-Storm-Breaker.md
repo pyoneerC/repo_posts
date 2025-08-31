@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T18:07:30.309299
-image: assets/ultrasecurity_Storm-Breaker_cropped.png
+date: 2025-08-02 18:07:30.309299
 ---
 
 # [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)

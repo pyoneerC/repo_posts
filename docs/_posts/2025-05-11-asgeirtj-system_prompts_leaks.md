@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-11T18:36:40.516746
-image: assets/asgeirtj_system_prompts_leaks_cropped.png
+date: 2025-05-11 18:36:40.516746
 ---
 
 # [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)

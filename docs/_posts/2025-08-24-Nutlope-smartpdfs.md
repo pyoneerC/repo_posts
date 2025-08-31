@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T10:29:52.087455
-image: assets/Nutlope_smartpdfs--20250823T011759590--cropped.png
+date: 2025-08-24 10:29:52.087455
 ---
 
 # [Nutlope/smartpdfs](https://github.com/Nutlope/smartpdfs)

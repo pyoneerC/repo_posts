@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-20T07:49:49.763126
-image: assets/arktwin_arktwin_cropped.png
+date: 2025-06-20 07:49:49.763126
 ---
 
 # [arktwin/arktwin](https://github.com/arktwin/arktwin)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-06T14:41:21.869397
-image: assets/chidiwilliams_buzz_cropped.png
+date: 2025-05-06 14:41:21.869397
 ---
 
 # [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T16:41:33.558805
-image: assets/TEN-framework_ten-turn-detection_cropped.png
+date: 2025-07-17 16:41:33.558805
 ---
 
 # [TEN-framework/ten-turn-detection](https://github.com/TEN-framework/ten-turn-detection)

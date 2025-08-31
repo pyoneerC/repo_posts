@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T04:16:59.538663
-image: assets/Nutlope_easyedit_cropped.png
+date: 2025-07-20 04:16:59.538663
 ---
 
 # [Nutlope/easyedit](https://github.com/Nutlope/easyedit)

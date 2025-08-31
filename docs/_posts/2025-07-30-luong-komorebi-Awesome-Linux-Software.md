@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T19:27:58.253445
-image: assets/luong-komorebi_Awesome-Linux-Software_cropped.png
+date: 2025-07-30 19:27:58.253445
 ---
 
 # [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)

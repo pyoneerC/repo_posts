@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T06:00:23.227815
-image: assets/dstark5_Openlib_cropped.png
+date: 2025-08-02 06:00:23.227815
 ---
 
 # [dstark5/Openlib](https://github.com/dstark5/Openlib)

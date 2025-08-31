@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T08:59:29.611299
-image: assets/seaweedfs_seaweedfs_cropped.png
+date: 2025-07-05 08:59:29.611299
 ---
 
 # [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-07T05:24:03.613672
-image: assets/dehydrated-io_dehydrated_cropped.png
+date: 2025-08-07 05:24:03.613672
 ---
 
 # [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated)

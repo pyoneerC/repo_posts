@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T06:45:17.022915
-image: assets/sxyazi_yazi_cropped.png
+date: 2025-07-04 06:45:17.022915
 ---
 
 # [sxyazi/yazi](https://github.com/sxyazi/yazi)

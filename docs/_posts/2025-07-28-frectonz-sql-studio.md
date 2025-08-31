@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-28T23:04:11.524391
-image: assets/frectonz_sql-studio_cropped.png
+date: 2025-07-28 23:04:11.524391
 ---
 
 # [frectonz/sql-studio](https://github.com/frectonz/sql-studio)

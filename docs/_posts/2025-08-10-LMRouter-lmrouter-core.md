@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T22:37:32.751565
-image: assets/LMRouter_lmrouter-core_cropped.png
+date: 2025-08-10 22:37:32.751565
 ---
 
 # [LMRouter/lmrouter-core](https://github.com/LMRouter/lmrouter-core)

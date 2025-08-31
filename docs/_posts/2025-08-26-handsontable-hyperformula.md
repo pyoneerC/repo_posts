@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-26T20:30:05.722951
-image: assets/20250825T035123406--handsontable--hyperformula--20250826T023954402--cropped.png
+date: 2025-08-26 20:30:05.722951
 ---
 
 # [handsontable/hyperformula](https://github.com/handsontable/hyperformula)

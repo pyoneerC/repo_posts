@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T12:20:25.891088
-image: assets/Ackee-Blockchain_wake--20250814T040225932--cropped.png
+date: 2025-08-14 12:20:25.891088
 ---
 
 # [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T15:14:27.716107
-image: assets/unslothai_notebooks_cropped.png
+date: 2025-05-05 15:14:27.716107
 ---
 
 # [unslothai/notebooks](https://github.com/unslothai/notebooks)

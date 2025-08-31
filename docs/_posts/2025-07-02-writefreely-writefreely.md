@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T14:24:43.524776
-image: assets/writefreely_writefreely_cropped.png
+date: 2025-07-02 14:24:43.524776
 ---
 
 # [writefreely/writefreely](https://github.com/writefreely/writefreely)

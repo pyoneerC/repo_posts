@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T02:46:12.117345
-image: assets/DataExpert-io_data-engineer-handbook_cropped.png
+date: 2025-02-24 02:46:12.117345
 ---
 
 # [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)

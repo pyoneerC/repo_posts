@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T22:06:07.335790
-image: assets/deepseek-ai_DeepSeek-V3_cropped.png
+date: 2025-07-05 22:06:07.335790
 ---
 
 # [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-17T14:26:33.140005
-image: assets/sqshq_sampler--20250816T053405084--cropped.png
+date: 2025-08-17 14:26:33.140005
 ---
 
 # [sqshq/sampler](https://github.com/sqshq/sampler)

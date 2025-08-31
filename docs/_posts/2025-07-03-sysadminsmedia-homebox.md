@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T07:03:15.699640
-image: assets/sysadminsmedia_homebox_cropped.png
+date: 2025-07-03 07:03:15.699640
 ---
 
 # [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)

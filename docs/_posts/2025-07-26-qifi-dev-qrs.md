@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T16:11:12.725857
-image: assets/qifi-dev_qrs_cropped.png
+date: 2025-07-26 16:11:12.725857
 ---
 
 # [qifi-dev/qrs](https://github.com/qifi-dev/qrs)

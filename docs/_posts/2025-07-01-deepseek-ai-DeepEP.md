@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T07:07:16.561314
-image: assets/deepseek-ai_DeepEP_cropped.png
+date: 2025-07-01 07:07:16.561314
 ---
 
 # [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)

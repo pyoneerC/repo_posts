@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T14:07:19.761873
-image: assets/heshengtao_super-agent-party_cropped.png
+date: 2025-06-24 14:07:19.761873
 ---
 
 # [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party)

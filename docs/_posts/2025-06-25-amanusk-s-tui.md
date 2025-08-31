@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T05:09:59.868436
-image: assets/amanusk_s-tui_cropped.png
+date: 2025-06-25 05:09:59.868436
 ---
 
 # [amanusk/s-tui](https://github.com/amanusk/s-tui)

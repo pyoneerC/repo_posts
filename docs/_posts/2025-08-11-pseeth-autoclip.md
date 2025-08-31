@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T10:12:49.614256
-image: assets/pseeth_autoclip_cropped.png
+date: 2025-08-11 10:12:49.614256
 ---
 
 # [pseeth/autoclip](https://github.com/pseeth/autoclip)

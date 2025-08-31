@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T08:57:30.587010
-image: assets/20250818T112142961_mingrammer_diagrams--20250818T112326158--cropped.png
+date: 2025-08-19 08:57:30.587010
 ---
 
 # [mingrammer/diagrams](https://github.com/mingrammer/diagrams)

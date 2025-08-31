@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T11:40:40.197963
-image: assets/ryoppippi_sitemcp_cropped.png
+date: 2025-07-29 11:40:40.197963
 ---
 
 # [ryoppippi/sitemcp](https://github.com/ryoppippi/sitemcp)

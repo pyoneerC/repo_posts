@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T09:22:24.355510
-image: assets/semaphoreio_semaphore_cropped.png
+date: 2025-07-30 09:22:24.355510
 ---
 
 # [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore)

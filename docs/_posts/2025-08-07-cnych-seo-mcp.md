@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-07T05:54:18.784998
-image: assets/cnych_seo-mcp_cropped.png
+date: 2025-08-07 05:54:18.784998
 ---
 
 # [cnych/seo-mcp](https://github.com/cnych/seo-mcp)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T19:39:46.240220
-image: assets/miurla_morphic_cropped.png
+date: 2025-07-03 19:39:46.240220
 ---
 
 # [miurla/morphic](https://github.com/miurla/morphic)

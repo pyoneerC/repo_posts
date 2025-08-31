@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T23:41:47.625006
-image: assets/mikeroyal_Digital-Forensics-Guide_cropped.png
+date: 2025-08-02 23:41:47.625006
 ---
 
 # [mikeroyal/Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)

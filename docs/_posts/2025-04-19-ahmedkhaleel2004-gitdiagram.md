@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-19T01:40:46.431050
-image: assets/ahmedkhaleel2004_gitdiagram_cropped.png
+date: 2025-04-19 01:40:46.431050
 ---
 
 # [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)

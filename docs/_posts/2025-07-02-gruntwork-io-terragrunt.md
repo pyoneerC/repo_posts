@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T21:58:44.027036
-image: assets/gruntwork-io_terragrunt_cropped.png
+date: 2025-07-02 21:58:44.027036
 ---
 
 # [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt)

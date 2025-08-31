@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T13:32:48.240822
-image: assets/google_gvisor_cropped.png
+date: 2025-06-21 13:32:48.240822
 ---
 
 # [google/gvisor](https://github.com/google/gvisor)

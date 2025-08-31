@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T02:54:53.386031
-image: assets/qarmin_czkawka_cropped.png
+date: 2025-06-22 02:54:53.386031
 ---
 
 # [qarmin/czkawka](https://github.com/qarmin/czkawka)

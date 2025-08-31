@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T00:15:01.283244
-image: assets/ruilisi_fortune-sheet_cropped.png
+date: 2025-08-09 00:15:01.283244
 ---
 
 # [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet)

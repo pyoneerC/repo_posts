@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T03:39:30.672858
-image: assets/wowu_docker-rollout--20250815T021849743--cropped.png
+date: 2025-08-16 03:39:30.672858
 ---
 
 # [wowu/docker-rollout](https://github.com/wowu/docker-rollout)

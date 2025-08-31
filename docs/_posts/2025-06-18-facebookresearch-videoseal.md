@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-18T20:28:18.335331
-image: assets/facebookresearch_videoseal_cropped.png
+date: 2025-06-18 20:28:18.335331
 ---
 
 # [facebookresearch/videoseal](https://github.com/facebookresearch/videoseal)

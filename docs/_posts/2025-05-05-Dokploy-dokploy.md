@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T22:05:20.768777
-image: assets/Dokploy_dokploy_cropped.png
+date: 2025-05-05 22:05:20.768777
 ---
 
 # [Dokploy/dokploy](https://github.com/Dokploy/dokploy)

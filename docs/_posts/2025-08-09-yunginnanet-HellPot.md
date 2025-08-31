@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T17:53:58.624644
-image: assets/yunginnanet_HellPot_cropped.png
+date: 2025-08-09 17:53:58.624644
 ---
 
 # [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot)

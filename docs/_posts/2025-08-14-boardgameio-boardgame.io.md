@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T05:17:06.386315
-image: assets/boardgameio_boardgame.io--20250814T025614412--cropped.png
+date: 2025-08-14 05:17:06.386315
 ---
 
 # [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)

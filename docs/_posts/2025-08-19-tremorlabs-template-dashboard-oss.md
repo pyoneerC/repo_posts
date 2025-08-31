@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T12:59:28.549689
-image: assets/20250818T113622047_tremorlabs_template-dashboard-oss--20250818T113727229--cropped.png
+date: 2025-08-19 12:59:28.549689
 ---
 
 # [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss)

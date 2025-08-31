@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-23T10:47:18.626187
-image: assets/20250822T022828611--rcourtman--Pulse--20250822T023714598--cropped.png
+date: 2025-08-23 10:47:18.626187
 ---
 
 # [rcourtman/Pulse](https://github.com/rcourtman/Pulse)

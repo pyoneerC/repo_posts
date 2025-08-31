@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-30T11:56:41.358110
-image: assets/root-gg_plik--20250830T035816884--cropped.png
+date: 2025-08-30 11:56:41.358110
 ---
 
 # [root-gg/plik](https://github.com/root-gg/plik)

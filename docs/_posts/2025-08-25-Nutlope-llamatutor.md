@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-25T23:48:32.130708
-image: assets/20250825T024513734--Nutlope--llamatutor--20250825T025432320--cropped.png
+date: 2025-08-25 23:48:32.130708
 ---
 
 # [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor)

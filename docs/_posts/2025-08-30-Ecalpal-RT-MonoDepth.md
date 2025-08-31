@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-30T10:25:40.780228
-image: assets/20250830T033216484--Ecalpal--RT-MonoDepth--20250830T033723402--cropped.png
+date: 2025-08-30 10:25:40.780228
 ---
 
 # [Ecalpal/RT-MonoDepth](https://github.com/Ecalpal/RT-MonoDepth)

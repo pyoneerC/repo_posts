@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T22:16:40.752502
-image: assets/socfortress_Playbooks_cropped.png
+date: 2025-07-29 22:16:40.752502
 ---
 
 # [socfortress/Playbooks](https://github.com/socfortress/Playbooks)

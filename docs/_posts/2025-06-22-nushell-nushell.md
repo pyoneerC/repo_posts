@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T17:01:24.947796
-image: assets/nushell_nushell_cropped.png
+date: 2025-06-22 17:01:24.947796
 ---
 
 # [nushell/nushell](https://github.com/nushell/nushell)

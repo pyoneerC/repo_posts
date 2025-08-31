@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T21:06:19.410223
-image: assets/alienator88_Pearcleaner_cropped.png
+date: 2025-06-21 21:06:19.410223
 ---
 
 # [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)

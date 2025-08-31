@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T20:13:49.967402
-image: assets/yuka-friends_Windrecorder_cropped.png
+date: 2025-07-10 20:13:49.967402
 ---
 
 # [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-21T05:52:13.663403
-image: assets/openai_SWELancer-Benchmark_cropped.png
+date: 2025-02-21 05:52:13.663403
 ---
 
 # [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark)

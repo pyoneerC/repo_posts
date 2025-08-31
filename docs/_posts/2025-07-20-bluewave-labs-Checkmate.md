@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T10:49:23.071800
-image: assets/bluewave-labs_Checkmate_cropped.png
+date: 2025-07-20 10:49:23.071800
 ---
 
 # [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate)

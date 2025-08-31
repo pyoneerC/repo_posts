@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T11:26:54.910545
-image: assets/lukasz-madon_awesome-remote-job_cropped.png
+date: 2025-02-24 11:26:54.910545
 ---
 
 # [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)

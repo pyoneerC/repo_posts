@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T19:57:54.774122
-image: assets/itsManjeet_rlxos_cropped.png
+date: 2025-07-18 19:57:54.774122
 ---
 
 # [itsManjeet/rlxos](https://github.com/itsManjeet/rlxos)

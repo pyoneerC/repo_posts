@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T20:07:35.085748
-image: assets/favonia_cloudflare-ddns_cropped.png
+date: 2025-05-12 20:07:35.085748
 ---
 
 # [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns)

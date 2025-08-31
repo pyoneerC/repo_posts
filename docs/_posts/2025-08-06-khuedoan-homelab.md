@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T17:47:34.286997
-image: assets/khuedoan_homelab_cropped.png
+date: 2025-08-06 17:47:34.286997
 ---
 
 # [khuedoan/homelab](https://github.com/khuedoan/homelab)

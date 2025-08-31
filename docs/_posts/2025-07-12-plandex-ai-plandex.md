@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T00:28:51.093747
-image: assets/plandex-ai_plandex_cropped.png
+date: 2025-07-12 00:28:51.093747
 ---
 
 # [plandex-ai/plandex](https://github.com/plandex-ai/plandex)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T08:48:48.661919
-image: assets/AkashRajpurohit_git-sync_cropped.png
+date: 2025-08-04 08:48:48.661919
 ---
 
 # [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync)

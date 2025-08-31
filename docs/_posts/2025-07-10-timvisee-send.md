@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T01:03:54.873010
-image: assets/timvisee_send_cropped.png
+date: 2025-07-10 01:03:54.873010
 ---
 
 # [timvisee/send](https://github.com/timvisee/send)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T09:25:47.288942
-image: assets/steveiliop56_tinyauth_cropped.png
+date: 2025-07-09 09:25:47.288942
 ---
 
 # [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T00:00:00.786715
-image: assets/owasp-amass_amass_cropped.png
+date: 2025-07-19 00:00:00.786715
 ---
 
 # [owasp-amass/amass](https://github.com/owasp-amass/amass)

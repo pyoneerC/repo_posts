@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T16:54:05.291199
-image: assets/rishikanthc_Scriberr_cropped.png
+date: 2025-07-27 16:54:05.291199
 ---
 
 # [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T13:13:17.108246
-image: assets/day-trading-simulator_javascript-stock-charts_cropped.png
+date: 2025-05-05 13:13:17.108246
 ---
 
 # [day-trading-simulator/javascript-stock-charts](https://github.com/day-trading-simulator/javascript-stock-charts)

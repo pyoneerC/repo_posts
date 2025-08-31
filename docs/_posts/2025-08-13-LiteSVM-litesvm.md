@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-13T05:35:04.756235
-image: assets/20250812T224623--LiteSVM--litesvm--20250812T225139--cropped.png
+date: 2025-08-13 05:35:04.756235
 ---
 
 # [LiteSVM/litesvm](https://github.com/LiteSVM/litesvm)

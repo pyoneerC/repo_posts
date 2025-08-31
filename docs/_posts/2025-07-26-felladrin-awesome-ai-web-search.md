@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T01:02:57.163656
-image: assets/felladrin_awesome-ai-web-search_cropped.png
+date: 2025-07-26 01:02:57.163656
 ---
 
 # [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search)

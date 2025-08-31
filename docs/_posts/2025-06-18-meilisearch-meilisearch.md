@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-18T07:02:48.896571
-image: assets/meilisearch_meilisearch_cropped.png
+date: 2025-06-18 07:02:48.896571
 ---
 
 # [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)

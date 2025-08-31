@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T10:01:06.162700
-image: assets/20250815T012931636_lucaswalter_n8n-ai-automations--20250815T013103835--cropped.png
+date: 2025-08-15 10:01:06.162700
 ---
 
 # [lucaswalter/n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations)

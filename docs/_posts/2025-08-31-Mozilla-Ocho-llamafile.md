@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T08:39:43.651183
-image: assets/Mozilla-Ocho_llamafile--20250830T140347404--cropped.png
+date: 2025-08-31 08:39:43.651183
 ---
 
 # [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)

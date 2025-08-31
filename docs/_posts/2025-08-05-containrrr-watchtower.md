@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T20:37:03.987191
-image: assets/containrrr_watchtower_cropped.png
+date: 2025-08-05 20:37:03.987191
 ---
 
 # [containrrr/watchtower](https://github.com/containrrr/watchtower)

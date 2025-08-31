@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T05:20:31.161378
-image: assets/XAMPPRocky_tokei_cropped.png
+date: 2025-07-14 05:20:31.161378
 ---
 
 # [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)

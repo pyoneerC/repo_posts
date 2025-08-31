@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T22:23:37.917419
-image: assets/duckdb_pg_duckdb_cropped.png
+date: 2025-07-04 22:23:37.917419
 ---
 
 # [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb)

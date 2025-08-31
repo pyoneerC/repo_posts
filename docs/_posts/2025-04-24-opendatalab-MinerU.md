@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T06:39:22.074450
-image: assets/opendatalab_MinerU_cropped.png
+date: 2025-04-24 06:39:22.074450
 ---
 
 # [opendatalab/MinerU](https://github.com/opendatalab/MinerU)

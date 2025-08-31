@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T14:27:02.865794
-image: assets/magenta_magenta-realtime--20250812T002307--cropped.png
+date: 2025-08-12 14:27:02.865794
 ---
 
 # [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime)

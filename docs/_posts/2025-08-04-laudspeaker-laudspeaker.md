@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T18:53:46.622645
-image: assets/laudspeaker_laudspeaker_cropped.png
+date: 2025-08-04 18:53:46.622645
 ---
 
 # [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker)

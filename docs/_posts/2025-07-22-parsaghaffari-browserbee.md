@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T00:10:29.906497
-image: assets/parsaghaffari_browserbee_cropped.png
+date: 2025-07-22 00:10:29.906497
 ---
 
 # [parsaghaffari/browserbee](https://github.com/parsaghaffari/browserbee)

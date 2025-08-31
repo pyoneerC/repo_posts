@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T00:03:43.844142
-image: assets/DavidHDev_react-bits_cropped.png
+date: 2025-07-01 00:03:43.844142
 ---
 
 # [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)

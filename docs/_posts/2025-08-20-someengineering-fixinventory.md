@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T01:05:39.730756
-image: assets/20250818T120133097_someengineering_fixinventory--20250818T120724862--cropped.png
+date: 2025-08-20 01:05:39.730756
 ---
 
 # [someengineering/fixinventory](https://github.com/someengineering/fixinventory)

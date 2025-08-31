@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T12:53:27.634899
-image: assets/janispritzkau_obsidian-model-viewer_cropped.png
+date: 2025-05-12 12:53:27.634899
 ---
 
 # [janispritzkau/obsidian-model-viewer](https://github.com/janispritzkau/obsidian-model-viewer)

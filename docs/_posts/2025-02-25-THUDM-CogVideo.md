@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-25T00:24:51.740706
-image: assets/THUDM_CogVideo_cropped.png
+date: 2025-02-25 00:24:51.740706
 ---
 
 # [THUDM/CogVideo](https://github.com/THUDM/CogVideo)

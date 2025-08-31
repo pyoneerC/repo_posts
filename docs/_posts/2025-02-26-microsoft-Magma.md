@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-26T04:08:48.485518
-image: assets/microsoft_Magma_cropped.png
+date: 2025-02-26 04:08:48.485518
 ---
 
 # [microsoft/Magma](https://github.com/microsoft/Magma)

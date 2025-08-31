@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T10:31:29.329648
-image: assets/nukeop_nuclear_cropped.png
+date: 2025-06-21 10:31:29.329648
 ---
 
 # [nukeop/nuclear](https://github.com/nukeop/nuclear)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T05:40:14.638208
-image: assets/marmelab_react-admin_cropped.png
+date: 2025-06-25 05:40:14.638208
 ---
 
 # [marmelab/react-admin](https://github.com/marmelab/react-admin)

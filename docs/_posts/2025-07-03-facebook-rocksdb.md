@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T00:30:02.328546
-image: assets/facebook_rocksdb_cropped.png
+date: 2025-07-03 00:30:02.328546
 ---
 
 # [facebook/rocksdb](https://github.com/facebook/rocksdb)

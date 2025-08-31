@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-27T16:42:41.667856
-image: assets/20250826T030813165--OpenSPG--KAG--20250826T031220292--cropped.png
+date: 2025-08-27 16:42:41.667856
 ---
 
 # [OpenSPG/KAG](https://github.com/OpenSPG/KAG)

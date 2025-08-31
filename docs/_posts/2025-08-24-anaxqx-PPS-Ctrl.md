@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T11:30:24.468226
-image: assets/20250823T012359623--anaxqx--PPS-Ctrl--20250823T012830523--cropped.png
+date: 2025-08-24 11:30:24.468226
 ---
 
 # [anaxqx/PPS-Ctrl](https://github.com/anaxqx/PPS-Ctrl)

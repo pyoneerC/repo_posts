@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T22:59:30.647235
-image: assets/vitali87_code-graph-rag_cropped.png
+date: 2025-07-18 22:59:30.647235
 ---
 
 # [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag)

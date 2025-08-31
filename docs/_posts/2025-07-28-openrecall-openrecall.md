@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-28T06:01:55.966498
-image: assets/openrecall_openrecall_cropped.png
+date: 2025-07-28 06:01:55.966498
 ---
 
 # [openrecall/openrecall](https://github.com/openrecall/openrecall)

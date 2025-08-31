@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T03:46:39.176615
-image: assets/seeyebe_gmap_cropped.png
+date: 2025-08-09 03:46:39.176615
 ---
 
 # [seeyebe/gmap](https://github.com/seeyebe/gmap)

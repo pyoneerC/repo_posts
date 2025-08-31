@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-30T05:21:46.353475
-image: assets/20250825T013436293--webrtc-sdk--libwebrtc--20250830T032617314--cropped.png
+date: 2025-08-30 05:21:46.353475
 ---
 
 # [webrtc-sdk/libwebrtc](https://github.com/webrtc-sdk/libwebrtc)

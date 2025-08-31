@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T15:08:32.312587
-image: assets/AlexxIT_go2rtc_cropped.png
+date: 2025-07-31 15:08:32.312587
 ---
 
 # [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)

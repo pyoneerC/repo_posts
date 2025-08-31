@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T02:06:09.682753
-image: assets/20250818T120242973_redotvideo_revideo--20250818T120845905--cropped.png
+date: 2025-08-20 02:06:09.682753
 ---
 
 # [redotvideo/revideo](https://github.com/redotvideo/revideo)

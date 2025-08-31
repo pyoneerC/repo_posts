@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T20:16:23.313882
-image: assets/wilsonfreitas_awesome-quant_cropped.png
+date: 2025-04-24 20:16:23.313882
 ---
 
 # [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant)

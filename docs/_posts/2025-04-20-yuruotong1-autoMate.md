@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T19:05:45.713699
-image: assets/yuruotong1_autoMate_cropped.png
+date: 2025-04-20 19:05:45.713699
 ---
 
 # [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate)

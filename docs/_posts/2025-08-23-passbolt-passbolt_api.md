@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-23T00:11:46.819453
-image: assets/20250818T123243657_passbolt_passbolt_api--20250822T021905781--cropped.png
+date: 2025-08-23 00:11:46.819453
 ---
 
 # [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T21:13:32.812120
-image: assets/infinitered_ignite_cropped.png
+date: 2025-08-08 21:13:32.812120
 ---
 
 # [infinitered/ignite](https://github.com/infinitered/ignite)

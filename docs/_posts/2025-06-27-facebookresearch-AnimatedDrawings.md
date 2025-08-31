@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T18:32:19.315447
-image: assets/facebookresearch_AnimatedDrawings_cropped.png
+date: 2025-06-27 18:32:19.315447
 ---
 
 # [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)

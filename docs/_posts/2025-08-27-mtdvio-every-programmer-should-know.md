@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-27T14:11:10.943958
-image: assets/20250826T030442108--mtdvio--every-programmer-should-know--20250826T030952658--cropped.png
+date: 2025-08-27 14:11:10.943958
 ---
 
 # [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)

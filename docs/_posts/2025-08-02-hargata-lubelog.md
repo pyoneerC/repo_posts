@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T23:11:32.331404
-image: assets/hargata_lubelog_cropped.png
+date: 2025-08-02 23:11:32.331404
 ---
 
 # [hargata/lubelog](https://github.com/hargata/lubelog)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T04:08:16.607179
-image: assets/Julien-cpsn_ATAC_cropped.png
+date: 2025-05-05 04:08:16.607179
 ---
 
 # [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC)

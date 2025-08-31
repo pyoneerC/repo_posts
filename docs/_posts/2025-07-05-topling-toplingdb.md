@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T16:02:59.324981
-image: assets/topling_toplingdb_cropped.png
+date: 2025-07-05 16:02:59.324981
 ---
 
 # [topling/toplingdb](https://github.com/topling/toplingdb)

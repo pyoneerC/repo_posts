@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T18:13:38.915526
-image: assets/confident-ai_deepeval_cropped.png
+date: 2025-07-01 18:13:38.915526
 ---
 
 # [confident-ai/deepeval](https://github.com/confident-ai/deepeval)

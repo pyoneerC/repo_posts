@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T09:00:45.276851
-image: assets/ccbikai_BroadcastChannel_cropped.png
+date: 2025-06-21 09:00:45.276851
 ---
 
 # [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)

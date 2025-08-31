@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T07:40:09.747633
-image: assets/gosom_google-maps-scraper_cropped.png
+date: 2025-05-05 07:40:09.747633
 ---
 
 # [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)

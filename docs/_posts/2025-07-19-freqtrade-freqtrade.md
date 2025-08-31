@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T14:07:31.753590
-image: assets/freqtrade_freqtrade_cropped.png
+date: 2025-07-19 14:07:31.753590
 ---
 
 # [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)

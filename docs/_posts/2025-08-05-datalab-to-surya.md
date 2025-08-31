@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T16:04:47.617213
-image: assets/datalab-to_surya_cropped.png
+date: 2025-08-05 16:04:47.617213
 ---
 
 # [datalab-to/surya](https://github.com/datalab-to/surya)

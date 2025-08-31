@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T12:02:44.226481
-image: assets/zhouxiaoka_autoclip_mvp_cropped.png
+date: 2025-08-05 12:02:44.226481
 ---
 
 # [zhouxiaoka/autoclip_mvp](https://github.com/zhouxiaoka/autoclip_mvp)

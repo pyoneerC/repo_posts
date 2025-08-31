@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-25T20:16:43.468284
-image: assets/20250822T023446585--kubetail-org--kubetail--20250825T024511540--cropped.png
+date: 2025-08-25 20:16:43.468284
 ---
 
 # [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail)

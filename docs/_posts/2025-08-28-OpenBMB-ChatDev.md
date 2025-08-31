@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-28T04:49:03.275606
-image: assets/20250826T033632742--OpenBMB--ChatDev--20250826T034732849--cropped.png
+date: 2025-08-28 04:49:03.275606
 ---
 
 # [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)

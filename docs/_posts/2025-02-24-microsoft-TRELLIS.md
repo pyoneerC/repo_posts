@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T23:23:41.950790
-image: assets/microsoft_TRELLIS_cropped.png
+date: 2025-02-24 23:23:41.950790
 ---
 
 # [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)

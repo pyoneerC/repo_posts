@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T00:15:30.211765
-image: assets/APIParkLab_APIPark_cropped.png
+date: 2025-07-27 00:15:30.211765
 ---
 
 # [APIParkLab/APIPark](https://github.com/APIParkLab/APIPark)

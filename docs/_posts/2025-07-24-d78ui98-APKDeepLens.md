@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T15:45:13.996683
-image: assets/d78ui98_APKDeepLens_cropped.png
+date: 2025-07-24 15:45:13.996683
 ---
 
 # [d78ui98/APKDeepLens](https://github.com/d78ui98/APKDeepLens)

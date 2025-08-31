@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T01:51:48.230948
-image: assets/stalwartlabs_stalwart_cropped.png
+date: 2025-07-09 01:51:48.230948
 ---
 
 # [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)

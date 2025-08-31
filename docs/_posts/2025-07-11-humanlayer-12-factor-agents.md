@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T04:48:25.768139
-image: assets/humanlayer_12-factor-agents_cropped.png
+date: 2025-07-11 04:48:25.768139
 ---
 
 # [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-19T20:58:41.562319
-image: assets/leaningtech_webvm_cropped.png
+date: 2025-02-19 20:58:41.562319
 ---
 
 # [leaningtech/webvm](https://github.com/leaningtech/webvm)

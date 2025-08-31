@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T18:57:41.942813
-image: assets/microsoft_TinyTroupe_cropped.png
+date: 2025-07-30 18:57:41.942813
 ---
 
 # [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe)

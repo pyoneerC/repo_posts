@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T23:17:21.051469
-image: assets/20250818T100525664_KoljaB_RealtimeVoiceChat--20250820T130020108--cropped.png
+date: 2025-08-20 23:17:21.051469
 ---
 
 # [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)

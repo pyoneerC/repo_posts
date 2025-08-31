@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T08:27:27.142178
-image: assets/autoscrape-labs_pydoll_cropped.png
+date: 2025-04-20 08:27:27.142178
 ---
 
 # [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll)

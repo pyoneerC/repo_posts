@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T07:10:53.528136
-image: assets/nginx_nginx_cropped.png
+date: 2025-07-06 07:10:53.528136
 ---
 
 # [nginx/nginx](https://github.com/nginx/nginx)

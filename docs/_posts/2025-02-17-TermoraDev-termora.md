@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-17T15:56:28.200568
-image: assets/TermoraDev_termora_cropped.png
+date: 2025-02-17 15:56:28.200568
 ---
 
 # [TermoraDev/termora](https://github.com/TermoraDev/termora)

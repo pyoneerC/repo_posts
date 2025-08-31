@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-26T15:46:25.938537
-image: assets/exo-explore_exo_cropped.png
+date: 2025-06-26 15:46:25.938537
 ---
 
 # [exo-explore/exo](https://github.com/exo-explore/exo)

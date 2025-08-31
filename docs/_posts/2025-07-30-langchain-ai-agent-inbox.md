@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T23:00:12.090876
-image: assets/langchain-ai_agent-inbox_cropped.png
+date: 2025-07-30 23:00:12.090876
 ---
 
 # [langchain-ai/agent-inbox](https://github.com/langchain-ai/agent-inbox)

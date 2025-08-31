@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T17:08:48.847782
-image: assets/so-fancy_diff-so-fancy_cropped.png
+date: 2025-06-24 17:08:48.847782
 ---
 
 # [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)

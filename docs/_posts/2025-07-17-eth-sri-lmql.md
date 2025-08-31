@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T23:16:10.447842
-image: assets/eth-sri_lmql_cropped.png
+date: 2025-07-17 23:16:10.447842
 ---
 
 # [eth-sri/lmql](https://github.com/eth-sri/lmql)

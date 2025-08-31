@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T02:44:30.291109
-image: assets/hotheadhacker_no-as-a-service_cropped.png
+date: 2025-07-20 02:44:30.291109
 ---
 
 # [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T21:40:29.115864
-image: assets/ozgrozer_ai-renamer_cropped.png
+date: 2025-08-02 21:40:29.115864
 ---
 
 # [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer)

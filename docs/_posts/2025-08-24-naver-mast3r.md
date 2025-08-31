@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T15:32:52.136669
-image: assets/20250823T012903654--naver--mast3r--20250823T013259862--cropped.png
+date: 2025-08-24 15:32:52.136669
 ---
 
 # [naver/mast3r](https://github.com/naver/mast3r)

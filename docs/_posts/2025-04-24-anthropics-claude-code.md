@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T11:47:58.082864
-image: assets/anthropics_claude-code_cropped.png
+date: 2025-04-24 11:47:58.082864
 ---
 
 # [anthropics/claude-code](https://github.com/anthropics/claude-code)

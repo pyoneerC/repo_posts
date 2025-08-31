@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T08:25:33.385491
-image: assets/instantdb_instant_cropped.png
+date: 2025-04-25 08:25:33.385491
 ---
 
 # [instantdb/instant](https://github.com/instantdb/instant)

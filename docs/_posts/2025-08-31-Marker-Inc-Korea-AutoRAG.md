@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T02:36:37.951361
-image: assets/20250830T045340607--Marker-Inc-Korea--AutoRAG--20250830T050734743--cropped.png
+date: 2025-08-31 02:36:37.951361
 ---
 
 # [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-21T16:55:50.993161
-image: assets/20250820T132818798_MarkShawn2020_DeepLearning.ai-Courses-ClaudeCode--20250820T133155597--cropped.png
+date: 2025-08-21 16:55:50.993161
 ---
 
 # [MarkShawn2020/DeepLearning.ai-Courses-ClaudeCode](https://github.com/MarkShawn2020/DeepLearning.ai-Courses-ClaudeCode)

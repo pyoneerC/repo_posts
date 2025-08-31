@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T08:21:51.605396
-image: assets/jerryscript-project_jerryscript_cropped.png
+date: 2025-07-18 08:21:51.605396
 ---
 
 # [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript)

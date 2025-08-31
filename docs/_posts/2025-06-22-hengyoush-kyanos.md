@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T02:24:40.712730
-image: assets/hengyoush_kyanos_cropped.png
+date: 2025-06-22 02:24:40.712730
 ---
 
 # [hengyoush/kyanos](https://github.com/hengyoush/kyanos)

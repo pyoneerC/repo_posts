@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T06:15:00.171959
-image: assets/Nuitka_Nuitka_cropped.png
+date: 2025-07-04 06:15:00.171959
 ---
 
 # [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka)

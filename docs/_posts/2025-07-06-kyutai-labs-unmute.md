@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T10:42:53.512422
-image: assets/kyutai-labs_unmute_cropped.png
+date: 2025-07-06 10:42:53.512422
 ---
 
 # [kyutai-labs/unmute](https://github.com/kyutai-labs/unmute)

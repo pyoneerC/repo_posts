@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T19:55:42.830784
-image: assets/Sathvik-Rao_ClipCascade_cropped.png
+date: 2025-07-27 19:55:42.830784
 ---
 
 # [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade)

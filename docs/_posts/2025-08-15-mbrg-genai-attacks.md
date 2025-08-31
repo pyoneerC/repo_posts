@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T04:28:28.781414
-image: assets/20250815T010436190_mbrg_genai-attacks--20250815T011253651--cropped.png
+date: 2025-08-15 04:28:28.781414
 ---
 
 # [mbrg/genai-attacks](https://github.com/mbrg/genai-attacks)

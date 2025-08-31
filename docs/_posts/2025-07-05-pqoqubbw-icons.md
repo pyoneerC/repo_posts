@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T00:24:45.299403
-image: assets/pqoqubbw_icons_cropped.png
+date: 2025-07-05 00:24:45.299403
 ---
 
 # [pqoqubbw/icons](https://github.com/pqoqubbw/icons)

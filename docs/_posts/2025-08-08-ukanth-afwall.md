@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T13:39:35.574067
-image: assets/ukanth_afwall_cropped.png
+date: 2025-08-08 13:39:35.574067
 ---
 
 # [ukanth/afwall](https://github.com/ukanth/afwall)

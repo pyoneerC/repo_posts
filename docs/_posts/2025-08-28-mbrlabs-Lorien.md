@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-28T18:26:09.729024
-image: assets/20250827T221341383--mbrlabs--Lorien--20250827T221751348--cropped.png
+date: 2025-08-28 18:26:09.729024
 ---
 
 # [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)

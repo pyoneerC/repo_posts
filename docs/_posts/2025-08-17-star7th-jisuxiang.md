@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-17T19:28:54.676356
-image: assets/star7th_jisuxiang--20250816T204026102--cropped.png
+date: 2025-08-17 19:28:54.676356
 ---
 
 # [star7th/jisuxiang](https://github.com/star7th/jisuxiang)

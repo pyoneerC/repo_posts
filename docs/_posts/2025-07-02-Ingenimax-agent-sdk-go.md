@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T23:59:45.595573
-image: assets/Ingenimax_agent-sdk-go_cropped.png
+date: 2025-07-02 23:59:45.595573
 ---
 
 # [Ingenimax/agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T06:47:49.396891
-image: assets/organicmaps_organicmaps--20250814T031051484--cropped.png
+date: 2025-08-14 06:47:49.396891
 ---
 
 # [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)

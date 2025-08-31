@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T16:57:39.000335
-image: assets/frain-dev_convoy_cropped.png
+date: 2025-07-16 16:57:39.000335
 ---
 
 # [frain-dev/convoy](https://github.com/frain-dev/convoy)

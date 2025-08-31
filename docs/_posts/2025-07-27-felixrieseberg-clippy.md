@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T04:17:31.286123
-image: assets/felixrieseberg_clippy_cropped.png
+date: 2025-07-27 04:17:31.286123
 ---
 
 # [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy)

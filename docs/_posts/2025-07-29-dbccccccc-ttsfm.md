@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T12:41:09.741788
-image: assets/dbccccccc_ttsfm_cropped.png
+date: 2025-07-29 12:41:09.741788
 ---
 
 # [dbccccccc/ttsfm](https://github.com/dbccccccc/ttsfm)

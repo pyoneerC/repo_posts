@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T19:50:48.854585
-image: assets/OpenBB-finance_OpenBB_cropped.png
+date: 2025-02-24 19:50:48.854585
 ---
 
 # [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)

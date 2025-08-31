@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T08:29:14.979099
-image: assets/llmware-ai_llmware_cropped.png
+date: 2025-07-05 08:29:14.979099
 ---
 
 # [llmware-ai/llmware](https://github.com/llmware-ai/llmware)

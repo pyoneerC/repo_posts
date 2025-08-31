@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-13T01:44:40.581335
-image: assets/mitchellh_zig-objc_cropped.png
+date: 2025-05-13 01:44:40.581335
 ---
 
 # [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc)

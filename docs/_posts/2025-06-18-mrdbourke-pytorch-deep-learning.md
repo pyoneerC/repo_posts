@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-18T21:59:03.917853
-image: assets/mrdbourke_pytorch-deep-learning_cropped.png
+date: 2025-06-18 21:59:03.917853
 ---
 
 # [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)

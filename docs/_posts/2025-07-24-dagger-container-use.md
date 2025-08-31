@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T16:15:30.956987
-image: assets/dagger_container-use_cropped.png
+date: 2025-07-24 16:15:30.956987
 ---
 
 # [dagger/container-use](https://github.com/dagger/container-use)

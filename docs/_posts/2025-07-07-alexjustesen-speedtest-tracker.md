@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T07:24:15.530673
-image: assets/alexjustesen_speedtest-tracker_cropped.png
+date: 2025-07-07 07:24:15.530673
 ---
 
 # [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)

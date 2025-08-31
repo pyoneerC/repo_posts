@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T00:19:32.054267
-image: assets/20250810T070336--claude-did-this--claude-hub--20250811T004258--cropped.png
+date: 2025-08-12 00:19:32.054267
 ---
 
 # [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub)

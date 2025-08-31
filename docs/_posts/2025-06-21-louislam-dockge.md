@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T14:33:17.327336
-image: assets/louislam_dockge_cropped.png
+date: 2025-06-21 14:33:17.327336
 ---
 
 # [louislam/dockge](https://github.com/louislam/dockge)

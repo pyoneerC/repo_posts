@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-17T17:05:57.691410
-image: assets/apple_containerization_cropped.png
+date: 2025-06-17 17:05:57.691410
 ---
 
 # [apple/containerization](https://github.com/apple/containerization)

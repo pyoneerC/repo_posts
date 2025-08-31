@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T16:34:11.704099
-image: assets/AdrienPoupa_docker-compose-nas--20250815T015512749--cropped.png
+date: 2025-08-15 16:34:11.704099
 ---
 
 # [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas)

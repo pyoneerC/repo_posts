@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T01:05:17.212058
-image: assets/EvilBytecode_Ebyte-Go-Morpher_cropped.png
+date: 2025-07-29 01:05:17.212058
 ---
 
 # [EvilBytecode/Ebyte-Go-Morpher](https://github.com/EvilBytecode/Ebyte-Go-Morpher)

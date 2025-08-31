@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T00:24:29.802853
-image: assets/20250822T025308871--Jackett--Jackett--20250822T025815020--cropped.png
+date: 2025-08-24 00:24:29.802853
 ---
 
 # [Jackett/Jackett](https://github.com/Jackett/Jackett)

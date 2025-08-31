@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T07:17:33.388049
-image: assets/eigent-ai_eigent_cropped.png
+date: 2025-08-01 07:17:33.388049
 ---
 
 # [eigent-ai/eigent](https://github.com/eigent-ai/eigent)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-19T19:57:53.402071
-image: assets/soxoj_maigret_cropped.png
+date: 2025-02-19 19:57:53.402071
 ---
 
 # [soxoj/maigret](https://github.com/soxoj/maigret)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T05:39:05.186272
-image: assets/Chleba_netscanner_cropped.png
+date: 2025-05-05 05:39:05.186272
 ---
 
 # [Chleba/netscanner](https://github.com/Chleba/netscanner)

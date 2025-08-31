@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T11:54:06.446935
-image: assets/microsoft_debugpy_cropped.png
+date: 2025-07-16 11:54:06.446935
 ---
 
 # [microsoft/debugpy](https://github.com/microsoft/debugpy)

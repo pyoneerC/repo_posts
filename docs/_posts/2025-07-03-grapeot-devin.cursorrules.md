@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T22:11:02.060257
-image: assets/grapeot_devin.cursorrules_cropped.png
+date: 2025-07-03 22:11:02.060257
 ---
 
 # [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules)

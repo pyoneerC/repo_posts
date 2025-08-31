@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T23:42:48.782012
-image: assets/donetick_donetick_cropped.png
+date: 2025-07-19 23:42:48.782012
 ---
 
 # [donetick/donetick](https://github.com/donetick/donetick)

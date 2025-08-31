@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T05:27:02.720689
-image: assets/20250822T025934429--zero-peak--ZeroOmega--20250822T030507711--cropped.png
+date: 2025-08-24 05:27:02.720689
 ---
 
 # [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)

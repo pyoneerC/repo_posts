@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T09:18:35.957112
-image: assets/vernu_vps-audit_cropped.png
+date: 2025-07-20 09:18:35.957112
 ---
 
 # [vernu/vps-audit](https://github.com/vernu/vps-audit)

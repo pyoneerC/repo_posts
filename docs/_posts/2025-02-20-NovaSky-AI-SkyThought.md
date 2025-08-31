@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-20T12:39:09.433426
-image: assets/NovaSky-AI_SkyThought_cropped.png
+date: 2025-02-20 12:39:09.433426
 ---
 
 # [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought)

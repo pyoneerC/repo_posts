@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T06:29:40.593489
-image: assets/haydenbleasel_tersa_cropped.png
+date: 2025-08-05 06:29:40.593489
 ---
 
 # [haydenbleasel/tersa](https://github.com/haydenbleasel/tersa)

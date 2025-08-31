@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-26T12:55:43.306662
-image: assets/20250825T031530286--cirruslabs--vetu--20250825T032308960--cropped.png
+date: 2025-08-26 12:55:43.306662
 ---
 
 # [cirruslabs/vetu](https://github.com/cirruslabs/vetu)

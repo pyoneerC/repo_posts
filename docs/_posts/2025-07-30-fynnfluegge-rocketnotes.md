@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T19:58:16.910134
-image: assets/fynnfluegge_rocketnotes_cropped.png
+date: 2025-07-30 19:58:16.910134
 ---
 
 # [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes)

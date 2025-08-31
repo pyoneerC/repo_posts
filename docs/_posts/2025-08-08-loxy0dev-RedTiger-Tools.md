@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T17:41:43.129053
-image: assets/loxy0dev_RedTiger-Tools_cropped.png
+date: 2025-08-08 17:41:43.129053
 ---
 
 # [loxy0dev/RedTiger-Tools](https://github.com/loxy0dev/RedTiger-Tools)

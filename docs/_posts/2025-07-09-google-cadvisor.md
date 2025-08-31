@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T18:00:02.098769
-image: assets/google_cadvisor_cropped.png
+date: 2025-07-09 18:00:02.098769
 ---
 
 # [google/cadvisor](https://github.com/google/cadvisor)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T22:15:39.472852
-image: assets/lllyasviel_Fooocus_cropped.png
+date: 2025-07-17 22:15:39.472852
 ---
 
 # [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T01:52:06.223419
-image: assets/CSchoel_nolds_cropped.png
+date: 2025-04-25 01:52:06.223419
 ---
 
 # [CSchoel/nolds](https://github.com/CSchoel/nolds)

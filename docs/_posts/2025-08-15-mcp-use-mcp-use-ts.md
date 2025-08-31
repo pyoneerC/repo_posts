@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T02:27:30.664653
-image: assets/mcp-use_mcp-use-ts--20250815T010502039--cropped.png
+date: 2025-08-15 02:27:30.664653
 ---
 
 # [mcp-use/mcp-use-ts](https://github.com/mcp-use/mcp-use-ts)

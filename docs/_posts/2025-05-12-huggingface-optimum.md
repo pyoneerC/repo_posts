@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T14:24:29.566837
-image: assets/huggingface_optimum_cropped.png
+date: 2025-05-12 14:24:29.566837
 ---
 
 # [huggingface/optimum](https://github.com/huggingface/optimum)

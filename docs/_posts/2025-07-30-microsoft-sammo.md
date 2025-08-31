@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T05:50:37.322575
-image: assets/microsoft_sammo_cropped.png
+date: 2025-07-30 05:50:37.322575
 ---
 
 # [microsoft/sammo](https://github.com/microsoft/sammo)

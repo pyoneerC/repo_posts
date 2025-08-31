@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T09:24:14.464435
-image: assets/SafeRL-Lab_agentic-web--20250812T001122--cropped.png
+date: 2025-08-12 09:24:14.464435
 ---
 
 # [SafeRL-Lab/agentic-web](https://github.com/SafeRL-Lab/agentic-web)

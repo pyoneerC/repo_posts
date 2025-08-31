@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T01:50:43.134450
-image: assets/anthropics_anthropic-cookbook_cropped.png
+date: 2025-07-07 01:50:43.134450
 ---
 
 # [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T18:16:08.567530
-image: assets/fal-ai-community_video-starter-kit--20250816T011108108--cropped.png
+date: 2025-08-16 18:16:08.567530
 ---
 
 # [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit)

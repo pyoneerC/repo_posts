@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T15:27:35.641972
-image: assets/RoyalCities_RC-Home-Assistant-Low-VRAM--20250812T002704--cropped.png
+date: 2025-08-12 15:27:35.641972
 ---
 
 # [RoyalCities/RC-Home-Assistant-Low-VRAM](https://github.com/RoyalCities/RC-Home-Assistant-Low-VRAM)

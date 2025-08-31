@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T17:28:16.678337
-image: assets/jehna_humanify_cropped.png
+date: 2025-07-14 17:28:16.678337
 ---
 
 # [jehna/humanify](https://github.com/jehna/humanify)

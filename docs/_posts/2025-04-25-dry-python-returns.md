@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T06:54:39.660814
-image: assets/dry-python_returns_cropped.png
+date: 2025-04-25 06:54:39.660814
 ---
 
 # [dry-python/returns](https://github.com/dry-python/returns)

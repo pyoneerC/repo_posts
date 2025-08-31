@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T23:01:16.792777
-image: assets/MoonshotAI_Kimi-K2_cropped.png
+date: 2025-07-14 23:01:16.792777
 ---
 
 # [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)

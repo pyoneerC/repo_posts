@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T16:45:15.989823
-image: assets/mountain-loop_yaak_cropped.png
+date: 2025-06-25 16:45:15.989823
 ---
 
 # [mountain-loop/yaak](https://github.com/mountain-loop/yaak)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-28T13:42:22.932080
-image: assets/ManimCommunity_manim_cropped.png
+date: 2025-06-28 13:42:22.932080
 ---
 
 # [ManimCommunity/manim](https://github.com/ManimCommunity/manim)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T02:16:34.063831
-image: assets/httpie_cli_cropped.png
+date: 2025-05-12 02:16:34.063831
 ---
 
 # [httpie/cli](https://github.com/httpie/cli)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T17:33:09.876288
-image: assets/HumanAIGC-Engineering_OpenAvatarChat_cropped.png
+date: 2025-06-24 17:33:09.876288
 ---
 
 # [HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat)

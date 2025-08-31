@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T18:13:34.628661
-image: assets/fal-ai_f-lite_cropped.png
+date: 2025-06-19 18:13:34.628661
 ---
 
 # [fal-ai/f-lite](https://github.com/fal-ai/f-lite)

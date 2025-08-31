@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T11:21:55.793829
-image: assets/lharries_whatsapp-mcp_cropped.png
+date: 2025-07-11 11:21:55.793829
 ---
 
 # [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T19:13:32.757426
-image: assets/garmeeh_next-seo_cropped.png
+date: 2025-07-17 19:13:32.757426
 ---
 
 # [garmeeh/next-seo](https://github.com/garmeeh/next-seo)

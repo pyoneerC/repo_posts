@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-15T08:06:34.269599
-image: assets/mkdocstrings_griffe_cropped.png
+date: 2025-07-15 08:06:34.269599
 ---
 
 # [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe)

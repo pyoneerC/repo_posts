@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T20:17:38.321329
-image: assets/20250810T065210--HeroTools--open-wispr--20250811T002336--cropped.png
+date: 2025-08-11 20:17:38.321329
 ---
 
 # [HeroTools/open-wispr](https://github.com/HeroTools/open-wispr)

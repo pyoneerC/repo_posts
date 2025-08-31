@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T20:31:25.425748
-image: assets/php-mcp_server_cropped.png
+date: 2025-07-09 20:31:25.425748
 ---
 
 # [php-mcp/server](https://github.com/php-mcp/server)

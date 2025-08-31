@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T02:09:44.107504
-image: assets/morpheuslord_GPT_Vuln-analyzer_cropped.png
+date: 2025-08-06 02:09:44.107504
 ---
 
 # [morpheuslord/GPT_Vuln-analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer)

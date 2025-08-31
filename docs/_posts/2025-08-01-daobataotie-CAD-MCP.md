@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T20:25:03.533904
-image: assets/daobataotie_CAD-MCP_cropped.png
+date: 2025-08-01 20:25:03.533904
 ---
 
 # [daobataotie/CAD-MCP](https://github.com/daobataotie/CAD-MCP)

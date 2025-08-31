@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-17T19:08:44.940923
-image: assets/microsoft_edit_cropped.png
+date: 2025-06-17 19:08:44.940923
 ---
 
 # [microsoft/edit](https://github.com/microsoft/edit)

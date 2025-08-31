@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T18:14:36.287431
-image: assets/20250818T124132275_alloc_drizzle-plus--20250818T124747552--cropped.png
+date: 2025-08-20 18:14:36.287431
 ---
 
 # [alloc/drizzle-plus](https://github.com/alloc/drizzle-plus)

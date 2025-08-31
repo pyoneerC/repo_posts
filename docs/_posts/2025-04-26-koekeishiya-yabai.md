@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T09:37:35.841565
-image: assets/koekeishiya_yabai_cropped.png
+date: 2025-04-26 09:37:35.841565
 ---
 
 # [koekeishiya/yabai](https://github.com/koekeishiya/yabai)

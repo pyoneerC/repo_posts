@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-17T00:05:22.048191
-image: assets/apple_container_cropped.png
+date: 2025-06-17 00:05:22.048191
 ---
 
 # [apple/container](https://github.com/apple/container)

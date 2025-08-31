@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T05:59:21.785812
-image: assets/bghira_SimpleTuner_cropped.png
+date: 2025-06-21 05:59:21.785812
 ---
 
 # [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner)

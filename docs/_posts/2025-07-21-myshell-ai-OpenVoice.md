@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T12:34:15.464243
-image: assets/myshell-ai_OpenVoice_cropped.png
+date: 2025-07-21 12:34:15.464243
 ---
 
 # [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)

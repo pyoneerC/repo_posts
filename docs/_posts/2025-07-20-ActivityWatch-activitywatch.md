@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T15:22:17.059664
-image: assets/ActivityWatch_activitywatch_cropped.png
+date: 2025-07-20 15:22:17.059664
 ---
 
 # [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)

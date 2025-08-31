@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T18:45:23.444183
-image: assets/20250830T173443493--jina-ai--serve--20250830T174157921--cropped.png
+date: 2025-08-31 18:45:23.444183
 ---
 
 # [jina-ai/serve](https://github.com/jina-ai/serve)

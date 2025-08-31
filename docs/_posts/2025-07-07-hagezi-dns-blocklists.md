@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T08:55:03.564906
-image: assets/hagezi_dns-blocklists_cropped.png
+date: 2025-07-07 08:55:03.564906
 ---
 
 # [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)

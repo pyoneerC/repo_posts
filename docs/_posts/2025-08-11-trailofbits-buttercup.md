@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T17:16:07.071516
-image: assets/trailofbits_buttercup_cropped.png
+date: 2025-08-11 17:16:07.071516
 ---
 
 # [trailofbits/buttercup](https://github.com/trailofbits/buttercup)

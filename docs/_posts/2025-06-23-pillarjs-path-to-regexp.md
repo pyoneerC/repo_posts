@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T10:50:39.886762
-image: assets/pillarjs_path-to-regexp_cropped.png
+date: 2025-06-23 10:50:39.886762
 ---
 
 # [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp)

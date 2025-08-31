@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-15T14:41:30.576775
-image: assets/taslabs-net_dasharr_cropped.png
+date: 2025-07-15 14:41:30.576775
 ---
 
 # [taslabs-net/dasharr](https://github.com/taslabs-net/dasharr)

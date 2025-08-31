@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T17:23:01.753943
-image: assets/omkarcloud_botasaurus_cropped.png
+date: 2025-08-01 17:23:01.753943
 ---
 
 # [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)

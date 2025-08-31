@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-27T03:34:14.972833
-image: assets/20250826T024136903--lapce--lapdev--20250826T024559428--cropped.png
+date: 2025-08-27 03:34:14.972833
 ---
 
 # [lapce/lapdev](https://github.com/lapce/lapdev)

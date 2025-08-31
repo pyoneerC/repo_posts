@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-17T10:53:18.305590
-image: assets/seal-rg_recurrent-pretraining_cropped.png
+date: 2025-02-17 10:53:18.305590
 ---
 
 # [seal-rg/recurrent-pretraining](https://github.com/seal-rg/recurrent-pretraining)

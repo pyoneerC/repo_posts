@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T18:47:01.323314
-image: assets/langchain-ai_agents-from-scratch_cropped.png
+date: 2025-07-06 18:47:01.323314
 ---
 
 # [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch)

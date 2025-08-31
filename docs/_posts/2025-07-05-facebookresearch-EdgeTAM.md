@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T09:29:43.818426
-image: assets/facebookresearch_EdgeTAM_cropped.png
+date: 2025-07-05 09:29:43.818426
 ---
 
 # [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM)

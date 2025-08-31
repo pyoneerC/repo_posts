@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T10:44:11.814736
-image: assets/bunkeriot_BunkerM_cropped.png
+date: 2025-08-06 10:44:11.814736
 ---
 
 # [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM)

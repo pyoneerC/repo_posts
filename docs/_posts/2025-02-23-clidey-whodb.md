@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-23T15:06:53.588317
-image: assets/clidey_whodb_cropped.png
+date: 2025-02-23 15:06:53.588317
 ---
 
 # [clidey/whodb](https://github.com/clidey/whodb)

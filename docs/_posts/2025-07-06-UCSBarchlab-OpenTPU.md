@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T13:14:07.570463
-image: assets/UCSBarchlab_OpenTPU_cropped.png
+date: 2025-07-06 13:14:07.570463
 ---
 
 # [UCSBarchlab/OpenTPU](https://github.com/UCSBarchlab/OpenTPU)

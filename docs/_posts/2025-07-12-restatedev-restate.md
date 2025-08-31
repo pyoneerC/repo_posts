@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T06:01:47.856541
-image: assets/restatedev_restate_cropped.png
+date: 2025-07-12 06:01:47.856541
 ---
 
 # [restatedev/restate](https://github.com/restatedev/restate)

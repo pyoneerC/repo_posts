@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-22T05:02:32.045804
-image: assets/20250818T113930407_RecapAI_Recap--20250820T141308133--cropped.png
+date: 2025-08-22 05:02:32.045804
 ---
 
 # [RecapAI/Recap](https://github.com/RecapAI/Recap)

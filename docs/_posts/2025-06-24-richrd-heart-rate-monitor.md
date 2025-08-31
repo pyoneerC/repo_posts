@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T02:43:23.286375
-image: assets/richrd_heart-rate-monitor_cropped.png
+date: 2025-06-24 02:43:23.286375
 ---
 
 # [richrd/heart-rate-monitor](https://github.com/richrd/heart-rate-monitor)

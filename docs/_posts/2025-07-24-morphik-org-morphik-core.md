@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T15:14:56.688332
-image: assets/morphik-org_morphik-core_cropped.png
+date: 2025-07-24 15:14:56.688332
 ---
 
 # [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core)

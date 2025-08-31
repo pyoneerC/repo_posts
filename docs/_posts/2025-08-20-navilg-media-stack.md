@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T07:08:38.275687
-image: assets/20250818T121730995_navilg_media-stack--20250818T121845854--cropped.png
+date: 2025-08-20 07:08:38.275687
 ---
 
 # [navilg/media-stack](https://github.com/navilg/media-stack)

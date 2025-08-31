@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T05:10:29.769348
-image: assets/KalyanKS-NLP_llm-engineer-toolkit_cropped.png
+date: 2025-08-11 05:10:29.769348
 ---
 
 # [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T08:46:33.619651
-image: assets/nektos_act_cropped.png
+date: 2025-07-04 08:46:33.619651
 ---
 
 # [nektos/act](https://github.com/nektos/act)

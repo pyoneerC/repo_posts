@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T14:24:58.489940
-image: assets/jimmc414_onefilellm_cropped.png
+date: 2025-08-03 14:24:58.489940
 ---
 
 # [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm)

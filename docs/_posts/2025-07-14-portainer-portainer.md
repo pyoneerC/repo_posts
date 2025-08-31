@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T19:29:21.605961
-image: assets/portainer_portainer_cropped.png
+date: 2025-07-14 19:29:21.605961
 ---
 
 # [portainer/portainer](https://github.com/portainer/portainer)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T09:08:19.053419
-image: assets/animate-ui_animate-ui_cropped.png
+date: 2025-07-01 09:08:19.053419
 ---
 
 # [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui)

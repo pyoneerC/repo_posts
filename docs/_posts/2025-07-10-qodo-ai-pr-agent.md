@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T21:44:39.510367
-image: assets/qodo-ai_pr-agent_cropped.png
+date: 2025-07-10 21:44:39.510367
 ---
 
 # [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent)

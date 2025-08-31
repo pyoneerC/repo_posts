@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T18:32:16.793563
-image: assets/HeyPuter_puter_cropped.png
+date: 2025-06-22 18:32:16.793563
 ---
 
 # [HeyPuter/puter](https://github.com/HeyPuter/puter)

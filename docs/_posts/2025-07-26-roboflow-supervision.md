@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T07:36:43.964820
-image: assets/roboflow_supervision_cropped.png
+date: 2025-07-26 07:36:43.964820
 ---
 
 # [roboflow/supervision](https://github.com/roboflow/supervision)

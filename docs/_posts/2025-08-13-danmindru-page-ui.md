@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-13T02:03:22.549996
-image: assets/20250810T054009--danmindru--page-ui--20250812T011204--cropped.png
+date: 2025-08-13 02:03:22.549996
 ---
 
 # [danmindru/page-ui](https://github.com/danmindru/page-ui)

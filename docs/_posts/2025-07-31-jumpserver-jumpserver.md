@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T16:09:15.153771
-image: assets/jumpserver_jumpserver_cropped.png
+date: 2025-07-31 16:09:15.153771
 ---
 
 # [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)

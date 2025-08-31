@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-22T18:08:46.844449
-image: assets/20250822T014948440--apernet--hysteria--20250822T020618749--cropped.png
+date: 2025-08-22 18:08:46.844449
 ---
 
 # [apernet/hysteria](https://github.com/apernet/hysteria)

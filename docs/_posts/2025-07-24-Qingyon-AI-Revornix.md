@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T13:44:07.997250
-image: assets/Qingyon-AI_Revornix_cropped.png
+date: 2025-07-24 13:44:07.997250
 ---
 
 # [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix)

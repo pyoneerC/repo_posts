@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T16:06:18.721157
-image: assets/usertour_usertour_cropped.png
+date: 2025-08-02 16:06:18.721157
 ---
 
 # [usertour/usertour](https://github.com/usertour/usertour)

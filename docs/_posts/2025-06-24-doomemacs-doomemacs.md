@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T06:03:42.530943
-image: assets/doomemacs_doomemacs_cropped.png
+date: 2025-06-24 06:03:42.530943
 ---
 
 # [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs)

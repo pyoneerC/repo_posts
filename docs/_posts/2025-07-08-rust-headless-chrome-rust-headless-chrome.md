@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T17:47:25.875601
-image: assets/rust-headless-chrome_rust-headless-chrome_cropped.png
+date: 2025-07-08 17:47:25.875601
 ---
 
 # [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome)

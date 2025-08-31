@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T13:24:32.987032
-image: assets/montysecurity_C2-Tracker_cropped.png
+date: 2025-07-30 13:24:32.987032
 ---
 
 # [montysecurity/C2-Tracker](https://github.com/montysecurity/C2-Tracker)

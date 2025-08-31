@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-18T06:32:35.093878
-image: assets/tldraw_tldraw_cropped.png
+date: 2025-06-18 06:32:35.093878
 ---
 
 # [tldraw/tldraw](https://github.com/tldraw/tldraw)

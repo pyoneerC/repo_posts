@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T06:35:49.779131
-image: assets/supabase_realtime_cropped.png
+date: 2025-04-26 06:35:49.779131
 ---
 
 # [supabase/realtime](https://github.com/supabase/realtime)

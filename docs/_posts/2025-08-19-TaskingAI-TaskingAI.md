@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T09:27:44.690135
-image: assets/20250818T112159971_TaskingAI_TaskingAI--20250818T112349386--cropped.png
+date: 2025-08-19 09:27:44.690135
 ---
 
 # [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T22:50:45.907121
-image: assets/rocksdanister_lively_cropped.png
+date: 2025-08-06 22:50:45.907121
 ---
 
 # [rocksdanister/lively](https://github.com/rocksdanister/lively)

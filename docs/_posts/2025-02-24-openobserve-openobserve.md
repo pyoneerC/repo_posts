@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T22:22:58.682929
-image: assets/openobserve_openobserve_cropped.png
+date: 2025-02-24 22:22:58.682929
 ---
 
 # [openobserve/openobserve](https://github.com/openobserve/openobserve)

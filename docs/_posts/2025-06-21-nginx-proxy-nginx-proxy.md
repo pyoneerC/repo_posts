@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T11:01:42.974470
-image: assets/nginx-proxy_nginx-proxy_cropped.png
+date: 2025-06-21 11:01:42.974470
 ---
 
 # [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)

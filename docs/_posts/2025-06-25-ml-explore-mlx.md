@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T09:42:05.887685
-image: assets/ml-explore_mlx_cropped.png
+date: 2025-06-25 09:42:05.887685
 ---
 
 # [ml-explore/mlx](https://github.com/ml-explore/mlx)

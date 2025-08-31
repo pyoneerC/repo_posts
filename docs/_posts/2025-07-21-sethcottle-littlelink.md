@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T21:39:09.879172
-image: assets/sethcottle_littlelink_cropped.png
+date: 2025-07-21 21:39:09.879172
 ---
 
 # [sethcottle/littlelink](https://github.com/sethcottle/littlelink)

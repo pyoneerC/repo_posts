@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T14:44:08.785015
-image: assets/charmbracelet_gum_cropped.png
+date: 2025-05-05 14:44:08.785015
 ---
 
 # [charmbracelet/gum](https://github.com/charmbracelet/gum)

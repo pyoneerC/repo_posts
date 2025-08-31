@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-28T04:18:49.243686
-image: assets/20250826T033440917--dorkitude--linctl--20250826T034520938--cropped.png
+date: 2025-08-28 04:18:49.243686
 ---
 
 # [dorkitude/linctl](https://github.com/dorkitude/linctl)

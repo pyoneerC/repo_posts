@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T11:22:20.990509
-image: assets/astral-sh_ty_cropped.png
+date: 2025-05-12 11:22:20.990509
 ---
 
 # [astral-sh/ty](https://github.com/astral-sh/ty)

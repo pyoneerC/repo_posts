@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T23:01:14.374864
-image: assets/jordan-cutler_path-to-senior-engineer-handbook_cropped.png
+date: 2025-07-16 23:01:14.374864
 ---
 
 # [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)

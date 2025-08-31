@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-26T05:51:40.516789
-image: assets/20250825T030313957--pantor--ruckig--20250825T031000893--cropped.png
+date: 2025-08-26 05:51:40.516789
 ---
 
 # [pantor/ruckig](https://github.com/pantor/ruckig)

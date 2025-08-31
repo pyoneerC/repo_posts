@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T03:04:37.542109
-image: assets/best-of-ai_ai-directories_cropped.png
+date: 2025-08-08 03:04:37.542109
 ---
 
 # [best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories)

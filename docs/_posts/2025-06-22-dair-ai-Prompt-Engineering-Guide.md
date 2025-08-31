@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T11:59:02.348647
-image: assets/dair-ai_Prompt-Engineering-Guide_cropped.png
+date: 2025-06-22 11:59:02.348647
 ---
 
 # [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)

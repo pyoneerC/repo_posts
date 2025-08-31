@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T05:05:59.317322
-image: assets/goauthentik_authentik_cropped.png
+date: 2025-07-10 05:05:59.317322
 ---
 
 # [goauthentik/authentik](https://github.com/goauthentik/authentik)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-17T22:00:14.589287
-image: assets/codigoencasa_builderbot--20250816T204813945--cropped.png
+date: 2025-08-17 22:00:14.589287
 ---
 
 # [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot)

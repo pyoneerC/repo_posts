@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T09:04:23.813851
-image: assets/kopia_kopia_cropped.png
+date: 2025-07-19 09:04:23.813851
 ---
 
 # [kopia/kopia](https://github.com/kopia/kopia)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-18T10:04:24.397395
-image: assets/vinta_awesome-python_cropped.png
+date: 2025-06-18 10:04:24.397395
 ---
 
 # [vinta/awesome-python](https://github.com/vinta/awesome-python)

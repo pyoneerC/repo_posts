@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T17:12:00.420767
-image: assets/open-webui_mcpo_cropped.png
+date: 2025-07-17 17:12:00.420767
 ---
 
 # [open-webui/mcpo](https://github.com/open-webui/mcpo)

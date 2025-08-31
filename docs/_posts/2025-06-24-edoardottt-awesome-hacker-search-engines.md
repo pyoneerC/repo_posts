@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T09:05:07.817585
-image: assets/edoardottt_awesome-hacker-search-engines_cropped.png
+date: 2025-06-24 09:05:07.817585
 ---
 
 # [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)

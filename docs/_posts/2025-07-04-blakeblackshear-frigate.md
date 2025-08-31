@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T03:13:35.989867
-image: assets/blakeblackshear_frigate_cropped.png
+date: 2025-07-04 03:13:35.989867
 ---
 
 # [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)

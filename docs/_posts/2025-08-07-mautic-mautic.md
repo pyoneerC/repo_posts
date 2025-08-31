@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-07T22:02:15.582272
-image: assets/mautic_mautic_cropped.png
+date: 2025-08-07 22:02:15.582272
 ---
 
 # [mautic/mautic](https://github.com/mautic/mautic)

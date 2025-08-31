@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-17T11:25:05.560389
-image: assets/Vansmak_composr--20250816T051346903--cropped.png
+date: 2025-08-17 11:25:05.560389
 ---
 
 # [Vansmak/composr](https://github.com/Vansmak/composr)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T19:32:51.651753
-image: assets/scrapy_scrapy_cropped.png
+date: 2025-06-22 19:32:51.651753
 ---
 
 # [scrapy/scrapy](https://github.com/scrapy/scrapy)

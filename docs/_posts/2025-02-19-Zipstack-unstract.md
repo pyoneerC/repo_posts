@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-19T20:28:20.324367
-image: assets/Zipstack_unstract_cropped.png
+date: 2025-02-19 20:28:20.324367
 ---
 
 # [Zipstack/unstract](https://github.com/Zipstack/unstract)

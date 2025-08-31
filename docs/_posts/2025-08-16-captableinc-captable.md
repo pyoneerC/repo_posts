@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T04:39:58.068738
-image: assets/captableinc_captable--20250815T022201903--cropped.png
+date: 2025-08-16 04:39:58.068738
 ---
 
 # [captableinc/captable](https://github.com/captableinc/captable)

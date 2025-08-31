@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-27T10:38:56.092021
-image: assets/20250826T030002476--serge-chat--serge--20250826T030439944--cropped.png
+date: 2025-08-27 10:38:56.092021
 ---
 
 # [serge-chat/serge](https://github.com/serge-chat/serge)

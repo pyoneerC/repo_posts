@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T20:39:25.324486
-image: assets/ui-layouts_ui-tools_cropped.png
+date: 2025-08-02 20:39:25.324486
 ---
 
 # [ui-layouts/ui-tools](https://github.com/ui-layouts/ui-tools)

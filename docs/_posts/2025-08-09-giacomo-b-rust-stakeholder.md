@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T18:24:17.405628
-image: assets/giacomo-b_rust-stakeholder_cropped.png
+date: 2025-08-09 18:24:17.405628
 ---
 
 # [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)

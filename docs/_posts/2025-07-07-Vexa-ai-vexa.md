@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T02:20:57.811675
-image: assets/Vexa-ai_vexa_cropped.png
+date: 2025-07-07 02:20:57.811675
 ---
 
 # [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)

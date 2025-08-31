@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T21:45:18.831916
-image: assets/shenwei356_seqkit_cropped.png
+date: 2025-06-19 21:45:18.831916
 ---
 
 # [shenwei356/seqkit](https://github.com/shenwei356/seqkit)

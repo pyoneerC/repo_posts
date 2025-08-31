@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T04:39:25.676666
-image: assets/IceWhaleTech_ZimaOS_cropped.png
+date: 2025-07-24 04:39:25.676666
 ---
 
 # [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T10:13:58.797831
-image: assets/Minidoracat_mcp-feedback-enhanced_cropped.png
+date: 2025-08-06 10:13:58.797831
 ---
 
 # [Minidoracat/mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced)

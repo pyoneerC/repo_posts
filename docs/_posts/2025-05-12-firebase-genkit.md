@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T13:23:46.370774
-image: assets/firebase_genkit_cropped.png
+date: 2025-05-12 13:23:46.370774
 ---
 
 # [firebase/genkit](https://github.com/firebase/genkit)

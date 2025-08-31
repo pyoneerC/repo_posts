@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T15:40:54.111951
-image: assets/tokio-rs_tokio_cropped.png
+date: 2025-07-17 15:40:54.111951
 ---
 
 # [tokio-rs/tokio](https://github.com/tokio-rs/tokio)

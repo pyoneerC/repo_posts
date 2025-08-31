@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-21T22:44:19.861124
-image: assets/executeautomation_mcp-playwright_cropped.png
+date: 2025-04-21 22:44:19.861124
 ---
 
 # [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)

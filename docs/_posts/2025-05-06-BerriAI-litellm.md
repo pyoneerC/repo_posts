@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-06T15:41:57.198930
-image: assets/BerriAI_litellm_cropped.png
+date: 2025-05-06 15:41:57.198930
 ---
 
 # [BerriAI/litellm](https://github.com/BerriAI/litellm)

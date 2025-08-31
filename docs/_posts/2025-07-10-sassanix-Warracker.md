@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T15:41:24.539740
-image: assets/sassanix_Warracker_cropped.png
+date: 2025-07-10 15:41:24.539740
 ---
 
 # [sassanix/Warracker](https://github.com/sassanix/Warracker)

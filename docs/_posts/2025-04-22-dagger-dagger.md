@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T13:00:27.855494
-image: assets/dagger_dagger_cropped.png
+date: 2025-04-22 13:00:27.855494
 ---
 
 # [dagger/dagger](https://github.com/dagger/dagger)

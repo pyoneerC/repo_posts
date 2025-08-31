@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T23:56:45.154234
-image: assets/sajalhalder_FuncVul_cropped.png
+date: 2025-08-09 23:56:45.154234
 ---
 
 # [sajalhalder/FuncVul](https://github.com/sajalhalder/FuncVul)

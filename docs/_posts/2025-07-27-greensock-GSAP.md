@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T12:21:28.009795
-image: assets/greensock_GSAP_cropped.png
+date: 2025-07-27 12:21:28.009795
 ---
 
 # [greensock/GSAP](https://github.com/greensock/GSAP)

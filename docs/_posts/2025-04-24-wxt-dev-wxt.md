@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T09:10:39.688624
-image: assets/wxt-dev_wxt_cropped.png
+date: 2025-04-24 09:10:39.688624
 ---
 
 # [wxt-dev/wxt](https://github.com/wxt-dev/wxt)

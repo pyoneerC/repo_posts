@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T23:57:06.927157
-image: assets/Bistutu_FluentRead_cropped.png
+date: 2025-08-01 23:57:06.927157
 ---
 
 # [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)

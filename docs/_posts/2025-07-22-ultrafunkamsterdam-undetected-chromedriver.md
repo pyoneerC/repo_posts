@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T17:50:06.220687
-image: assets/ultrafunkamsterdam_undetected-chromedriver_cropped.png
+date: 2025-07-22 17:50:06.220687
 ---
 
 # [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)

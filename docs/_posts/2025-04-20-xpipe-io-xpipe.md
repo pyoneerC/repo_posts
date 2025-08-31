@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T02:54:43.340771
-image: assets/xpipe-io_xpipe_cropped.png
+date: 2025-04-20 02:54:43.340771
 ---
 
 # [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)

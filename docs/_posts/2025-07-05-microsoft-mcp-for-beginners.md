@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T18:04:05.719452
-image: assets/microsoft_mcp-for-beginners_cropped.png
+date: 2025-07-05 18:04:05.719452
 ---
 
 # [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)

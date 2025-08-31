@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T10:19:36.063594
-image: assets/rhulha_StreamingKokoroJS_cropped.png
+date: 2025-08-04 10:19:36.063594
 ---
 
 # [rhulha/StreamingKokoroJS](https://github.com/rhulha/StreamingKokoroJS)

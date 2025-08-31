@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T01:24:14.989889
-image: assets/documenso_documenso_cropped.png
+date: 2025-07-23 01:24:14.989889
 ---
 
 # [documenso/documenso](https://github.com/documenso/documenso)

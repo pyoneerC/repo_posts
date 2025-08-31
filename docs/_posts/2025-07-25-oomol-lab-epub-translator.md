@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T16:58:41.510125
-image: assets/oomol-lab_epub-translator_cropped.png
+date: 2025-07-25 16:58:41.510125
 ---
 
 # [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator)

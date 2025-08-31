@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T13:54:52.894000
-image: assets/bbycroft_llm-viz_cropped.png
+date: 2025-07-18 13:54:52.894000
 ---
 
 # [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T20:03:10.080140
-image: assets/20250818T115339975_s0md3v_be-a-hacker--20250818T115801632--cropped.png
+date: 2025-08-19 20:03:10.080140
 ---
 
 # [s0md3v/be-a-hacker](https://github.com/s0md3v/be-a-hacker)

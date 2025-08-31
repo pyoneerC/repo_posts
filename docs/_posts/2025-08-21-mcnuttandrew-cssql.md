@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-21T01:48:35.373686
-image: assets/20250820T130610111_mcnuttandrew_cssql--20250820T131136719--cropped.png
+date: 2025-08-21 01:48:35.373686
 ---
 
 # [mcnuttandrew/cssql](https://github.com/mcnuttandrew/cssql)

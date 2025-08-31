@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T21:00:47.628577
-image: assets/awesome-foss_awesome-sysadmin_cropped.png
+date: 2025-07-25 21:00:47.628577
 ---
 
 # [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)

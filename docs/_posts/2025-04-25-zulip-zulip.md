@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T09:56:21.774150
-image: assets/zulip_zulip_cropped.png
+date: 2025-04-25 09:56:21.774150
 ---
 
 # [zulip/zulip](https://github.com/zulip/zulip)

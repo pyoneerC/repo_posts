@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T07:48:16.828149
-image: assets/20250814T031239905_intentee_paddler--20250814T031647453--cropped.png
+date: 2025-08-14 07:48:16.828149
 ---
 
 # [intentee/paddler](https://github.com/intentee/paddler)

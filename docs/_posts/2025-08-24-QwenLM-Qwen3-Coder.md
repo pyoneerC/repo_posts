@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T16:33:22.115431
-image: assets/20250823T012247603--QwenLM--Qwen3-Coder--20250823T013357263--cropped.png
+date: 2025-08-24 16:33:22.115431
 ---
 
 # [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder)

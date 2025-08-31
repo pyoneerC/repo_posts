@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T03:17:09.587221
-image: assets/unnoq_orpc_cropped.png
+date: 2025-05-12 03:17:09.587221
 ---
 
 # [unnoq/orpc](https://github.com/unnoq/orpc)

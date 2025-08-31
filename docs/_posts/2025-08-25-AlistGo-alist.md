@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-25T19:46:29.561640
-image: assets/20250825T023935793--AlistGo--alist--20250825T024334495--cropped.png
+date: 2025-08-25 19:46:29.561640
 ---
 
 # [AlistGo/alist](https://github.com/AlistGo/alist)

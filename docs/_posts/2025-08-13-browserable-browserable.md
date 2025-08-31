@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-13T16:40:46.944329
-image: assets/browserable_browserable--20250812T233437--cropped.png
+date: 2025-08-13 16:40:46.944329
 ---
 
 # [browserable/browserable](https://github.com/browserable/browserable)

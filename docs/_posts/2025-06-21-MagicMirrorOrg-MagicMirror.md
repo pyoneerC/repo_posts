@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T23:07:14.755332
-image: assets/MagicMirrorOrg_MagicMirror_cropped.png
+date: 2025-06-21 23:07:14.755332
 ---
 
 # [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T09:35:44.199824
-image: assets/universal-mcp_universal-mcp--20250817T075126477--cropped.png
+date: 2025-08-18 09:35:44.199824
 ---
 
 # [universal-mcp/universal-mcp](https://github.com/universal-mcp/universal-mcp)

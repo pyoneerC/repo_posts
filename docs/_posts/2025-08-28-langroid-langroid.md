@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-28T21:57:52.447600
-image: assets/20250827T221948283--langroid--langroid--20250827T223103489--cropped.png
+date: 2025-08-28 21:57:52.447600
 ---
 
 # [langroid/langroid](https://github.com/langroid/langroid)

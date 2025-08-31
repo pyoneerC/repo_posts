@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T05:47:47.429608
-image: assets/diffusionstudio_core_cropped.png
+date: 2025-08-09 05:47:47.429608
 ---
 
 # [diffusionstudio/core](https://github.com/diffusionstudio/core)

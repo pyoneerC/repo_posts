@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T10:35:17.751229
-image: assets/tremorlabs_tremor_cropped.png
+date: 2025-07-19 10:35:17.751229
 ---
 
 # [tremorlabs/tremor](https://github.com/tremorlabs/tremor)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T11:38:41.821905
-image: assets/nathom_streamrip_cropped.png
+date: 2025-08-08 11:38:41.821905
 ---
 
 # [nathom/streamrip](https://github.com/nathom/streamrip)

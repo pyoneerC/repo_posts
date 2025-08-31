@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T06:05:35.386563
-image: assets/debezium_debezium_cropped.png
+date: 2025-04-26 06:05:35.386563
 ---
 
 # [debezium/debezium](https://github.com/debezium/debezium)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T18:45:36.231414
-image: assets/huggingface_datasets_cropped.png
+date: 2025-04-24 18:45:36.231414
 ---
 
 # [huggingface/datasets](https://github.com/huggingface/datasets)

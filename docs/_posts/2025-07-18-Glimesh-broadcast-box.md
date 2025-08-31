@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T18:57:23.613916
-image: assets/Glimesh_broadcast-box_cropped.png
+date: 2025-07-18 18:57:23.613916
 ---
 
 # [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box)

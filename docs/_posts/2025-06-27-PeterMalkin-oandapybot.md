@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T22:34:34.477821
-image: assets/PeterMalkin_oandapybot_cropped.png
+date: 2025-06-27 22:34:34.477821
 ---
 
 # [PeterMalkin/oandapybot](https://github.com/PeterMalkin/oandapybot)

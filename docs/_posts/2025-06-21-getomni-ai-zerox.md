@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T12:32:22.352790
-image: assets/getomni-ai_zerox_cropped.png
+date: 2025-06-21 12:32:22.352790
 ---
 
 # [getomni-ai/zerox](https://github.com/getomni-ai/zerox)

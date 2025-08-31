@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T11:19:40.058582
-image: assets/santinic_audiblez_cropped.png
+date: 2025-07-20 11:19:40.058582
 ---
 
 # [santinic/audiblez](https://github.com/santinic/audiblez)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T20:03:07.436359
-image: assets/transitive-bullshit_agentic_cropped.png
+date: 2025-06-22 20:03:07.436359
 ---
 
 # [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)

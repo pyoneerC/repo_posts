@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-29T18:14:43.901245
-image: assets/20250829T041418222--0x3at--synceverything--20250829T042037763--cropped.png
+date: 2025-08-29 18:14:43.901245
 ---
 
 # [0x3at/synceverything](https://github.com/0x3at/synceverything)

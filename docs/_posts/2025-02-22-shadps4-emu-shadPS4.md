@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-22T07:44:38.550117
-image: assets/shadps4-emu_shadPS4_cropped.png
+date: 2025-02-22 07:44:38.550117
 ---
 
 # [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)

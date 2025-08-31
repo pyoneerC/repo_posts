@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-30T11:26:12.930100
-image: assets/20250830T034851203--alvinunreal--tmuxai--20250830T035033032--cropped.png
+date: 2025-08-30 11:26:12.930100
 ---
 
 # [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai)

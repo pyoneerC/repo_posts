@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-30T13:57:50.701053
-image: assets/20250830T040301105--growchief--growchief--20250830T040857177--cropped.png
+date: 2025-08-30 13:57:50.701053
 ---
 
 # [growchief/growchief](https://github.com/growchief/growchief)

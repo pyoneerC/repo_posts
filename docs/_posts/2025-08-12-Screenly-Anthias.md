@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T12:56:19.460301
-image: assets/Screenly_Anthias--20250812T001951--cropped.png
+date: 2025-08-12 12:56:19.460301
 ---
 
 # [Screenly/Anthias](https://github.com/Screenly/Anthias)

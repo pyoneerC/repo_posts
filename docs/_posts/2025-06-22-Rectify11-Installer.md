@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T05:56:21.338606
-image: assets/Rectify11_Installer_cropped.png
+date: 2025-06-22 05:56:21.338606
 ---
 
 # [Rectify11/Installer](https://github.com/Rectify11/Installer)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-11T23:14:42.296775
-image: assets/plexguide_Huntarr.io_cropped.png
+date: 2025-05-11 23:14:42.296775
 ---
 
 # [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io)

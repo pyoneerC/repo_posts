@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T18:03:31.033135
-image: assets/mikeroyal_Self-Hosting-Guide_cropped.png
+date: 2025-06-24 18:03:31.033135
 ---
 
 # [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)

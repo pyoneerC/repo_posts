@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-27T01:02:49.135254
-image: assets/20250826T023931571--lunarphp--lunar--20250826T024350869--cropped.png
+date: 2025-08-27 01:02:49.135254
 ---
 
 # [lunarphp/lunar](https://github.com/lunarphp/lunar)

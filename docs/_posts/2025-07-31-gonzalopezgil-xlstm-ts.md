@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T13:07:28.595698
-image: assets/gonzalopezgil_xlstm-ts_cropped.png
+date: 2025-07-31 13:07:28.595698
 ---
 
 # [gonzalopezgil/xlstm-ts](https://github.com/gonzalopezgil/xlstm-ts)

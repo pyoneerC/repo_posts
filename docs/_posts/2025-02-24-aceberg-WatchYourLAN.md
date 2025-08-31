@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T11:43:33.362219
-image: assets/aceberg_WatchYourLAN_cropped.png
+date: 2025-02-24 11:43:33.362219
 ---
 
 # [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)

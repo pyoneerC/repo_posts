@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T04:40:32.430006
-image: assets/rustfs_rustfs_cropped.png
+date: 2025-07-08 04:40:32.430006
 ---
 
 # [rustfs/rustfs](https://github.com/rustfs/rustfs)

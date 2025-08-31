@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T15:47:09.472844
-image: assets/bytedance_UI-TARS_cropped.png
+date: 2025-02-24 15:47:09.472844
 ---
 
 # [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS)

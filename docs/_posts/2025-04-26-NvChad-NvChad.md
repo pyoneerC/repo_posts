@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T07:06:10.800085
-image: assets/NvChad_NvChad_cropped.png
+date: 2025-04-26 07:06:10.800085
 ---
 
 # [NvChad/NvChad](https://github.com/NvChad/NvChad)

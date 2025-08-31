@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-25T08:04:12.569916
-image: assets/VikParuchuri_surya_cropped.png
+date: 2025-02-25 08:04:12.569916
 ---
 
 # [VikParuchuri/surya](https://github.com/VikParuchuri/surya)

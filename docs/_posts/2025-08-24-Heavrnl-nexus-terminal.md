@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T06:57:45.773427
-image: assets/20250822T030120509--Heavrnl--nexus-terminal--20250822T030752878--cropped.png
+date: 2025-08-24 06:57:45.773427
 ---
 
 # [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal)

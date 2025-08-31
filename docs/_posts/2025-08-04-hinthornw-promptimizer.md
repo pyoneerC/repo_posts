@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T22:55:43.326232
-image: assets/hinthornw_promptimizer_cropped.png
+date: 2025-08-04 22:55:43.326232
 ---
 
 # [hinthornw/promptimizer](https://github.com/hinthornw/promptimizer)

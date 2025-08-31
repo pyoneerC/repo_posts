@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T08:01:50.545792
-image: assets/zitadel_zitadel_cropped.png
+date: 2025-07-21 08:01:50.545792
 ---
 
 # [zitadel/zitadel](https://github.com/zitadel/zitadel)

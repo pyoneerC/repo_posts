@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T12:35:58.911748
-image: assets/hrkfdn_ncspot_cropped.png
+date: 2025-07-03 12:35:58.911748
 ---
 
 # [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot)

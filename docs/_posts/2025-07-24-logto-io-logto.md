@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T19:17:07.828886
-image: assets/logto-io_logto_cropped.png
+date: 2025-07-24 19:17:07.828886
 ---
 
 # [logto-io/logto](https://github.com/logto-io/logto)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T14:37:01.037118
-image: assets/microsoft_fluentui-system-icons_cropped.png
+date: 2025-07-03 14:37:01.037118
 ---
 
 # [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)

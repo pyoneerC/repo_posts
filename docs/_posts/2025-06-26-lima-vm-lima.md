@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-26T22:05:48.832032
-image: assets/lima-vm_lima_cropped.png
+date: 2025-06-26 22:05:48.832032
 ---
 
 # [lima-vm/lima](https://github.com/lima-vm/lima)

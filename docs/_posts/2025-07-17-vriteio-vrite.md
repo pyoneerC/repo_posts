@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T00:01:51.064980
-image: assets/vriteio_vrite_cropped.png
+date: 2025-07-17 00:01:51.064980
 ---
 
 # [vriteio/vrite](https://github.com/vriteio/vrite)

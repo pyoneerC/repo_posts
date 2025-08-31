@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T12:37:11.532816
-image: assets/metehan777_awesome-workflow-use-ideas--20250817T080051114--cropped.png
+date: 2025-08-18 12:37:11.532816
 ---
 
 # [metehan777/awesome-workflow-use-ideas](https://github.com/metehan777/awesome-workflow-use-ideas)

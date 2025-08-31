@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-15T17:43:05.075436
-image: assets/ToolJet_ToolJet_cropped.png
+date: 2025-07-15 17:43:05.075436
 ---
 
 # [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)

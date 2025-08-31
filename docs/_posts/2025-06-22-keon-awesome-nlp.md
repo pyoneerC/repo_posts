@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T04:25:40.300730
-image: assets/keon_awesome-nlp_cropped.png
+date: 2025-06-22 04:25:40.300730
 ---
 
 # [keon/awesome-nlp](https://github.com/keon/awesome-nlp)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-27T08:37:25.464954
-image: assets/20250826T024916978--bee-san--pyWhat--20250826T025924865--cropped.png
+date: 2025-08-27 08:37:25.464954
 ---
 
 # [bee-san/pyWhat](https://github.com/bee-san/pyWhat)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T21:59:40.723962
-image: assets/julien040_anyquery_cropped.png
+date: 2025-07-30 21:59:40.723962
 ---
 
 # [julien040/anyquery](https://github.com/julien040/anyquery)

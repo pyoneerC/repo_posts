@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T11:43:00.848941
-image: assets/baturyilmaz_wordpecker-app_cropped.png
+date: 2025-07-24 11:43:00.848941
 ---
 
 # [baturyilmaz/wordpecker-app](https://github.com/baturyilmaz/wordpecker-app)

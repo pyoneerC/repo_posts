@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T05:53:57.632703
-image: assets/MemTensor_MemOS_cropped.png
+date: 2025-07-09 05:53:57.632703
 ---
 
 # [MemTensor/MemOS](https://github.com/MemTensor/MemOS)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T03:49:16.063806
-image: assets/h5bp_html5-boilerplate_cropped.png
+date: 2025-07-02 03:49:16.063806
 ---
 
 # [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)

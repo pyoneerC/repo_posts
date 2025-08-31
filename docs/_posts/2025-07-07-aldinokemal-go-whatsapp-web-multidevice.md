@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T20:31:14.166546
-image: assets/aldinokemal_go-whatsapp-web-multidevice_cropped.png
+date: 2025-07-07 20:31:14.166546
 ---
 
 # [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-23T18:21:20.125804
-image: assets/20250822T024201729--docsifyjs--docsify--20250822T024751793--cropped.png
+date: 2025-08-23 18:21:20.125804
 ---
 
 # [docsifyjs/docsify](https://github.com/docsifyjs/docsify)

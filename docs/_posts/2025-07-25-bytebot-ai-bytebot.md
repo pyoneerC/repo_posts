@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T11:25:49.531319
-image: assets/bytebot-ai_bytebot_cropped.png
+date: 2025-07-25 11:25:49.531319
 ---
 
 # [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)

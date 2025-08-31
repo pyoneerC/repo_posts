@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T05:08:34.909752
-image: assets/serafimcloud_21st_cropped.png
+date: 2025-04-24 05:08:34.909752
 ---
 
 # [serafimcloud/21st](https://github.com/serafimcloud/21st)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T21:10:09.091448
-image: assets/github_markup_cropped.png
+date: 2025-06-23 21:10:09.091448
 ---
 
 # [github/markup](https://github.com/github/markup)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T09:26:06.565140
-image: assets/omnigres_omnigres_cropped.png
+date: 2025-04-25 09:26:06.565140
 ---
 
 # [omnigres/omnigres](https://github.com/omnigres/omnigres)

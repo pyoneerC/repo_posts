@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T06:06:06.300788
-image: assets/gotify_server_cropped.png
+date: 2025-08-08 06:06:06.300788
 ---
 
 # [gotify/server](https://github.com/gotify/server)

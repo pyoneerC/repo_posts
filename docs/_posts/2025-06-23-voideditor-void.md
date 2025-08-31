@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T12:21:22.524431
-image: assets/voideditor_void_cropped.png
+date: 2025-06-23 12:21:22.524431
 ---
 
 # [voideditor/void](https://github.com/voideditor/void)

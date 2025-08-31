@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T19:00:24.606247
-image: assets/FujiwaraChoki_MoneyPrinterV2_cropped.png
+date: 2025-07-07 19:00:24.606247
 ---
 
 # [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T10:33:11.829072
-image: assets/cheeselemon_ophiuchi-desktop_cropped.png
+date: 2025-07-21 10:33:11.829072
 ---
 
 # [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop)

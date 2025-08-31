@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T15:42:52.996227
-image: assets/viatsko_awesome-vscode_cropped.png
+date: 2025-07-29 15:42:52.996227
 ---
 
 # [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)

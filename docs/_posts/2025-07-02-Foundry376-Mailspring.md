@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T09:52:18.669689
-image: assets/Foundry376_Mailspring_cropped.png
+date: 2025-07-02 09:52:18.669689
 ---
 
 # [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-13T05:04:49.586660
-image: assets/KittenML_KittenTTS--20250812T225048--cropped.png
+date: 2025-08-13 05:04:49.586660
 ---
 
 # [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)

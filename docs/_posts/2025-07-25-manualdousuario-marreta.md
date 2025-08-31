@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T02:21:03.837978
-image: assets/manualdousuario_marreta_cropped.png
+date: 2025-07-25 02:21:03.837978
 ---
 
 # [manualdousuario/marreta](https://github.com/manualdousuario/marreta)

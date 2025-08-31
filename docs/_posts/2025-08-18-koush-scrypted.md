@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T00:31:33.555413
-image: assets/koush_scrypted--20250816T205938003--cropped.png
+date: 2025-08-18 00:31:33.555413
 ---
 
 # [koush/scrypted](https://github.com/koush/scrypted)

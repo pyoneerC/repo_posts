@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T19:32:58.623641
-image: assets/OpenXiangShan_XiangShan_cropped.png
+date: 2025-06-27 19:32:58.623641
 ---
 
 # [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan)

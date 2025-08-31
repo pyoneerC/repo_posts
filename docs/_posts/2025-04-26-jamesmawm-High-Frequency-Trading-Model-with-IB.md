@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T04:04:34.255903
-image: assets/jamesmawm_High-Frequency-Trading-Model-with-IB_cropped.png
+date: 2025-04-26 04:04:34.255903
 ---
 
 # [jamesmawm/High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T14:41:46.806180
-image: assets/andrewyng_aisuite_cropped.png
+date: 2025-06-19 14:41:46.806180
 ---
 
 # [andrewyng/aisuite](https://github.com/andrewyng/aisuite)

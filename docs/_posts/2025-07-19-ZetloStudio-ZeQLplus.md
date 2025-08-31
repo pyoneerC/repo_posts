@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T03:01:31.731130
-image: assets/ZetloStudio_ZeQLplus_cropped.png
+date: 2025-07-19 03:01:31.731130
 ---
 
 # [ZetloStudio/ZeQLplus](https://github.com/ZetloStudio/ZeQLplus)

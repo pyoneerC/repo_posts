@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Curated AI Repos</title>
+  <meta name="description" content="A minimal, curated list of AI, LLM, and GenAI repositories. Updated automatically.">
+  <link rel="icon" type="image/png" href="mc.png">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --text-color: #1a1a1a;
+      --background-color: #fdfdfd;
+      --link-color: #007bff;
+      --link-hover-color: #0056b3;
+      --font-sans: 'Inter', sans-serif;
+      --font-mono: 'IBM Plex Mono', monospace;
+    }
+    body {
+      font-family: var(--font-sans);
+      background-color: var(--background-color);
+      color: var(--text-color);
+      line-height: 1.7;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+      margin: 0;
+      padding: 40px 20px;
+      box-sizing: border-box;
+    }
+    .container {
+      max-width: 680px;
+      width: 100%;
+    }
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.5rem;
+      font-weight: 700;
+    }
+    .subtitle {
+      font-size: 1.1rem;
+      margin-bottom: 2rem;
+      color: #555;
+    }
+    #search {
+      width: 100%;
+      max-width: 400px;
+      padding: 0.5rem;
+      font-size: 1rem;
+      margin-bottom: 2rem;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background: #fff;
+      color: var(--text-color);
+      font-family: var(--font-sans);
+    }
+    ul#repo-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    ul#repo-list li {
+      background: #fff;
+      margin-bottom: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 1px 4px #0001;
+      padding: 1rem;
+      transition: box-shadow 0.2s;
+      font-size: 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+    }
+    ul#repo-list li:hover {
+      box-shadow: 0 4px 16px #0002;
+    }
+    a {
+      color: var(--link-color);
+      text-decoration: none;
+      font-weight: 500;
+      font-family: var(--font-mono);
+      word-break: break-all;
+    }
+    a:hover {
+      color: var(--link-hover-color);
+      text-decoration: underline;
+    }
+    .footer {
+      margin-top: 3rem;
+      width: 100%;
+      text-align: center;
+      border-top: 1px solid #eee;
+      padding-top: 2rem;
+      color: #888;
+      font-size: 0.95rem;
+    }
+    @media (max-width: 600px) {
+      .container { max-width: 100%; }
+      body { padding: 20px 4px; }
+      h1 { font-size: 1.5rem; }
+      .subtitle { font-size: 1rem; }
+      ul#repo-list li { font-size: 0.98rem; padding: 0.7rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Curated AI Repositories</h1>
+      <p class="subtitle">Minimal, useful, and always up-to-date. Search or browse below.</p>
+      <input type="text" id="search" placeholder="Search repositories...">
+    </header>
+    <main>
+      <ul id="repo-list"></ul>
+    </main>
+    <footer class="footer">
+      <span>Auto-curated from upstream posts. Minimal UI by LLM.</span>
+    </footer>
+  </div>
+  <script src="repos.js"></script>
+  <script>
+    const repoList = document.getElementById('repo-list');
+    const searchInput = document.getElementById('search');
+    function render(reposToShow) {
+      repoList.innerHTML = '';
+      if (!reposToShow.length) {
+        repoList.innerHTML = '<li style="color:#888">No results found.</li>';
+        return;
+      }
+      reposToShow.forEach(repo => {
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="${repo.url}" target="_blank">${repo.url.replace('https://github.com/', '')}</a><span>${repo.description}</span>`;
+        repoList.appendChild(li);
+      });
+    }
+    function searchRepos(q) {
+      q = q.trim().toLowerCase();
+      if (!q) return repos;
+      return repos.filter(r => r.url.toLowerCase().includes(q) || r.description.toLowerCase().includes(q));
+    }
+    searchInput.addEventListener('input', e => {
+      render(searchRepos(e.target.value));
+    });
+    render(repos);
+  </script>
+</body>
+</html>

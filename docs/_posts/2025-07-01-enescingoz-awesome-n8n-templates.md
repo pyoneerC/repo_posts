@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T13:40:37.998965
-image: assets/enescingoz_awesome-n8n-templates_cropped.png
+date: 2025-07-01 13:40:37.998965
 ---
 
 # [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)

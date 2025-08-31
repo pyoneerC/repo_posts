@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-06T13:40:45.565127
-image: assets/openai-translator_openai-translator_cropped.png
+date: 2025-05-06 13:40:45.565127
 ---
 
 # [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator)

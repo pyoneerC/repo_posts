@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-20T05:18:42.133535
-image: assets/explainers-by-googlers_cross-origin-storage_cropped.png
+date: 2025-06-20 05:18:42.133535
 ---
 
 # [explainers-by-googlers/cross-origin-storage](https://github.com/explainers-by-googlers/cross-origin-storage)

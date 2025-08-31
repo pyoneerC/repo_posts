@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-23T13:18:34.846904
-image: assets/20250822T023530574--lmstudio-ai--lmstudio-js--20250822T024051714--cropped.png
+date: 2025-08-23 13:18:34.846904
 ---
 
 # [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js)

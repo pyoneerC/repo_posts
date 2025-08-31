@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T14:31:08.087779
-image: assets/cline_cline_cropped.png
+date: 2025-04-20 14:31:08.087779
 ---
 
 # [cline/cline](https://github.com/cline/cline)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-06T07:41:38.878336
-image: assets/ThinkInAIXYZ_deepchat_cropped.png
+date: 2025-05-06 07:41:38.878336
 ---
 
 # [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T15:52:38.014914
-image: assets/mickael-kerjean_filestash_cropped.png
+date: 2025-07-20 15:52:38.014914
 ---
 
 # [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)

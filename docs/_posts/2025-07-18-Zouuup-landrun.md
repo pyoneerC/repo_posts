@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T20:58:26.733740
-image: assets/Zouuup_landrun_cropped.png
+date: 2025-07-18 20:58:26.733740
 ---
 
 # [Zouuup/landrun](https://github.com/Zouuup/landrun)

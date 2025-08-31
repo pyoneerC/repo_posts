@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T21:29:24.748478
-image: assets/XayahSuSuSu_Android-DataBackup_cropped.png
+date: 2025-07-30 21:29:24.748478
 ---
 
 # [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)

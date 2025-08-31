@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-11T17:05:38.174433
-image: assets/going-doer_Paper2Code_cropped.png
+date: 2025-05-11 17:05:38.174433
 ---
 
 # [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code)

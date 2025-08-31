@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T19:43:43.246308
-image: assets/facebookresearch_audiocraft_cropped.png
+date: 2025-04-26 19:43:43.246308
 ---
 
 # [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)

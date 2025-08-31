@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T01:38:53.083088
-image: assets/Arthi-chaud_Meelo_cropped.png
+date: 2025-08-11 01:38:53.083088
 ---
 
 # [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo)

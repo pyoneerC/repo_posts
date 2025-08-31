@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T06:51:15.787542
-image: assets/ClickHouse_clickhouse-go_cropped.png
+date: 2025-07-16 06:51:15.787542
 ---
 
 # [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go)

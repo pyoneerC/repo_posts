@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T02:20:30.800256
-image: assets/20250810T072658--gnmyt--Nexterm--20250811T005321--cropped.png
+date: 2025-08-12 02:20:30.800256
 ---
 
 # [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm)

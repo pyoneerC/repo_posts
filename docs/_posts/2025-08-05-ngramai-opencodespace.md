@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T23:08:17.312623
-image: assets/ngramai_opencodespace_cropped.png
+date: 2025-08-05 23:08:17.312623
 ---
 
 # [ngramai/opencodespace](https://github.com/ngramai/opencodespace)

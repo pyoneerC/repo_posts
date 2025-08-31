@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T03:17:00.353756
-image: assets/FunAudioLLM_SenseVoice_cropped.png
+date: 2025-07-27 03:17:00.353756
 ---
 
 # [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice)

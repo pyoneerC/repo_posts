@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T05:10:48.412975
-image: assets/danielmiessler_Fabric_cropped.png
+date: 2025-07-08 05:10:48.412975
 ---
 
 # [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T07:57:12.309595
-image: assets/block_goose_cropped.png
+date: 2025-04-20 07:57:12.309595
 ---
 
 # [block/goose](https://github.com/block/goose)

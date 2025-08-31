@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T22:08:45.615035
-image: assets/cowtoolz_webcamize_cropped.png
+date: 2025-05-12 22:08:45.615035
 ---
 
 # [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize)

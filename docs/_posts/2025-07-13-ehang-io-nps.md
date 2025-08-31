@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-13T04:07:52.302880
-image: assets/ehang-io_nps_cropped.png
+date: 2025-07-13 04:07:52.302880
 ---
 
 # [ehang-io/nps](https://github.com/ehang-io/nps)

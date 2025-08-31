@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T02:41:58.536422
-image: assets/BushidoUK_Ransomware-Tool-Matrix_cropped.png
+date: 2025-07-22 02:41:58.536422
 ---
 
 # [BushidoUK/Ransomware-Tool-Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix)

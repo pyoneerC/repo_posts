@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T11:49:59.086914
-image: assets/Trugamr_wol_cropped.png
+date: 2025-08-01 11:49:59.086914
 ---
 
 # [Trugamr/wol](https://github.com/Trugamr/wol)

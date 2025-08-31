@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T15:11:08.159355
-image: assets/ashvardanian_less_slow.cpp_cropped.png
+date: 2025-07-10 15:11:08.159355
 ---
 
 # [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp)

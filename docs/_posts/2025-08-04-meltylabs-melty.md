@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T01:45:19.856482
-image: assets/meltylabs_melty_cropped.png
+date: 2025-08-04 01:45:19.856482
 ---
 
 # [meltylabs/melty](https://github.com/meltylabs/melty)

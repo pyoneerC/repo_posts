@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T18:50:37.640766
-image: assets/Litlyx_litlyx_cropped.png
+date: 2025-07-22 18:50:37.640766
 ---
 
 # [Litlyx/litlyx](https://github.com/Litlyx/litlyx)

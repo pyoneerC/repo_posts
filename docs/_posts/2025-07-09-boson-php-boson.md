@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T04:23:10.268037
-image: assets/boson-php_boson_cropped.png
+date: 2025-07-09 04:23:10.268037
 ---
 
 # [boson-php/boson](https://github.com/boson-php/boson)

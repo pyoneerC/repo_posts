@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T14:02:54.519601
-image: assets/edward-playground_aidefense-framework_cropped.png
+date: 2025-08-10 14:02:54.519601
 ---
 
 # [edward-playground/aidefense-framework](https://github.com/edward-playground/aidefense-framework)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T02:36:23.034802
-image: assets/20250818T120300493_javedh-dev_tracktor--20250818T120917458--cropped.png
+date: 2025-08-20 02:36:23.034802
 ---
 
 # [javedh-dev/tracktor](https://github.com/javedh-dev/tracktor)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T05:47:19.917109
-image: assets/Supernova3339_changerawr--20250814T025835217--cropped.png
+date: 2025-08-14 05:47:19.917109
 ---
 
 # [Supernova3339/changerawr](https://github.com/Supernova3339/changerawr)

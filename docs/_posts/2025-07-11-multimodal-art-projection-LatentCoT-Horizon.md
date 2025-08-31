@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T06:49:28.662549
-image: assets/multimodal-art-projection_LatentCoT-Horizon_cropped.png
+date: 2025-07-11 06:49:28.662549
 ---
 
 # [multimodal-art-projection/LatentCoT-Horizon](https://github.com/multimodal-art-projection/LatentCoT-Horizon)

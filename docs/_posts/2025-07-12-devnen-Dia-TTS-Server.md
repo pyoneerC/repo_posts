@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T01:29:21.564755
-image: assets/devnen_Dia-TTS-Server_cropped.png
+date: 2025-07-12 01:29:21.564755
 ---
 
 # [devnen/Dia-TTS-Server](https://github.com/devnen/Dia-TTS-Server)

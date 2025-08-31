@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T07:39:06.454330
-image: assets/20250830T103731914--canopyai--Orpheus-TTS--20250830T115621998--cropped.png
+date: 2025-08-31 07:39:06.454330
 ---
 
 # [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)

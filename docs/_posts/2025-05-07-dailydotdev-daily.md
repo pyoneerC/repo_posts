@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-07T00:50:44.450531
-image: assets/dailydotdev_daily_cropped.png
+date: 2025-05-07 00:50:44.450531
 ---
 
 # [dailydotdev/daily](https://github.com/dailydotdev/daily)

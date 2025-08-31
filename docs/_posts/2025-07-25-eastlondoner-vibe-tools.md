@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T04:22:07.636534
-image: assets/eastlondoner_vibe-tools_cropped.png
+date: 2025-07-25 04:22:07.636534
 ---
 
 # [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T14:18:13.169854
-image: assets/SnapDrop_snapdrop_cropped.png
+date: 2025-07-22 14:18:13.169854
 ---
 
 # [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T20:44:13.405622
-image: assets/GoogleContainerTools_distroless_cropped.png
+date: 2025-04-26 20:44:13.405622
 ---
 
 # [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless)

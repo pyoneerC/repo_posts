@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-19T01:46:17.615428
-image: assets/loco-rs_loco_cropped.png
+date: 2025-02-19 01:46:17.615428
 ---
 
 # [loco-rs/loco](https://github.com/loco-rs/loco)

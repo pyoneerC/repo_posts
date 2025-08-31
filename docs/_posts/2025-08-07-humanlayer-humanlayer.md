@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-07T18:30:18.400733
-image: assets/humanlayer_humanlayer_cropped.png
+date: 2025-08-07 18:30:18.400733
 ---
 
 # [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T16:56:10.485393
-image: assets/raznem_parsera_cropped.png
+date: 2025-08-03 16:56:10.485393
 ---
 
 # [raznem/parsera](https://github.com/raznem/parsera)

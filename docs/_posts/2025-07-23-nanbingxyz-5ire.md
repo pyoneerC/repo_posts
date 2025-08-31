@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T15:01:26.253498
-image: assets/nanbingxyz_5ire_cropped.png
+date: 2025-07-23 15:01:26.253498
 ---
 
 # [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire)

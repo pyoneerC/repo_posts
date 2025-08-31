@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T05:39:58.443709
-image: assets/kubewall_kubewall_cropped.png
+date: 2025-07-24 05:39:58.443709
 ---
 
 # [kubewall/kubewall](https://github.com/kubewall/kubewall)

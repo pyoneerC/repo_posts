@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T05:02:22.753067
-image: assets/czlonkowski_n8n-mcp_cropped.png
+date: 2025-07-19 05:02:22.753067
 ---
 
 # [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)

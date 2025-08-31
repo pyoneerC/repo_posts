@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T03:34:50.465033
-image: assets/public-apis_public-apis_cropped.png
+date: 2025-08-08 03:34:50.465033
 ---
 
 # [public-apis/public-apis](https://github.com/public-apis/public-apis)

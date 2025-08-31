@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T02:49:01.274952
-image: assets/codesandbox_codesandbox-client_cropped.png
+date: 2025-07-16 02:49:01.274952
 ---
 
 # [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client)

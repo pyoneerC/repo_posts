@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T10:33:02.014278
-image: assets/traccar_traccar_cropped.png
+date: 2025-08-02 10:33:02.014278
 ---
 
 # [traccar/traccar](https://github.com/traccar/traccar)

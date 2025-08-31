@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T04:39:39.020870
-image: assets/bentoml_OpenLLM_cropped.png
+date: 2025-07-06 04:39:39.020870
 ---
 
 # [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM)

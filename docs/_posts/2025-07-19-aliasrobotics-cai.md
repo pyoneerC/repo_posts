@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T21:41:43.919147
-image: assets/aliasrobotics_cai_cropped.png
+date: 2025-07-19 21:41:43.919147
 ---
 
 # [aliasrobotics/cai](https://github.com/aliasrobotics/cai)

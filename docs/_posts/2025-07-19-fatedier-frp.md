@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T19:10:06.119490
-image: assets/fatedier_frp_cropped.png
+date: 2025-07-19 19:10:06.119490
 ---
 
 # [fatedier/frp](https://github.com/fatedier/frp)

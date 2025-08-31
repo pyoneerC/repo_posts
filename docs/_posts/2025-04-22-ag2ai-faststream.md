@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T19:46:30.834072
-image: assets/ag2ai_faststream_cropped.png
+date: 2025-04-22 19:46:30.834072
 ---
 
 # [ag2ai/faststream](https://github.com/ag2ai/faststream)

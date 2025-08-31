@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T20:15:45.118498
-image: assets/20250818T124548062_bugbakery_audapolis--20250818T125151847--cropped.png
+date: 2025-08-20 20:15:45.118498
 ---
 
 # [bugbakery/audapolis](https://github.com/bugbakery/audapolis)

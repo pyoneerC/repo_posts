@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T23:36:53.250692
-image: assets/jaywcjlove_awesome-mac_cropped.png
+date: 2025-07-05 23:36:53.250692
 ---
 
 # [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)

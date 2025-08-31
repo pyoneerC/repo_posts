@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T03:43:50.553917
-image: assets/bitsandbytes-foundation_bitsandbytes_cropped.png
+date: 2025-07-04 03:43:50.553917
 ---
 
 # [bitsandbytes-foundation/bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes)

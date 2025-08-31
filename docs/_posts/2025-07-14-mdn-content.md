@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T10:54:00.672866
-image: assets/mdn_content_cropped.png
+date: 2025-07-14 10:54:00.672866
 ---
 
 # [mdn/content](https://github.com/mdn/content)

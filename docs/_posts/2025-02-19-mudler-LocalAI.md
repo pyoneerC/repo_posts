@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-19T03:17:17.066695
-image: assets/mudler_LocalAI_cropped.png
+date: 2025-02-19 03:17:17.066695
 ---
 
 # [mudler/LocalAI](https://github.com/mudler/LocalAI)

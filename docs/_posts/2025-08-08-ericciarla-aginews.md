@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T21:43:46.308165
-image: assets/ericciarla_aginews_cropped.png
+date: 2025-08-08 21:43:46.308165
 ---
 
 # [ericciarla/aginews](https://github.com/ericciarla/aginews)

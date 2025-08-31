@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T07:36:11.891973
-image: assets/zizmorcore_zizmor_cropped.png
+date: 2025-07-17 07:36:11.891973
 ---
 
 # [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)

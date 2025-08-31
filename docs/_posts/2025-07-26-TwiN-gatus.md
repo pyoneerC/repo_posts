@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T05:35:43.620225
-image: assets/TwiN_gatus_cropped.png
+date: 2025-07-26 05:35:43.620225
 ---
 
 # [TwiN/gatus](https://github.com/TwiN/gatus)

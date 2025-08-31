@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T18:24:55.747014
-image: assets/DIYgod_RSSHub_cropped.png
+date: 2025-07-27 18:24:55.747014
 ---
 
 # [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)

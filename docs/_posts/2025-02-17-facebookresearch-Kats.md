@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-17T17:27:26.737567
-image: assets/facebookresearch_Kats_cropped.png
+date: 2025-02-17 17:27:26.737567
 ---
 
 # [facebookresearch/Kats](https://github.com/facebookresearch/Kats)

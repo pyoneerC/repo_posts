@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T04:34:49.122909
-image: assets/enthought_pyql_cropped.png
+date: 2025-04-26 04:34:49.122909
 ---
 
 # [enthought/pyql](https://github.com/enthought/pyql)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T13:07:27.520233
-image: assets/metehan777_alsoasked-mcp--20250817T080144949--cropped.png
+date: 2025-08-18 13:07:27.520233
 ---
 
 # [metehan777/alsoasked-mcp](https://github.com/metehan777/alsoasked-mcp)

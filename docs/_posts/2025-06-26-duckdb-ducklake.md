@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-26T08:12:30.180885
-image: assets/duckdb_ducklake_cropped.png
+date: 2025-06-26 08:12:30.180885
 ---
 
 # [duckdb/ducklake](https://github.com/duckdb/ducklake)

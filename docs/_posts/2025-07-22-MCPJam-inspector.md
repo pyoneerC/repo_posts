@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T20:21:29.946180
-image: assets/MCPJam_inspector_cropped.png
+date: 2025-07-22 20:21:29.946180
 ---
 
 # [MCPJam/inspector](https://github.com/MCPJam/inspector)

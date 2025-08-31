@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T23:44:46.306386
-image: assets/LiLittleCat_awesome-free-chatgpt_cropped.png
+date: 2025-08-08 23:44:46.306386
 ---
 
 # [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)

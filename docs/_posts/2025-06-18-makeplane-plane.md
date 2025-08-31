@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-18T05:32:05.581647
-image: assets/makeplane_plane_cropped.png
+date: 2025-06-18 05:32:05.581647
 ---
 
 # [makeplane/plane](https://github.com/makeplane/plane)

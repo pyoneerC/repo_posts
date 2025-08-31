@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T23:36:44.598638
-image: assets/ChrisTitusTech_winutil_cropped.png
+date: 2025-05-05 23:36:44.598638
 ---
 
 # [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)

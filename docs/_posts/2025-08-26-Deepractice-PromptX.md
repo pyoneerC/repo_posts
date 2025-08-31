@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-26T03:50:28.925477
-image: assets/20250825T030100656--Deepractice--PromptX--20250825T030642638--cropped.png
+date: 2025-08-26 03:50:28.925477
 ---
 
 # [Deepractice/PromptX](https://github.com/Deepractice/PromptX)

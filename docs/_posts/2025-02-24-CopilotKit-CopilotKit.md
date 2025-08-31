@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T03:16:48.790322
-image: assets/CopilotKit_CopilotKit_cropped.png
+date: 2025-02-24 03:16:48.790322
 ---
 
 # [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)

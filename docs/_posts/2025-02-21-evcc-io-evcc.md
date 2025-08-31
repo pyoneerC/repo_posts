@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-21T09:24:40.118660
-image: assets/evcc-io_evcc_cropped.png
+date: 2025-02-21 09:24:40.118660
 ---
 
 # [evcc-io/evcc](https://github.com/evcc-io/evcc)

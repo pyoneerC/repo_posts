@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-25T03:08:30.767294
-image: assets/20250823T014151590--ixartz--SaaS-Boilerplate--20250823T014624945--cropped.png
+date: 2025-08-25 03:08:30.767294
 ---
 
 # [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate)

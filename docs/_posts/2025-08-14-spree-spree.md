@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T14:21:24.336304
-image: assets/spree_spree--20250814T041817195--cropped.png
+date: 2025-08-14 14:21:24.336304
 ---
 
 # [spree/spree](https://github.com/spree/spree)

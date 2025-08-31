@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T09:13:35.572340
-image: assets/AgentDock_AgentDock_cropped.png
+date: 2025-06-27 09:13:35.572340
 ---
 
 # [AgentDock/AgentDock](https://github.com/AgentDock/AgentDock)

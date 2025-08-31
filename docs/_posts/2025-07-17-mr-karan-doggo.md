@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T08:06:27.832886
-image: assets/mr-karan_doggo_cropped.png
+date: 2025-07-17 08:06:27.832886
 ---
 
 # [mr-karan/doggo](https://github.com/mr-karan/doggo)

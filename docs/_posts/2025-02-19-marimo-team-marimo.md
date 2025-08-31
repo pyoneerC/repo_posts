@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-19T13:53:52.455081
-image: assets/marimo-team_marimo_cropped.png
+date: 2025-02-19 13:53:52.455081
 ---
 
 # [marimo-team/marimo](https://github.com/marimo-team/marimo)

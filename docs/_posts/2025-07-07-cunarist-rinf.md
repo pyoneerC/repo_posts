@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T11:26:21.448761
-image: assets/cunarist_rinf_cropped.png
+date: 2025-07-07 11:26:21.448761
 ---
 
 # [cunarist/rinf](https://github.com/cunarist/rinf)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-20T08:36:24.663574
-image: assets/chaitin_SafeLine_cropped.png
+date: 2025-02-20 08:36:24.663574
 ---
 
 # [chaitin/SafeLine](https://github.com/chaitin/SafeLine)

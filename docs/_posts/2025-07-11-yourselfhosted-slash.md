@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T03:17:42.141826
-image: assets/yourselfhosted_slash_cropped.png
+date: 2025-07-11 03:17:42.141826
 ---
 
 # [yourselfhosted/slash](https://github.com/yourselfhosted/slash)

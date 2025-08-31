@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T00:27:24.797752
-image: assets/pydio_cells_cropped.png
+date: 2025-08-02 00:27:24.797752
 ---
 
 # [pydio/cells](https://github.com/pydio/cells)

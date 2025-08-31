@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T07:21:22.767908
-image: assets/teilomillet_raggo_cropped.png
+date: 2025-07-18 07:21:22.767908
 ---
 
 # [teilomillet/raggo](https://github.com/teilomillet/raggo)

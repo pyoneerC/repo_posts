@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T13:29:41.287896
-image: assets/EliteQuant_EliteQuant_cropped.png
+date: 2025-06-22 13:29:41.287896
 ---
 
 # [EliteQuant/EliteQuant](https://github.com/EliteQuant/EliteQuant)

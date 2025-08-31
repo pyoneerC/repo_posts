@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T09:40:13.469049
-image: assets/20250830T150011855--eugeneyan--open-llms--20250830T150810390--cropped.png
+date: 2025-08-31 09:40:13.469049
 ---
 
 # [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms)

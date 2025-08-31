@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T06:20:53.995016
-image: assets/awslabs_mcp_cropped.png
+date: 2025-07-16 06:20:53.995016
 ---
 
 # [awslabs/mcp](https://github.com/awslabs/mcp)

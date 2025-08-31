@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T10:28:15.166338
-image: assets/20250818T112317070_Jeric-X_SyncClipboard--20250818T112439463--cropped.png
+date: 2025-08-19 10:28:15.166338
 ---
 
 # [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard)

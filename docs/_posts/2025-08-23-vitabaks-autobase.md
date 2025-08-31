@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-23T09:46:44.998069
-image: assets/20250822T022649253--vitabaks--autobase--20250822T023627349--cropped.png
+date: 2025-08-23 09:46:44.998069
 ---
 
 # [vitabaks/autobase](https://github.com/vitabaks/autobase)

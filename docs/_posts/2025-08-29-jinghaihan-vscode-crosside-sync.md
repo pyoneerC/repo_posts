@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-29T18:45:10.259874
-image: assets/20250829T041439004--jinghaihan--vscode-crosside-sync--20250829T042121887--cropped.png
+date: 2025-08-29 18:45:10.259874
 ---
 
 # [jinghaihan/vscode-crosside-sync](https://github.com/jinghaihan/vscode-crosside-sync)

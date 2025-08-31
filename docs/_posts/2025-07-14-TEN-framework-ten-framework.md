@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T22:31:00.618144
-image: assets/TEN-framework_ten-framework_cropped.png
+date: 2025-07-14 22:31:00.618144
 ---
 
 # [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-28T22:03:29.677336
-image: assets/beclab_Olares_cropped.png
+date: 2025-07-28 22:03:29.677336
 ---
 
 # [beclab/Olares](https://github.com/beclab/Olares)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T09:37:44.253426
-image: assets/sherifabdlnaby_elastdocker_cropped.png
+date: 2025-08-08 09:37:44.253426
 ---
 
 # [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker)

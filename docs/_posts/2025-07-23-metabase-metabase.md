@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T08:58:06.113770
-image: assets/metabase_metabase_cropped.png
+date: 2025-07-23 08:58:06.113770
 ---
 
 # [metabase/metabase](https://github.com/metabase/metabase)

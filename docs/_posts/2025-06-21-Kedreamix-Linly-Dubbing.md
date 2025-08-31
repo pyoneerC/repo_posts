@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T08:00:19.392725
-image: assets/Kedreamix_Linly-Dubbing_cropped.png
+date: 2025-06-21 08:00:19.392725
 ---
 
 # [Kedreamix/Linly-Dubbing](https://github.com/Kedreamix/Linly-Dubbing)

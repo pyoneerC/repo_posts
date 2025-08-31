@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T06:41:42.824944
-image: assets/ajayd-san_gomanagedocker_cropped.png
+date: 2025-08-06 06:41:42.824944
 ---
 
 # [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker)

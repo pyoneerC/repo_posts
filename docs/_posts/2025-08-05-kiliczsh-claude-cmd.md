@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T13:33:31.207916
-image: assets/kiliczsh_claude-cmd_cropped.png
+date: 2025-08-05 13:33:31.207916
 ---
 
 # [kiliczsh/claude-cmd](https://github.com/kiliczsh/claude-cmd)

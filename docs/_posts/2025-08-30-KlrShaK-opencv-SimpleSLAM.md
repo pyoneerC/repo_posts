@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-30T09:55:18.677017
-image: assets/20250829T010824644--KlrShaK--opencv-SimpleSLAM--20250830T033447885--cropped.png
+date: 2025-08-30 09:55:18.677017
 ---
 
 # [KlrShaK/opencv-SimpleSLAM](https://github.com/KlrShaK/opencv-SimpleSLAM)

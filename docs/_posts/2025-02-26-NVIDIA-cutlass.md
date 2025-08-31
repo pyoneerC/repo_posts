@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-26T07:41:14.571525
-image: assets/NVIDIA_cutlass_cropped.png
+date: 2025-02-26 07:41:14.571525
 ---
 
 # [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)

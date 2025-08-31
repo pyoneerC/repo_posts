@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-23T22:23:31.110461
-image: assets/20250822T024918107--charmbracelet--huh--20250822T025507403--cropped.png
+date: 2025-08-23 22:23:31.110461
 ---
 
 # [charmbracelet/huh](https://github.com/charmbracelet/huh)

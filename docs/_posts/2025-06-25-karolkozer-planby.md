@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T17:15:29.828933
-image: assets/karolkozer_planby_cropped.png
+date: 2025-06-25 17:15:29.828933
 ---
 
 # [karolkozer/planby](https://github.com/karolkozer/planby)

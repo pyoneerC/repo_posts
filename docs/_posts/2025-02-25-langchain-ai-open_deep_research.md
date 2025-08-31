@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-25T02:57:47.955756
-image: assets/langchain-ai_open_deep_research_cropped.png
+date: 2025-02-25 02:57:47.955756
 ---
 
 # [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T21:00:54.697520
-image: assets/jstrosch_learning-reverse-engineering--20250812T005542--cropped.png
+date: 2025-08-12 21:00:54.697520
 ---
 
 # [jstrosch/learning-reverse-engineering](https://github.com/jstrosch/learning-reverse-engineering)

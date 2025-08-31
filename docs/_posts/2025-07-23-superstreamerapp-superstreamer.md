@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T23:06:26.756446
-image: assets/superstreamerapp_superstreamer_cropped.png
+date: 2025-07-23 23:06:26.756446
 ---
 
 # [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T00:01:18.635385
-image: assets/pdfme_pdfme--20250816T205753664--cropped.png
+date: 2025-08-18 00:01:18.635385
 ---
 
 # [pdfme/pdfme](https://github.com/pdfme/pdfme)

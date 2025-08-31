@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T14:12:22.101515
-image: assets/20250818T122938255_RayBytes_ChatMock--20250818T123541799--cropped.png
+date: 2025-08-20 14:12:22.101515
 ---
 
 # [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock)

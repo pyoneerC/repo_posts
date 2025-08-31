@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T22:00:45.012768
-image: assets/rust-lang_rust_cropped.png
+date: 2025-07-14 22:00:45.012768
 ---
 
 # [rust-lang/rust](https://github.com/rust-lang/rust)

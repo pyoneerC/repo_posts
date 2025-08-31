@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T03:16:09.921913
-image: assets/infobyte_emploleaks--20250813T001857--cropped.png
+date: 2025-08-14 03:16:09.921913
 ---
 
 # [infobyte/emploleaks](https://github.com/infobyte/emploleaks)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T02:06:24.335698
-image: assets/20250830T043833298--saleor--saleor--20250830T044311472--cropped.png
+date: 2025-08-31 02:06:24.335698
 ---
 
 # [saleor/saleor](https://github.com/saleor/saleor)

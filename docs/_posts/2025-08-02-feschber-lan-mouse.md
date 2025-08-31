@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T15:05:48.015936
-image: assets/feschber_lan-mouse_cropped.png
+date: 2025-08-02 15:05:48.015936
 ---
 
 # [feschber/lan-mouse](https://github.com/feschber/lan-mouse)

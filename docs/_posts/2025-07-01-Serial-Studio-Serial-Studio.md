@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T03:35:26.194679
-image: assets/Serial-Studio_Serial-Studio_cropped.png
+date: 2025-07-01 03:35:26.194679
 ---
 
 # [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio)

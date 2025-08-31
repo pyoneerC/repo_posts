@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T20:00:16.701537
-image: assets/eleven-am_frames_cropped.png
+date: 2025-07-25 20:00:16.701537
 ---
 
 # [eleven-am/frames](https://github.com/eleven-am/frames)

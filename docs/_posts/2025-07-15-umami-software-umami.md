@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-15T11:09:12.189404
-image: assets/umami-software_umami_cropped.png
+date: 2025-07-15 11:09:12.189404
 ---
 
 # [umami-software/umami](https://github.com/umami-software/umami)

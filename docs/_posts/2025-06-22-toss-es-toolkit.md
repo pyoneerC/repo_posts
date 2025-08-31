@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T04:55:53.544698
-image: assets/toss_es-toolkit_cropped.png
+date: 2025-06-22 04:55:53.544698
 ---
 
 # [toss/es-toolkit](https://github.com/toss/es-toolkit)

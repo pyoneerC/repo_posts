@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-26T20:34:53.110577
-image: assets/Jiayi-Pan_TinyZero_cropped.png
+date: 2025-06-26 20:34:53.110577
 ---
 
 # [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)

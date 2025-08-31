@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T15:46:34.519960
-image: assets/jpmorganchase_python-training_cropped.png
+date: 2025-08-06 15:46:34.519960
 ---
 
 # [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training)

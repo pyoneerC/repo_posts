@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T19:03:38.018768
-image: assets/BandarLabs_gitpodcast_cropped.png
+date: 2025-07-23 19:03:38.018768
 ---
 
 # [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast)

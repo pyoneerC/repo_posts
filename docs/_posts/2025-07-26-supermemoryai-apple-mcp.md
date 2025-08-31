@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T12:09:07.429741
-image: assets/supermemoryai_apple-mcp_cropped.png
+date: 2025-07-26 12:09:07.429741
 ---
 
 # [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp)

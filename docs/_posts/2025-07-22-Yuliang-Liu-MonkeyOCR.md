@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T00:40:49.500060
-image: assets/Yuliang-Liu_MonkeyOCR_cropped.png
+date: 2025-07-22 00:40:49.500060
 ---
 
 # [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)

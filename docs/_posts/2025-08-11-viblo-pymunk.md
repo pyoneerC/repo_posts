@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T02:09:07.668406
-image: assets/viblo_pymunk_cropped.png
+date: 2025-08-11 02:09:07.668406
 ---
 
 # [viblo/pymunk](https://github.com/viblo/pymunk)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T07:36:25.997940
-image: assets/EnterpriseDB_barman_cropped.png
+date: 2025-04-26 07:36:25.997940
 ---
 
 # [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)

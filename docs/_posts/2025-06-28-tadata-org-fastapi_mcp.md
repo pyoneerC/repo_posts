@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-28T09:10:02.760042
-image: assets/tadata-org_fastapi_mcp_cropped.png
+date: 2025-06-28 09:10:02.760042
 ---
 
 # [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)

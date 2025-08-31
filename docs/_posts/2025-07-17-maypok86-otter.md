@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T08:36:44.701187
-image: assets/maypok86_otter_cropped.png
+date: 2025-07-17 08:36:44.701187
 ---
 
 # [maypok86/otter](https://github.com/maypok86/otter)

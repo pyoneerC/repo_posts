@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-13T02:14:56.008270
-image: assets/huggingface_text-generation-inference_cropped.png
+date: 2025-05-13 02:14:56.008270
 ---
 
 # [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)

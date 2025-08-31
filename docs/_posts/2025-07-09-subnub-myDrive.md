@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T14:58:42.999666
-image: assets/subnub_myDrive_cropped.png
+date: 2025-07-09 14:58:42.999666
 ---
 
 # [subnub/myDrive](https://github.com/subnub/myDrive)

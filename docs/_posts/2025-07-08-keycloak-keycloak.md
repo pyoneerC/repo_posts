@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T00:03:09.274352
-image: assets/keycloak_keycloak_cropped.png
+date: 2025-07-08 00:03:09.274352
 ---
 
 # [keycloak/keycloak](https://github.com/keycloak/keycloak)

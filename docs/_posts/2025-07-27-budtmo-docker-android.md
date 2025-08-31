@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T04:47:47.453920
-image: assets/budtmo_docker-android_cropped.png
+date: 2025-07-27 04:47:47.453920
 ---
 
 # [budtmo/docker-android](https://github.com/budtmo/docker-android)

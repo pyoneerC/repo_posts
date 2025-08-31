@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T23:44:20.902367
-image: assets/OpenAgentPlatform_Dive_cropped.png
+date: 2025-08-03 23:44:20.902367
 ---
 
 # [OpenAgentPlatform/Dive](https://github.com/OpenAgentPlatform/Dive)

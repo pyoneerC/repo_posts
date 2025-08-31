@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-06T03:39:13.295558
-image: assets/fastify_fastify_cropped.png
+date: 2025-05-06 03:39:13.295558
 ---
 
 # [fastify/fastify](https://github.com/fastify/fastify)

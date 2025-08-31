@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-04T23:35:44.648216
-image: assets/hacksider_Deep-Live-Cam_cropped.png
+date: 2025-05-04 23:35:44.648216
 ---
 
 # [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)

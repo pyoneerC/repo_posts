@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-19T16:38:21.330507
-image: assets/mannaandpoem_OpenManus_cropped.png
+date: 2025-04-19 16:38:21.330507
 ---
 
 # [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)

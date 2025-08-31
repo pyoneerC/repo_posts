@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-30T23:03:11.651522
-image: assets/codexu_note-gen_cropped.png
+date: 2025-06-30 23:03:11.651522
 ---
 
 # [codexu/note-gen](https://github.com/codexu/note-gen)

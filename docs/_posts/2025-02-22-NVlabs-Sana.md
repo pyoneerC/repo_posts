@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-22T12:17:41.272491
-image: assets/NVlabs_Sana_cropped.png
+date: 2025-02-22 12:17:41.272491
 ---
 
 # [NVlabs/Sana](https://github.com/NVlabs/Sana)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T14:59:20.787763
-image: assets/gravitational_teleport_cropped.png
+date: 2025-04-25 14:59:20.787763
 ---
 
 # [gravitational/teleport](https://github.com/gravitational/teleport)

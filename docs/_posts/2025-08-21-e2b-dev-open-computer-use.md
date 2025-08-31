@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-21T11:53:22.384574
-image: assets/20250818T110743330_e2b-dev_open-computer-use--20250820T132556174--cropped.png
+date: 2025-08-21 11:53:22.384574
 ---
 
 # [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T00:16:03.170634
-image: assets/lobehub_lobe-icons_cropped.png
+date: 2025-07-11 00:16:03.170634
 ---
 
 # [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons)

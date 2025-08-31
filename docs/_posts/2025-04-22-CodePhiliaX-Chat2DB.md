@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T12:30:02.904083
-image: assets/CodePhiliaX_Chat2DB_cropped.png
+date: 2025-04-22 12:30:02.904083
 ---
 
 # [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)

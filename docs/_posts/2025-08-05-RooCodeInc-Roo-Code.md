@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T01:26:56.596019
-image: assets/RooCodeInc_Roo-Code_cropped.png
+date: 2025-08-05 01:26:56.596019
 ---
 
 # [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)

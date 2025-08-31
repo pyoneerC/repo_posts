@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T11:48:13.860168
-image: assets/typesense_typesense_cropped.png
+date: 2025-07-04 11:48:13.860168
 ---
 
 # [typesense/typesense](https://github.com/typesense/typesense)

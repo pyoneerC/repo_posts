@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T12:20:15.351680
-image: assets/simstudioai_sim_cropped.png
+date: 2025-08-01 12:20:15.351680
 ---
 
 # [simstudioai/sim](https://github.com/simstudioai/sim)

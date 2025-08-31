@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T13:21:00.007891
-image: assets/echohive42_AI-reads-books-page-by-page_cropped.png
+date: 2025-08-04 13:21:00.007891
 ---
 
 # [echohive42/AI-reads-books-page-by-page](https://github.com/echohive42/AI-reads-books-page-by-page)

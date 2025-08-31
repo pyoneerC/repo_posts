@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T02:58:49.188651
-image: assets/purocean_yn_cropped.png
+date: 2025-08-02 02:58:49.188651
 ---
 
 # [purocean/yn](https://github.com/purocean/yn)

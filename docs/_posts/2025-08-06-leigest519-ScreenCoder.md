@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T05:11:00.297849
-image: assets/leigest519_ScreenCoder_cropped.png
+date: 2025-08-06 05:11:00.297849
 ---
 
 # [leigest519/ScreenCoder](https://github.com/leigest519/ScreenCoder)

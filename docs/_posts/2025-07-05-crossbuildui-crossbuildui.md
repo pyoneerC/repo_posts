@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T04:26:59.274840
-image: assets/crossbuildui_crossbuildui_cropped.png
+date: 2025-07-05 04:26:59.274840
 ---
 
 # [crossbuildui/crossbuildui](https://github.com/crossbuildui/crossbuildui)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T09:40:54.436370
-image: assets/sharkdp_fd_cropped.png
+date: 2025-04-24 09:40:54.436370
 ---
 
 # [sharkdp/fd](https://github.com/sharkdp/fd)

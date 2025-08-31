@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T18:44:30.504067
-image: assets/gsidhu_buzee-tauri_cropped.png
+date: 2025-07-29 18:44:30.504067
 ---
 
 # [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri)

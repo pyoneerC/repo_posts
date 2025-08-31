@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-06T16:42:32.799484
-image: assets/wandb_openui_cropped.png
+date: 2025-05-06 16:42:32.799484
 ---
 
 # [wandb/openui](https://github.com/wandb/openui)

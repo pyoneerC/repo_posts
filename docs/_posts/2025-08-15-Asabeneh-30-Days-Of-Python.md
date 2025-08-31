@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T17:04:24.782798
-image: assets/Asabeneh_30-Days-Of-Python--20250815T015533201--cropped.png
+date: 2025-08-15 17:04:24.782798
 ---
 
 # [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)

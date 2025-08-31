@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T15:16:05.377413
-image: assets/ikatson_rqbit_cropped.png
+date: 2025-07-08 15:16:05.377413
 ---
 
 # [ikatson/rqbit](https://github.com/ikatson/rqbit)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T03:16:01.193005
-image: assets/rodyherrera_Quantum_cropped.png
+date: 2025-08-04 03:16:01.193005
 ---
 
 # [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum)

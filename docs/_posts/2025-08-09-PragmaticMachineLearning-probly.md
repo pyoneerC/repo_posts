@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T01:45:38.600757
-image: assets/PragmaticMachineLearning_probly_cropped.png
+date: 2025-08-09 01:45:38.600757
 ---
 
 # [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly)

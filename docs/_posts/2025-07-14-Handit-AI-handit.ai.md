@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T10:23:45.089532
-image: assets/Handit-AI_handit.ai_cropped.png
+date: 2025-07-14 10:23:45.089532
 ---
 
 # [Handit-AI/handit.ai](https://github.com/Handit-AI/handit.ai)

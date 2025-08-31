@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T20:21:09.558425
-image: assets/kaneo-app_app_cropped.png
+date: 2025-02-24 20:21:09.558425
 ---
 
 # [kaneo-app/app](https://github.com/kaneo-app/app)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T10:51:39.001698
-image: assets/waydabber_BetterDisplay_cropped.png
+date: 2025-07-11 10:51:39.001698
 ---
 
 # [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)

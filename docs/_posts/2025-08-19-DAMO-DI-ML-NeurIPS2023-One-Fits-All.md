@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T16:31:22.182000
-image: assets/20250818T114357039_DAMO-DI-ML_NeurIPS2023-One-Fits-All--20250818T114809493--cropped.png
+date: 2025-08-19 16:31:22.182000
 ---
 
 # [DAMO-DI-ML/NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)

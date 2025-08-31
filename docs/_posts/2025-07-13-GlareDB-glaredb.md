@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-13T20:46:15.095249
-image: assets/GlareDB_glaredb_cropped.png
+date: 2025-07-13 20:46:15.095249
 ---
 
 # [GlareDB/glaredb](https://github.com/GlareDB/glaredb)

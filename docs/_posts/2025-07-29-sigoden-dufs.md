@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T12:10:55.311712
-image: assets/sigoden_dufs_cropped.png
+date: 2025-07-29 12:10:55.311712
 ---
 
 # [sigoden/dufs](https://github.com/sigoden/dufs)

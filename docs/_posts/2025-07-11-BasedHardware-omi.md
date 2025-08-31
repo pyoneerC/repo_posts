@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T18:25:25.751408
-image: assets/BasedHardware_omi_cropped.png
+date: 2025-07-11 18:25:25.751408
 ---
 
 # [BasedHardware/omi](https://github.com/BasedHardware/omi)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-23T02:46:05.868489
-image: assets/kubernetes-sigs_headlamp_cropped.png
+date: 2025-04-23 02:46:05.868489
 ---
 
 # [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)

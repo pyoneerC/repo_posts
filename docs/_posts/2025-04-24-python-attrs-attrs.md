@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T15:44:02.292807
-image: assets/python-attrs_attrs_cropped.png
+date: 2025-04-24 15:44:02.292807
 ---
 
 # [python-attrs/attrs](https://github.com/python-attrs/attrs)

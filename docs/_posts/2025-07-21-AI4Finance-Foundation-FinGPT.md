@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T19:38:05.970413
-image: assets/AI4Finance-Foundation_FinGPT_cropped.png
+date: 2025-07-21 19:38:05.970413
 ---
 
 # [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T13:32:44.002102
-image: assets/PlakarKorp_plakar--20250815T014112144--cropped.png
+date: 2025-08-15 13:32:44.002102
 ---
 
 # [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar)

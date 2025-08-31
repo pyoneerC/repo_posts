@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T18:57:10.185461
-image: assets/grafana_loki_cropped.png
+date: 2025-07-02 18:57:10.185461
 ---
 
 # [grafana/loki](https://github.com/grafana/loki)

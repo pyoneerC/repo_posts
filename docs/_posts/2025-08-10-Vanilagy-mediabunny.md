@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T19:07:51.246164
-image: assets/Vanilagy_mediabunny_cropped.png
+date: 2025-08-10 19:07:51.246164
 ---
 
 # [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny)

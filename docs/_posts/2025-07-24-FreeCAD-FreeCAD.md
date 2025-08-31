@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T01:37:43.526705
-image: assets/FreeCAD_FreeCAD_cropped.png
+date: 2025-07-24 01:37:43.526705
 ---
 
 # [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)

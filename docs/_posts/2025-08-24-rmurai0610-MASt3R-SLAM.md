@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T19:34:52.062595
-image: assets/20250823T012247594--rmurai0610--MASt3R-SLAM--20250823T013750252--cropped.png
+date: 2025-08-24 19:34:52.062595
 ---
 
 # [rmurai0610/MASt3R-SLAM](https://github.com/rmurai0610/MASt3R-SLAM)

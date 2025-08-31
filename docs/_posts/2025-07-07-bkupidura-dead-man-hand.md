@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T04:21:58.363788
-image: assets/bkupidura_dead-man-hand_cropped.png
+date: 2025-07-07 04:21:58.363788
 ---
 
 # [bkupidura/dead-man-hand](https://github.com/bkupidura/dead-man-hand)

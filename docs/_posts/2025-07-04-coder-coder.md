@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T21:23:07.339267
-image: assets/coder_coder_cropped.png
+date: 2025-07-04 21:23:07.339267
 ---
 
 # [coder/coder](https://github.com/coder/coder)

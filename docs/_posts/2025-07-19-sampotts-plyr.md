@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T12:36:34.513468
-image: assets/sampotts_plyr_cropped.png
+date: 2025-07-19 12:36:34.513468
 ---
 
 # [sampotts/plyr](https://github.com/sampotts/plyr)

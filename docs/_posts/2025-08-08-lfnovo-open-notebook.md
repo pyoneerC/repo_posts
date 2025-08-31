@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T04:35:23.775096
-image: assets/lfnovo_open-notebook_cropped.png
+date: 2025-08-08 04:35:23.775096
 ---
 
 # [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)

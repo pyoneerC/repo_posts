@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T20:06:48.767385
-image: assets/ekmas_neobrutalism-components_cropped.png
+date: 2025-08-05 20:06:48.767385
 ---
 
 # [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components)

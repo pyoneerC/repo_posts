@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T21:46:12.463649
-image: assets/xiao-zaiyi_illa-helper_cropped.png
+date: 2025-07-01 21:46:12.463649
 ---
 
 # [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper)

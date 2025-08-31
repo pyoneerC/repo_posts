@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T18:16:15.490952
-image: assets/Hexagon_croner_cropped.png
+date: 2025-05-05 18:16:15.490952
 ---
 
 # [Hexagon/croner](https://github.com/Hexagon/croner)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T21:00:09.703465
-image: assets/roboflow_sports_cropped.png
+date: 2025-07-14 21:00:09.703465
 ---
 
 # [roboflow/sports](https://github.com/roboflow/sports)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T17:28:13.694401
-image: assets/KaTeX_KaTeX_cropped.png
+date: 2025-05-12 17:28:13.694401
 ---
 
 # [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)

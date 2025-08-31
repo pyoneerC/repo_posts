@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T07:49:13.103779
-image: assets/appsmithorg_appsmith_cropped.png
+date: 2025-07-27 07:49:13.103779
 ---
 
 # [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)

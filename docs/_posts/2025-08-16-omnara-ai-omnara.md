@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T14:14:13.589257
-image: assets/omnara-ai_omnara--20250816T003854412--cropped.png
+date: 2025-08-16 14:14:13.589257
 ---
 
 # [omnara-ai/omnara](https://github.com/omnara-ai/omnara)

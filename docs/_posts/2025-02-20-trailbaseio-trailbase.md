@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-20T05:04:02.633040
-image: assets/trailbaseio_trailbase_cropped.png
+date: 2025-02-20 05:04:02.633040
 ---
 
 # [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase)

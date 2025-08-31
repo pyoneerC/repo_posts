@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T15:59:13.422957
-image: assets/cactus-compute_cactus_cropped.png
+date: 2025-07-09 15:59:13.422957
 ---
 
 # [cactus-compute/cactus](https://github.com/cactus-compute/cactus)

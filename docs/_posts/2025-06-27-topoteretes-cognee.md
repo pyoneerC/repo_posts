@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T12:15:33.728499
-image: assets/topoteretes_cognee_cropped.png
+date: 2025-06-27 12:15:33.728499
 ---
 
 # [topoteretes/cognee](https://github.com/topoteretes/cognee)

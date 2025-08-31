@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T05:53:23.496074
-image: assets/warpdotdev_Warp_cropped.png
+date: 2025-07-14 05:53:23.496074
 ---
 
 # [warpdotdev/Warp](https://github.com/warpdotdev/Warp)

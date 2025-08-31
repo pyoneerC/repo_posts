@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T11:56:40.864474
-image: assets/Delgan_loguru_cropped.png
+date: 2025-07-07 11:56:40.864474
 ---
 
 # [Delgan/loguru](https://github.com/Delgan/loguru)

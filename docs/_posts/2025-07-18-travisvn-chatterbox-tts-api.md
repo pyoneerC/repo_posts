@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T06:52:06.644715
-image: assets/travisvn_chatterbox-tts-api_cropped.png
+date: 2025-07-18 06:52:06.644715
 ---
 
 # [travisvn/chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api)

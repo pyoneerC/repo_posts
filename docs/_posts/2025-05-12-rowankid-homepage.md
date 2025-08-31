@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T11:52:46.214282
-image: assets/rowankid_homepage_cropped.png
+date: 2025-05-12 11:52:46.214282
 ---
 
 # [rowankid/homepage](https://github.com/rowankid/homepage)

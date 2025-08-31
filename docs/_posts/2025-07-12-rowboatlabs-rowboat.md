@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T10:34:14.018946
-image: assets/rowboatlabs_rowboat_cropped.png
+date: 2025-07-12 10:34:14.018946
 ---
 
 # [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)

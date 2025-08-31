@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T03:00:07.485776
-image: assets/directus_directus_cropped.png
+date: 2025-07-12 03:00:07.485776
 ---
 
 # [directus/directus](https://github.com/directus/directus)

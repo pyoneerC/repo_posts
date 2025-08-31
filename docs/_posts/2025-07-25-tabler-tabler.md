@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T18:29:29.513455
-image: assets/tabler_tabler_cropped.png
+date: 2025-07-25 18:29:29.513455
 ---
 
 # [tabler/tabler](https://github.com/tabler/tabler)

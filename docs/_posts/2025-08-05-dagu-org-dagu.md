@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T07:30:27.792282
-image: assets/dagu-org_dagu_cropped.png
+date: 2025-08-05 07:30:27.792282
 ---
 
 # [dagu-org/dagu](https://github.com/dagu-org/dagu)

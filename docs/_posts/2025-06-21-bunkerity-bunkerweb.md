@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T15:33:45.572133
-image: assets/bunkerity_bunkerweb_cropped.png
+date: 2025-06-21 15:33:45.572133
 ---
 
 # [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)

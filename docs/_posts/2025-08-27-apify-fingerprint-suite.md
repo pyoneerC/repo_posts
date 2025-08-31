@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-27T19:44:25.759829
-image: assets/20250826T031124511--apify--fingerprint-suite--20250826T031523441--cropped.png
+date: 2025-08-27 19:44:25.759829
 ---
 
 # [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite)

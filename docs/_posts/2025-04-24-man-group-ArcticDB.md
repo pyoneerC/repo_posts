@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T20:46:38.650186
-image: assets/man-group_ArcticDB_cropped.png
+date: 2025-04-24 20:46:38.650186
 ---
 
 # [man-group/ArcticDB](https://github.com/man-group/ArcticDB)

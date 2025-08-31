@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T23:38:32.017285
-image: assets/papra-hq_owlrelay_cropped.png
+date: 2025-08-05 23:38:32.017285
 ---
 
 # [papra-hq/owlrelay](https://github.com/papra-hq/owlrelay)

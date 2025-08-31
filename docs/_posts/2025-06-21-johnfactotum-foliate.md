@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T05:29:09.128169
-image: assets/johnfactotum_foliate_cropped.png
+date: 2025-06-21 05:29:09.128169
 ---
 
 # [johnfactotum/foliate](https://github.com/johnfactotum/foliate)

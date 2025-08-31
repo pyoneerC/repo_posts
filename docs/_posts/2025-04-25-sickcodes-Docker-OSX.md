@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T06:24:24.174756
-image: assets/sickcodes_Docker-OSX_cropped.png
+date: 2025-04-25 06:24:24.174756
 ---
 
 # [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)

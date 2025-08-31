@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T11:06:26.023510
-image: assets/metehan777_semrush-mcp--20250817T075444659--cropped.png
+date: 2025-08-18 11:06:26.023510
 ---
 
 # [metehan777/semrush-mcp](https://github.com/metehan777/semrush-mcp)

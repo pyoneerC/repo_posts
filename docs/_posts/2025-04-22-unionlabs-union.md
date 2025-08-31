@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T11:59:41.483695
-image: assets/unionlabs_union_cropped.png
+date: 2025-04-22 11:59:41.483695
 ---
 
 # [unionlabs/union](https://github.com/unionlabs/union)

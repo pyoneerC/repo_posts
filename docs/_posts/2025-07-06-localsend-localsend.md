@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T16:45:55.688928
-image: assets/localsend_localsend_cropped.png
+date: 2025-07-06 16:45:55.688928
 ---
 
 # [localsend/localsend](https://github.com/localsend/localsend)

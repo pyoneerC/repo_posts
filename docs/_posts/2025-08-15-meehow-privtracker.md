@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T03:27:59.360914
-image: assets/meehow_privtracker--20250815T010748321--cropped.png
+date: 2025-08-15 03:27:59.360914
 ---
 
 # [meehow/privtracker](https://github.com/meehow/privtracker)

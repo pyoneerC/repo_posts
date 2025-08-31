@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T09:18:41.928764
-image: assets/JessyTsui_Claude-Code-Remote_cropped.png
+date: 2025-08-01 09:18:41.928764
 ---
 
 # [JessyTsui/Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote)

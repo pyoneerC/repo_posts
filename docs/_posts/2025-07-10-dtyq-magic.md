@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T07:06:59.972761
-image: assets/dtyq_magic_cropped.png
+date: 2025-07-10 07:06:59.972761
 ---
 
 # [dtyq/magic](https://github.com/dtyq/magic)

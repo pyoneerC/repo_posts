@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-25T10:37:24.196496
-image: assets/bjesus_pipet_cropped.png
+date: 2025-02-25 10:37:24.196496
 ---
 
 # [bjesus/pipet](https://github.com/bjesus/pipet)

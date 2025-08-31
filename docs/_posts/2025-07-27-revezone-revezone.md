@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T10:50:42.579762
-image: assets/revezone_revezone_cropped.png
+date: 2025-07-27 10:50:42.579762
 ---
 
 # [revezone/revezone](https://github.com/revezone/revezone)

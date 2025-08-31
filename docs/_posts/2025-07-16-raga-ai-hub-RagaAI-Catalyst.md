@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T02:18:43.009749
-image: assets/raga-ai-hub_RagaAI-Catalyst_cropped.png
+date: 2025-07-16 02:18:43.009749
 ---
 
 # [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/RagaAI-Catalyst)

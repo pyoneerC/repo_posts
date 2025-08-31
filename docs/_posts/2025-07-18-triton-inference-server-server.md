@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T09:52:37.723800
-image: assets/triton-inference-server_server_cropped.png
+date: 2025-07-18 09:52:37.723800
 ---
 
 # [triton-inference-server/server](https://github.com/triton-inference-server/server)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T01:50:46.889585
-image: assets/atakanaltok_awesome-useful-websites_cropped.png
+date: 2025-07-25 01:50:46.889585
 ---
 
 # [atakanaltok/awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites)

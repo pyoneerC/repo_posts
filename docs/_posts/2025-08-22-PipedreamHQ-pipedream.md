@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-22T18:39:01.039754
-image: assets/20250822T014948432--PipedreamHQ--pipedream--20250822T020848571--cropped.png
+date: 2025-08-22 18:39:01.039754
 ---
 
 # [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)

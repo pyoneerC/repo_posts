@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T00:37:56.960743
-image: assets/dustinspecker_awesome-eslint_cropped.png
+date: 2025-06-25 00:37:56.960743
 ---
 
 # [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint)

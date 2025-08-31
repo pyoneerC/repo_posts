@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T14:56:04.089068
-image: assets/hiteshchoudhary_apihub_cropped.png
+date: 2025-07-14 14:56:04.089068
 ---
 
 # [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)

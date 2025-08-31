@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T12:11:30.360743
-image: assets/20250830T152956400--google--comprehensive-rust--20250830T153255749--cropped.png
+date: 2025-08-31 12:11:30.360743
 ---
 
 # [google/comprehensive-rust](https://github.com/google/comprehensive-rust)

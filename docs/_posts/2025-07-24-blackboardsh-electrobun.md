@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T00:06:57.176840
-image: assets/blackboardsh_electrobun_cropped.png
+date: 2025-07-24 00:06:57.176840
 ---
 
 # [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T03:10:10.249648
-image: assets/fayazara_onelink_cropped.png
+date: 2025-08-06 03:10:10.249648
 ---
 
 # [fayazara/onelink](https://github.com/fayazara/onelink)

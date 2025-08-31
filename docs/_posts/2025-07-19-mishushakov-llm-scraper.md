@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T11:35:50.620416
-image: assets/mishushakov_llm-scraper_cropped.png
+date: 2025-07-19 11:35:50.620416
 ---
 
 # [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T16:42:47.056410
-image: assets/WerWolv_ImHex_cropped.png
+date: 2025-06-19 16:42:47.056410
 ---
 
 # [WerWolv/ImHex](https://github.com/WerWolv/ImHex)

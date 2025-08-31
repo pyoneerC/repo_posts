@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T13:54:52.476106
-image: assets/dimonomid_nerdlog_cropped.png
+date: 2025-07-30 13:54:52.476106
 ---
 
 # [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-21T02:09:16.303148
-image: assets/lastmile-ai_mcp-agent_cropped.png
+date: 2025-04-21 02:09:16.303148
 ---
 
 # [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)

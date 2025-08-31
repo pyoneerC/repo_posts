@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T16:38:34.944179
-image: assets/DioxusLabs_dioxus_cropped.png
+date: 2025-06-24 16:38:34.944179
 ---
 
 # [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)

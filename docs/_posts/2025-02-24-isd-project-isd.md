@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T16:17:29.077076
-image: assets/isd-project_isd_cropped.png
+date: 2025-02-24 16:17:29.077076
 ---
 
 # [isd-project/isd](https://github.com/isd-project/isd)

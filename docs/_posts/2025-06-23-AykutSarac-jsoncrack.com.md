@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T10:20:26.672749
-image: assets/AykutSarac_jsoncrack.com_cropped.png
+date: 2025-06-23 10:20:26.672749
 ---
 
 # [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)

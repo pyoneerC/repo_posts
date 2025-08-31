@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-21T15:25:05.082016
-image: assets/20250820T132615533_MEDGA-eth_EDB--20250820T133005939--cropped.png
+date: 2025-08-21 15:25:05.082016
 ---
 
 # [MEDGA-eth/EDB](https://github.com/MEDGA-eth/EDB)

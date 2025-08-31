@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-11T13:55:04.460791
-image: assets/kortix-ai_suna_cropped.png
+date: 2025-05-11 13:55:04.460791
 ---
 
 # [kortix-ai/suna](https://github.com/kortix-ai/suna)

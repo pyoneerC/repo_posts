@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T20:04:15.922600
-image: assets/hotheadhacker_awesome-selfhost-docker_cropped.png
+date: 2025-04-20 20:04:15.922600
 ---
 
 # [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)

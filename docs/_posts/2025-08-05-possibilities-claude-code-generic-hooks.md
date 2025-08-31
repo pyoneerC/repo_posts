@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T18:05:47.874962
-image: assets/possibilities_claude-code-generic-hooks_cropped.png
+date: 2025-08-05 18:05:47.874962
 ---
 
 # [possibilities/claude-code-generic-hooks](https://github.com/possibilities/claude-code-generic-hooks)

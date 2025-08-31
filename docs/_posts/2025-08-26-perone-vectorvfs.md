@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-26T13:56:23.721397
-image: assets/20250825T032311465--perone--vectorvfs--20250825T032638294--cropped.png
+date: 2025-08-26 13:56:23.721397
 ---
 
 # [perone/vectorvfs](https://github.com/perone/vectorvfs)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T18:40:24.759514
-image: assets/restyler_awesome-sandbox--20250817T095858015--cropped.png
+date: 2025-08-18 18:40:24.759514
 ---
 
 # [restyler/awesome-sandbox](https://github.com/restyler/awesome-sandbox)

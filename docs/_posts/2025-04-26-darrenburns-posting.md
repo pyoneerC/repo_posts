@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T15:10:39.759353
-image: assets/darrenburns_posting_cropped.png
+date: 2025-04-26 15:10:39.759353
 ---
 
 # [darrenburns/posting](https://github.com/darrenburns/posting)

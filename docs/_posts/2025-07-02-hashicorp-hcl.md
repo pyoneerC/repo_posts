@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T22:59:15.337656
-image: assets/hashicorp_hcl_cropped.png
+date: 2025-07-02 22:59:15.337656
 ---
 
 # [hashicorp/hcl](https://github.com/hashicorp/hcl)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T23:12:30.348774
-image: assets/InvoiceShelf_InvoiceShelf_cropped.png
+date: 2025-07-19 23:12:30.348774
 ---
 
 # [InvoiceShelf/InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-23T08:16:04.170060
-image: assets/20250822T022606739--exelban--stats--20250822T023445105--cropped.png
+date: 2025-08-23 08:16:04.170060
 ---
 
 # [exelban/stats](https://github.com/exelban/stats)

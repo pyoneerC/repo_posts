@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T00:33:58.644805
-image: assets/sst_opencode_cropped.png
+date: 2025-07-01 00:33:58.644805
 ---
 
 # [sst/opencode](https://github.com/sst/opencode)

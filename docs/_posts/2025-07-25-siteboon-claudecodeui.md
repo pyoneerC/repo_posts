@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T05:22:39.576740
-image: assets/siteboon_claudecodeui_cropped.png
+date: 2025-07-25 05:22:39.576740
 ---
 
 # [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)

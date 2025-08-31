@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T20:18:46.374418
-image: assets/PierreBeucher_cloudypad_cropped.png
+date: 2025-07-08 20:18:46.374418
 ---
 
 # [PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad)

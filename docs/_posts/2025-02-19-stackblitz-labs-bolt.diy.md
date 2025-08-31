@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-19T07:19:54.823292
-image: assets/stackblitz-labs_bolt.diy_cropped.png
+date: 2025-02-19 07:19:54.823292
 ---
 
 # [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)

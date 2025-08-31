@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T15:50:14.276884
-image: assets/stephenberry_glaze_cropped.png
+date: 2025-07-04 15:50:14.276884
 ---
 
 # [stephenberry/glaze](https://github.com/stephenberry/glaze)

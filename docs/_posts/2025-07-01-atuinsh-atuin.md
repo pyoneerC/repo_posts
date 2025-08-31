@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T12:40:07.056981
-image: assets/atuinsh_atuin_cropped.png
+date: 2025-07-01 12:40:07.056981
 ---
 
 # [atuinsh/atuin](https://github.com/atuinsh/atuin)

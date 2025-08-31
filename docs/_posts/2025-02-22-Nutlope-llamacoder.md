@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-22T16:50:52.287765
-image: assets/Nutlope_llamacoder_cropped.png
+date: 2025-02-22 16:50:52.287765
 ---
 
 # [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder)

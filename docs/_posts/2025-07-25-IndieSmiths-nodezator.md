@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T22:31:36.985004
-image: assets/IndieSmiths_nodezator_cropped.png
+date: 2025-07-25 22:31:36.985004
 ---
 
 # [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator)

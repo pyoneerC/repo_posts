@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T10:53:11.955114
-image: assets/bukkbeek_Genesis_cropped.png
+date: 2025-07-30 10:53:11.955114
 ---
 
 # [bukkbeek/Genesis](https://github.com/bukkbeek/Genesis)

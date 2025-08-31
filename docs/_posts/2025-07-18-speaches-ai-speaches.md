@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T17:56:52.078704
-image: assets/speaches-ai_speaches_cropped.png
+date: 2025-07-18 17:56:52.078704
 ---
 
 # [speaches-ai/speaches](https://github.com/speaches-ai/speaches)

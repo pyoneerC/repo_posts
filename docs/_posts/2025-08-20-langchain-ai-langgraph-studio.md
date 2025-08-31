@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T15:12:56.129918
-image: assets/20250818T123413417_langchain-ai_langgraph-studio--20250818T123920312--cropped.png
+date: 2025-08-20 15:12:56.129918
 ---
 
 # [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio)

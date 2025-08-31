@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T09:38:39.002491
-image: assets/alphacep_vosk-api_cropped.png
+date: 2025-07-01 09:38:39.002491
 ---
 
 # [alphacep/vosk-api](https://github.com/alphacep/vosk-api)

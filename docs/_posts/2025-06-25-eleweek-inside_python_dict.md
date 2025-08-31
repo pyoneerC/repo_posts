@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T17:45:45.468542
-image: assets/eleweek_inside_python_dict_cropped.png
+date: 2025-06-25 17:45:45.468542
 ---
 
 # [eleweek/inside_python_dict](https://github.com/eleweek/inside_python_dict)

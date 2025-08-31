@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T21:16:05.672100
-image: assets/themeselection_flyonui_cropped.png
+date: 2025-07-29 21:16:05.672100
 ---
 
 # [themeselection/flyonui](https://github.com/themeselection/flyonui)

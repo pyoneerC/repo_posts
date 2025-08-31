@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T18:11:58.527294
-image: assets/femto_minion-agent_cropped.png
+date: 2025-08-08 18:11:58.527294
 ---
 
 # [femto/minion-agent](https://github.com/femto/minion-agent)

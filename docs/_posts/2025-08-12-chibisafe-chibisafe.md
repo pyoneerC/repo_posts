@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T13:26:33.063627
-image: assets/chibisafe_chibisafe--20250812T002027--cropped.png
+date: 2025-08-12 13:26:33.063627
 ---
 
 # [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe)

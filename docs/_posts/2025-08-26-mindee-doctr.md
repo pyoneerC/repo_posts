@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-26T19:59:48.031968
-image: assets/20250825T034506813--mindee--doctr--20250826T023907939--cropped.png
+date: 2025-08-26 19:59:48.031968
 ---
 
 # [mindee/doctr](https://github.com/mindee/doctr)

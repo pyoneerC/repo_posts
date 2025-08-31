@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-29T06:04:52.824153
-image: assets/20250829T023830497--jinghaihan--vsxpub--20250829T030829990--cropped.png
+date: 2025-08-29 06:04:52.824153
 ---
 
 # [jinghaihan/vsxpub](https://github.com/jinghaihan/vsxpub)

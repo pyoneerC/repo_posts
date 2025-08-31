@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T05:20:00.703524
-image: assets/ollama_ollama_cropped.png
+date: 2025-07-02 05:20:00.703524
 ---
 
 # [ollama/ollama](https://github.com/ollama/ollama)

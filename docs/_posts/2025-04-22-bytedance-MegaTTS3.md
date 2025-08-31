@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T10:59:04.197337
-image: assets/bytedance_MegaTTS3_cropped.png
+date: 2025-04-22 10:59:04.197337
 ---
 
 # [bytedance/MegaTTS3](https://github.com/bytedance/MegaTTS3)

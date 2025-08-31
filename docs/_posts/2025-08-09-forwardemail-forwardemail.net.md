@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T09:19:25.207581
-image: assets/forwardemail_forwardemail.net_cropped.png
+date: 2025-08-09 09:19:25.207581
 ---
 
 # [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net)

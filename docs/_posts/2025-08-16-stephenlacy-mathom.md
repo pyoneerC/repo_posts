@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T15:44:54.769200
-image: assets/20250816T004651850_stephenlacy_mathom--20250816T005054910--cropped.png
+date: 2025-08-16 15:44:54.769200
 ---
 
 # [stephenlacy/mathom](https://github.com/stephenlacy/mathom)

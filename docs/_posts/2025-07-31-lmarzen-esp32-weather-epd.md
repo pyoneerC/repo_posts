@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T06:34:11.064109
-image: assets/lmarzen_esp32-weather-epd_cropped.png
+date: 2025-07-31 06:34:11.064109
 ---
 
 # [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd)

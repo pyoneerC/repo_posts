@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T17:23:41.920413
-image: assets/BruceDone_awesome-crawler_cropped.png
+date: 2025-06-23 17:23:41.920413
 ---
 
 # [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler)

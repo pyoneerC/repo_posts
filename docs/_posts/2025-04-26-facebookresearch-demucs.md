@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T10:38:10.708849
-image: assets/facebookresearch_demucs_cropped.png
+date: 2025-04-26 10:38:10.708849
 ---
 
 # [facebookresearch/demucs](https://github.com/facebookresearch/demucs)

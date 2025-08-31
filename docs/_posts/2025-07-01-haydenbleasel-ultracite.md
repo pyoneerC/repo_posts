@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T05:06:14.209735
-image: assets/haydenbleasel_ultracite_cropped.png
+date: 2025-07-01 05:06:14.209735
 ---
 
 # [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite)

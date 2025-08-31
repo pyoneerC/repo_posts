@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T13:31:47.554998
-image: assets/20250823T012406533--hengli--camodocal--20250823T013002081--cropped.png
+date: 2025-08-24 13:31:47.554998
 ---
 
 # [hengli/camodocal](https://github.com/hengli/camodocal)

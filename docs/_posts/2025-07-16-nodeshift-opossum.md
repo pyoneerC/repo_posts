@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T16:26:58.570411
-image: assets/nodeshift_opossum_cropped.png
+date: 2025-07-16 16:26:58.570411
 ---
 
 # [nodeshift/opossum](https://github.com/nodeshift/opossum)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T22:46:43.049229
-image: assets/midday-ai_midday_cropped.png
+date: 2025-07-01 22:46:43.049229
 ---
 
 # [midday-ai/midday](https://github.com/midday-ai/midday)

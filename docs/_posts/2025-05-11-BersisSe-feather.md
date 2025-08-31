@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-11T19:06:59.277324
-image: assets/BersisSe_feather_cropped.png
+date: 2025-05-11 19:06:59.277324
 ---
 
 # [BersisSe/feather](https://github.com/BersisSe/feather)

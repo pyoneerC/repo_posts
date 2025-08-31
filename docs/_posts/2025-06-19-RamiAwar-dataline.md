@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T09:09:07.300902
-image: assets/RamiAwar_dataline_cropped.png
+date: 2025-06-19 09:09:07.300902
 ---
 
 # [RamiAwar/dataline](https://github.com/RamiAwar/dataline)

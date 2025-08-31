@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T16:45:25.000012
-image: assets/20250816T004902797_0x4m4_buffer-overflow-lab--20250816T010736312--cropped.png
+date: 2025-08-16 16:45:25.000012
 ---
 
 # [0x4m4/buffer-overflow-lab](https://github.com/0x4m4/buffer-overflow-lab)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T02:01:49.723545
-image: assets/janreges_siteone-crawler-gui_cropped.png
+date: 2025-07-31 02:01:49.723545
 ---
 
 # [janreges/siteone-crawler-gui](https://github.com/janreges/siteone-crawler-gui)

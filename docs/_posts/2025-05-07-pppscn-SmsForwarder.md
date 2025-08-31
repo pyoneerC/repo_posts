@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-07T14:23:30.269910
-image: assets/pppscn_SmsForwarder_cropped.png
+date: 2025-05-07 14:23:30.269910
 ---
 
 # [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)

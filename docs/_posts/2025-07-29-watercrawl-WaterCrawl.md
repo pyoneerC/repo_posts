@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T00:04:45.244353
-image: assets/watercrawl_WaterCrawl_cropped.png
+date: 2025-07-29 00:04:45.244353
 ---
 
 # [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl)

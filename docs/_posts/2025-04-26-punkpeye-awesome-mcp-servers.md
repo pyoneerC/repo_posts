@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T21:44:46.775639
-image: assets/punkpeye_awesome-mcp-servers_cropped.png
+date: 2025-04-26 21:44:46.775639
 ---
 
 # [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)

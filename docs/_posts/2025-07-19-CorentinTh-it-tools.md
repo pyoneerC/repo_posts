@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T06:33:06.233880
-image: assets/CorentinTh_it-tools_cropped.png
+date: 2025-07-19 06:33:06.233880
 ---
 
 # [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)

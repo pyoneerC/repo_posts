@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T20:59:57.444728
-image: assets/zasper-io_zasper_cropped.png
+date: 2025-07-16 20:59:57.444728
 ---
 
 # [zasper-io/zasper](https://github.com/zasper-io/zasper)

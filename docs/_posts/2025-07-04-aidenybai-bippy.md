@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T13:18:59.570292
-image: assets/aidenybai_bippy_cropped.png
+date: 2025-07-04 13:18:59.570292
 ---
 
 # [aidenybai/bippy](https://github.com/aidenybai/bippy)

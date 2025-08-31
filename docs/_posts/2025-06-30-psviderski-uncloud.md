@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-30T22:02:40.087475
-image: assets/psviderski_uncloud_cropped.png
+date: 2025-06-30 22:02:40.087475
 ---
 
 # [psviderski/uncloud](https://github.com/psviderski/uncloud)

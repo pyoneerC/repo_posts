@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T16:44:19.529210
-image: assets/20250830T150656434--facebook--sapling--20250830T173805801--cropped.png
+date: 2025-08-31 16:44:19.529210
 ---
 
 # [facebook/sapling](https://github.com/facebook/sapling)

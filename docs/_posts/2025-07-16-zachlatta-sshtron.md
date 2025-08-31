@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T19:29:01.220325
-image: assets/zachlatta_sshtron_cropped.png
+date: 2025-07-16 19:29:01.220325
 ---
 
 # [zachlatta/sshtron](https://github.com/zachlatta/sshtron)

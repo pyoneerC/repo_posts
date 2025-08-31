@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T11:03:28.114364
-image: assets/community-scripts_ProxmoxVE_cropped.png
+date: 2025-07-21 11:03:28.114364
 ---
 
 # [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T21:13:52.162448
-image: assets/Lucksi_Darkus_cropped.png
+date: 2025-07-26 21:13:52.162448
 ---
 
 # [Lucksi/Darkus](https://github.com/Lucksi/Darkus)

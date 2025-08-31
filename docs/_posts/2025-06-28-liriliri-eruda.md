@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-28T16:13:38.519372
-image: assets/liriliri_eruda_cropped.png
+date: 2025-06-28 16:13:38.519372
 ---
 
 # [liriliri/eruda](https://github.com/liriliri/eruda)

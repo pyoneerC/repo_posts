@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T05:18:13.109943
-image: assets/opentoonz_opentoonz_cropped.png
+date: 2025-06-23 05:18:13.109943
 ---
 
 # [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)

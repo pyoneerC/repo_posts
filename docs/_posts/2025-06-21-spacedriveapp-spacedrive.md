@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T02:27:45.455169
-image: assets/spacedriveapp_spacedrive_cropped.png
+date: 2025-06-21 02:27:45.455169
 ---
 
 # [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)

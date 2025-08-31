@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-26T08:42:55.429273
-image: assets/zhom_donutbrowser_cropped.png
+date: 2025-06-26 08:42:55.429273
 ---
 
 # [zhom/donutbrowser](https://github.com/zhom/donutbrowser)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T16:12:28.443594
-image: assets/letta-ai_agent-file_cropped.png
+date: 2025-06-19 16:12:28.443594
 ---
 
 # [letta-ai/agent-file](https://github.com/letta-ai/agent-file)

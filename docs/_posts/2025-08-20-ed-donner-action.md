@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T20:46:07.532861
-image: assets/20250818T124606431_ed-donner_action--20250818T125237975--cropped.png
+date: 2025-08-20 20:46:07.532861
 ---
 
 # [ed-donner/action](https://github.com/ed-donner/action)

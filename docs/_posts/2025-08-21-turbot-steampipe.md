@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-21T23:29:48.517738
-image: assets/20250820T132528561_turbot_steampipe--20250820T135511255--cropped.png
+date: 2025-08-21 23:29:48.517738
 ---
 
 # [turbot/steampipe](https://github.com/turbot/steampipe)

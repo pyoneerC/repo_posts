@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T20:17:24.705347
-image: assets/sveinbjornt_Platypus_cropped.png
+date: 2025-05-05 20:17:24.705347
 ---
 
 # [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus)

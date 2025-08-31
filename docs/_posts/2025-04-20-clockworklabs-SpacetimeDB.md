@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T07:26:56.698024
-image: assets/clockworklabs_SpacetimeDB_cropped.png
+date: 2025-04-20 07:26:56.698024
 ---
 
 # [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)

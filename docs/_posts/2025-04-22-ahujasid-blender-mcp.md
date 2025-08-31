@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T14:01:02.986588
-image: assets/ahujasid_blender-mcp_cropped.png
+date: 2025-04-22 14:01:02.986588
 ---
 
 # [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)

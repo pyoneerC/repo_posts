@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T01:27:25.076253
-image: assets/ballerine-io_ballerine_cropped.png
+date: 2025-08-10 01:27:25.076253
 ---
 
 # [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine)

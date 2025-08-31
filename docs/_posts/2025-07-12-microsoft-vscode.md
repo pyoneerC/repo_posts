@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T01:59:37.519768
-image: assets/microsoft_vscode_cropped.png
+date: 2025-07-12 01:59:37.519768
 ---
 
 # [microsoft/vscode](https://github.com/microsoft/vscode)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T11:31:44.713624
-image: assets/majd_ipatool_cropped.png
+date: 2025-08-10 11:31:44.713624
 ---
 
 # [majd/ipatool](https://github.com/majd/ipatool)

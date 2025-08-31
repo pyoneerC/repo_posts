@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T06:41:10.627492
-image: assets/TalEliyahu_Awesome-AI-Security_cropped.png
+date: 2025-08-11 06:41:10.627492
 ---
 
 # [TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-13T03:37:38.662400
-image: assets/SimonAKing_HomePage_cropped.png
+date: 2025-07-13 03:37:38.662400
 ---
 
 # [SimonAKing/HomePage](https://github.com/SimonAKing/HomePage)

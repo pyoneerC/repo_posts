@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T12:39:14.987077
-image: assets/teableio_teable_cropped.png
+date: 2025-04-26 12:39:14.987077
 ---
 
 # [teableio/teable](https://github.com/teableio/teable)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T19:35:33.836009
-image: assets/ranaroussi_yfinance_cropped.png
+date: 2025-06-21 19:35:33.836009
 ---
 
 # [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance)

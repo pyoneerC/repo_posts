@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T01:11:05.818350
-image: assets/transformerlab_transformerlab-app_cropped.png
+date: 2025-07-22 01:11:05.818350
 ---
 
 # [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app)

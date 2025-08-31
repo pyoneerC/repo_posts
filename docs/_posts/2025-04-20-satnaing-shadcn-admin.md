@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T13:00:20.233581
-image: assets/satnaing_shadcn-admin_cropped.png
+date: 2025-04-20 13:00:20.233581
 ---
 
 # [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)

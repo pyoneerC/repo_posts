@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-28T18:56:24.544358
-image: assets/20250827T221605504--gokadzev--Musify--20250827T221858316--cropped.png
+date: 2025-08-28 18:56:24.544358
 ---
 
 # [gokadzev/Musify](https://github.com/gokadzev/Musify)

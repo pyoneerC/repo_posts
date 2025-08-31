@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T03:36:53.314264
-image: assets/20250818T120724600_aws-samples_sample-devgenius-aws-solution-builder--20250818T121056052--cropped.png
+date: 2025-08-20 03:36:53.314264
 ---
 
 # [aws-samples/sample-devgenius-aws-solution-builder](https://github.com/aws-samples/sample-devgenius-aws-solution-builder)

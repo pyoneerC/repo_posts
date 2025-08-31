@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T18:59:06.497648
-image: assets/themeselection_shadcn-studio_cropped.png
+date: 2025-07-14 18:59:06.497648
 ---
 
 # [themeselection/shadcn-studio](https://github.com/themeselection/shadcn-studio)

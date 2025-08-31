@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-18T23:29:42.387096
-image: assets/NaturalNode_natural_cropped.png
+date: 2025-06-18 23:29:42.387096
 ---
 
 # [NaturalNode/natural](https://github.com/NaturalNode/natural)

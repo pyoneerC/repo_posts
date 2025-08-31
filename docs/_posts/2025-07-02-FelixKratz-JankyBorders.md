@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T09:22:01.396065
-image: assets/FelixKratz_JankyBorders_cropped.png
+date: 2025-07-02 09:22:01.396065
 ---
 
 # [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders)

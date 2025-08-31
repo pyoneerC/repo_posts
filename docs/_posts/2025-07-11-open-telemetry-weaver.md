@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T13:53:21.275935
-image: assets/open-telemetry_weaver_cropped.png
+date: 2025-07-11 13:53:21.275935
 ---
 
 # [open-telemetry/weaver](https://github.com/open-telemetry/weaver)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T11:04:29.464316
-image: assets/egoist_tsup_cropped.png
+date: 2025-07-12 11:04:29.464316
 ---
 
 # [egoist/tsup](https://github.com/egoist/tsup)

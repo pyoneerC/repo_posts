@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-07T14:53:48.186431
-image: assets/seanmonstar_reqwest_cropped.png
+date: 2025-05-07 14:53:48.186431
 ---
 
 # [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)

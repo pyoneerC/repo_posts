@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T03:03:42.379891
-image: assets/wildcatdb_wildcat_cropped.png
+date: 2025-07-17 03:03:42.379891
 ---
 
 # [wildcatdb/wildcat](https://github.com/wildcatdb/wildcat)

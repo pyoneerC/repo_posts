@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T23:23:10.948596
-image: assets/idootop_MagicMirror_cropped.png
+date: 2025-07-22 23:23:10.948596
 ---
 
 # [idootop/MagicMirror](https://github.com/idootop/MagicMirror)

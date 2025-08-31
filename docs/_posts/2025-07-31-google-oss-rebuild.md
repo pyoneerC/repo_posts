@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T20:41:47.206379
-image: assets/google_oss-rebuild_cropped.png
+date: 2025-07-31 20:41:47.206379
 ---
 
 # [google/oss-rebuild](https://github.com/google/oss-rebuild)

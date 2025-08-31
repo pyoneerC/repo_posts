@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-18T07:06:47.776810
-image: assets/Eugeny_tabby_cropped.png
+date: 2025-02-18 07:06:47.776810
 ---
 
 # [Eugeny/tabby](https://github.com/Eugeny/tabby)

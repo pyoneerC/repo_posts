@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T05:14:31.910891
-image: assets/OpenAPITools_openapi-generator_cropped.png
+date: 2025-07-04 05:14:31.910891
 ---
 
 # [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)

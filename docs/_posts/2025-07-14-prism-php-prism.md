@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T01:48:46.279325
-image: assets/prism-php_prism_cropped.png
+date: 2025-07-14 01:48:46.279325
 ---
 
 # [prism-php/prism](https://github.com/prism-php/prism)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-22T22:55:44.557463
-image: assets/dnhkng_GLaDOS_cropped.png
+date: 2025-02-22 22:55:44.557463
 ---
 
 # [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS)

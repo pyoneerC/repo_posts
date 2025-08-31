@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T22:36:23.070582
-image: assets/ublue-os_bazzite_cropped.png
+date: 2025-07-05 22:36:23.070582
 ---
 
 # [ublue-os/bazzite](https://github.com/ublue-os/bazzite)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T06:17:28.756162
-image: assets/almarklein_timetagger_cropped.png
+date: 2025-08-04 06:17:28.756162
 ---
 
 # [almarklein/timetagger](https://github.com/almarklein/timetagger)

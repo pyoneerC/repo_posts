@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T13:20:45.236045
-image: assets/gitbutlerapp_gitbutler_cropped.png
+date: 2025-08-01 13:20:45.236045
 ---
 
 # [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-07T13:27:50.132515
-image: assets/BaldissaraMatheus_Tasks.md_cropped.png
+date: 2025-08-07 13:27:50.132515
 ---
 
 # [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md)

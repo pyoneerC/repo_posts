@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T05:52:55.120372
-image: assets/FoloUp_FoloUp_cropped.png
+date: 2025-07-25 05:52:55.120372
 ---
 
 # [FoloUp/FoloUp](https://github.com/FoloUp/FoloUp)

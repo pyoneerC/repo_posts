@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T15:45:25.043582
-image: assets/kyutai-labs_delayed-streams-modeling_cropped.png
+date: 2025-07-06 15:45:25.043582
 ---
 
 # [kyutai-labs/delayed-streams-modeling](https://github.com/kyutai-labs/delayed-streams-modeling)

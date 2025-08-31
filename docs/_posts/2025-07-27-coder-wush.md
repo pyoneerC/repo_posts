@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T07:18:58.205223
-image: assets/coder_wush_cropped.png
+date: 2025-07-27 07:18:58.205223
 ---
 
 # [coder/wush](https://github.com/coder/wush)

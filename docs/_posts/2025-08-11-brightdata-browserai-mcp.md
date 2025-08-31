@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T09:12:20.466054
-image: assets/brightdata_browserai-mcp_cropped.png
+date: 2025-08-11 09:12:20.466054
 ---
 
 # [brightdata/browserai-mcp](https://github.com/brightdata/browserai-mcp)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-23T14:49:18.226434
-image: assets/20250822T023639476--nezhahq--nezha--20250822T024230819--cropped.png
+date: 2025-08-23 14:49:18.226434
 ---
 
 # [nezhahq/nezha](https://github.com/nezhahq/nezha)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T09:41:17.494346
-image: assets/rzane_docker2exe_cropped.png
+date: 2025-05-05 09:41:17.494346
 ---
 
 # [rzane/docker2exe](https://github.com/rzane/docker2exe)

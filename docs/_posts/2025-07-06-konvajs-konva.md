@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T06:41:41.038447
-image: assets/konvajs_konva_cropped.png
+date: 2025-07-06 06:41:41.038447
 ---
 
 # [konvajs/konva](https://github.com/konvajs/konva)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T06:05:21.886671
-image: assets/Amanieu_brie-tree_cropped.png
+date: 2025-07-17 06:05:21.886671
 ---
 
 # [Amanieu/brie-tree](https://github.com/Amanieu/brie-tree)

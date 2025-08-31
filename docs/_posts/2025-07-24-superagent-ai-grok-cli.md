@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T09:41:58.458844
-image: assets/superagent-ai_grok-cli_cropped.png
+date: 2025-07-24 09:41:58.458844
 ---
 
 # [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli)

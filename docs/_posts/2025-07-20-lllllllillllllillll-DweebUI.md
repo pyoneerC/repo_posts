@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T20:25:17.294842
-image: assets/lllllllillllllillll_DweebUI_cropped.png
+date: 2025-07-20 20:25:17.294842
 ---
 
 # [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI)

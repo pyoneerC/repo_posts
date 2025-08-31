@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T00:13:38.133506
-image: assets/Goldziher_kreuzberg_cropped.png
+date: 2025-08-01 00:13:38.133506
 ---
 
 # [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg)

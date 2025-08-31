@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T03:51:52.519860
-image: assets/adithya-s-k_omniparse_cropped.png
+date: 2025-07-25 03:51:52.519860
 ---
 
 # [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse)

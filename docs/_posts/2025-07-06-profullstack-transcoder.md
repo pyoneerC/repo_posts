@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T15:15:09.983766
-image: assets/profullstack_transcoder_cropped.png
+date: 2025-07-06 15:15:09.983766
 ---
 
 # [profullstack/transcoder](https://github.com/profullstack/transcoder)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-29T19:15:34.637744
-image: assets/20250829T042018701--jinghaihan--treechop--20250829T042146596--cropped.png
+date: 2025-08-29 19:15:34.637744
 ---
 
 # [jinghaihan/treechop](https://github.com/jinghaihan/treechop)

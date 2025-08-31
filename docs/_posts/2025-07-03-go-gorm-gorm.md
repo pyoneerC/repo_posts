@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T18:39:17.378632
-image: assets/go-gorm_gorm_cropped.png
+date: 2025-07-03 18:39:17.378632
 ---
 
 # [go-gorm/gorm](https://github.com/go-gorm/gorm)

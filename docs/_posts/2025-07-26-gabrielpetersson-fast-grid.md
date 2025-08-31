@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T10:07:58.771317
-image: assets/gabrielpetersson_fast-grid_cropped.png
+date: 2025-07-26 10:07:58.771317
 ---
 
 # [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid)

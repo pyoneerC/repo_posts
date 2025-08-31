@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-17T18:06:13.406461
-image: assets/google-gemini_gemini-fullstack-langgraph-quickstart_cropped.png
+date: 2025-06-17 18:06:13.406461
 ---
 
 # [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)

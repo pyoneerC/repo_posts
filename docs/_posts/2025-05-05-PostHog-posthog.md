@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T15:44:40.995222
-image: assets/PostHog_posthog_cropped.png
+date: 2025-05-05 15:44:40.995222
 ---
 
 # [PostHog/posthog](https://github.com/PostHog/posthog)

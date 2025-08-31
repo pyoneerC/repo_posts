@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T23:34:56.179389
-image: assets/20250818T115813641_addyosmani_recorder--20250818T120249381--cropped.png
+date: 2025-08-19 23:34:56.179389
 ---
 
 # [addyosmani/recorder](https://github.com/addyosmani/recorder)

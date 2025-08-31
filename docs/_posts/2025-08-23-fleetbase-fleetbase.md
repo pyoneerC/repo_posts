@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-23T15:19:32.489451
-image: assets/20250822T023815437--fleetbase--fleetbase--20250822T024351102--cropped.png
+date: 2025-08-23 15:19:32.489451
 ---
 
 # [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase)

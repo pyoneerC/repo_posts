@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-13T06:39:06.402308
-image: assets/tailwindlabs_heroicons_cropped.png
+date: 2025-07-13 06:39:06.402308
 ---
 
 # [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)

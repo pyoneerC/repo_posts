@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T06:19:13.637648
-image: assets/FuzzyGrim_Yamtrack_cropped.png
+date: 2025-07-11 06:19:13.637648
 ---
 
 # [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack)

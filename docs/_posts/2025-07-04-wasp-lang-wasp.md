@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T21:53:22.053894
-image: assets/wasp-lang_wasp_cropped.png
+date: 2025-07-04 21:53:22.053894
 ---
 
 # [wasp-lang/wasp](https://github.com/wasp-lang/wasp)

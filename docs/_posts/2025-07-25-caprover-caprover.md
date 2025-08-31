@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T17:28:57.486260
-image: assets/caprover_caprover_cropped.png
+date: 2025-07-25 17:28:57.486260
 ---
 
 # [caprover/caprover](https://github.com/caprover/caprover)

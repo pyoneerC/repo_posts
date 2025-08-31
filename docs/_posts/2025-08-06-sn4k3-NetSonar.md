@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T18:48:02.919301
-image: assets/sn4k3_NetSonar_cropped.png
+date: 2025-08-06 18:48:02.919301
 ---
 
 # [sn4k3/NetSonar](https://github.com/sn4k3/NetSonar)

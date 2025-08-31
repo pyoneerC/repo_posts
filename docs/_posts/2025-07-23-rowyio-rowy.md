@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T13:00:19.385047
-image: assets/rowyio_rowy_cropped.png
+date: 2025-07-23 13:00:19.385047
 ---
 
 # [rowyio/rowy](https://github.com/rowyio/rowy)

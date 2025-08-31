@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T06:11:12.765310
-image: assets/bytedance_LatentSync_cropped.png
+date: 2025-06-27 06:11:12.765310
 ---
 
 # [bytedance/LatentSync](https://github.com/bytedance/LatentSync)

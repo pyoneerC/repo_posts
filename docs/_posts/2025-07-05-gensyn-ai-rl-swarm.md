@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T09:59:57.109470
-image: assets/gensyn-ai_rl-swarm_cropped.png
+date: 2025-07-05 09:59:57.109470
 ---
 
 # [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm)

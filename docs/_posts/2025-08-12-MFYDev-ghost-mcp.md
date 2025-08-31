@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T05:22:18.193339
-image: assets/20250810T065225--MFYDev--ghost-mcp--20250811T053755--cropped.png
+date: 2025-08-12 05:22:18.193339
 ---
 
 # [MFYDev/ghost-mcp](https://github.com/MFYDev/ghost-mcp)

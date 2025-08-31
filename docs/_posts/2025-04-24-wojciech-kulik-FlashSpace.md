@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T03:07:32.663794
-image: assets/wojciech-kulik_FlashSpace_cropped.png
+date: 2025-04-24 03:07:32.663794
 ---
 
 # [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace)

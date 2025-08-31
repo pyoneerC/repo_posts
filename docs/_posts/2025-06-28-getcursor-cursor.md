@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-28T11:11:04.112163
-image: assets/getcursor_cursor_cropped.png
+date: 2025-06-28 11:11:04.112163
 ---
 
 # [getcursor/cursor](https://github.com/getcursor/cursor)

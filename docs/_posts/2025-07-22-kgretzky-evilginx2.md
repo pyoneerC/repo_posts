@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T13:17:37.993298
-image: assets/kgretzky_evilginx2_cropped.png
+date: 2025-07-22 13:17:37.993298
 ---
 
 # [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2)

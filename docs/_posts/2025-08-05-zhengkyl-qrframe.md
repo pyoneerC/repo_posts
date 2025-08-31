@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T06:59:57.733547
-image: assets/zhengkyl_qrframe_cropped.png
+date: 2025-08-05 06:59:57.733547
 ---
 
 # [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe)

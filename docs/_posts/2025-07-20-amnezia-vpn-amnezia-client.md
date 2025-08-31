@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T00:13:05.501612
-image: assets/amnezia-vpn_amnezia-client_cropped.png
+date: 2025-07-20 00:13:05.501612
 ---
 
 # [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)

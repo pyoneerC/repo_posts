@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T14:38:18.264436
-image: assets/mettle_sendportal--20250817T080827137--cropped.png
+date: 2025-08-18 14:38:18.264436
 ---
 
 # [mettle/sendportal](https://github.com/mettle/sendportal)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T22:36:06.720630
-image: assets/teamhanko_hanko_cropped.png
+date: 2025-05-05 22:36:06.720630
 ---
 
 # [teamhanko/hanko](https://github.com/teamhanko/hanko)

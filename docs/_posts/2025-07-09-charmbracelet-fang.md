@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T01:21:33.446557
-image: assets/charmbracelet_fang_cropped.png
+date: 2025-07-09 01:21:33.446557
 ---
 
 # [charmbracelet/fang](https://github.com/charmbracelet/fang)

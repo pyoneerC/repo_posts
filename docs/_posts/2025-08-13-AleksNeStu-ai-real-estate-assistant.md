@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-13T12:08:14.921380
-image: assets/AleksNeStu_ai-real-estate-assistant--20250812T232513--cropped.png
+date: 2025-08-13 12:08:14.921380
 ---
 
 # [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant)

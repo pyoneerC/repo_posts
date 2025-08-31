@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T04:31:00.810378
-image: assets/gomods_athens_cropped.png
+date: 2025-07-12 04:31:00.810378
 ---
 
 # [gomods/athens](https://github.com/gomods/athens)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T06:53:26.507730
-image: assets/safedep_vet_cropped.png
+date: 2025-07-25 06:53:26.507730
 ---
 
 # [safedep/vet](https://github.com/safedep/vet)

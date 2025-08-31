@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T19:22:20.594624
-image: assets/langfuse_langfuse_cropped.png
+date: 2025-02-24 19:22:20.594624
 ---
 
 # [langfuse/langfuse](https://github.com/langfuse/langfuse)

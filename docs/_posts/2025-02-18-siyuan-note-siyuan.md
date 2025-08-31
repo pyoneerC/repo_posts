@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-18T22:41:59.088243
-image: assets/siyuan-note_siyuan_cropped.png
+date: 2025-02-18 22:41:59.088243
 ---
 
 # [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)

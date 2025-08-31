@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-07T10:21:15.556816
-image: assets/nhost_nhost_cropped.png
+date: 2025-05-07 10:21:15.556816
 ---
 
 # [nhost/nhost](https://github.com/nhost/nhost)

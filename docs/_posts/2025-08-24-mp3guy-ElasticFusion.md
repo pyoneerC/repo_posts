@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T16:03:07.043682
-image: assets/20250823T012920588--mp3guy--ElasticFusion--20250823T013321562--cropped.png
+date: 2025-08-24 16:03:07.043682
 ---
 
 # [mp3guy/ElasticFusion](https://github.com/mp3guy/ElasticFusion)

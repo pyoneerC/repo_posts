@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T06:33:59.232824
-image: assets/RunaCapital_awesome-oss-alternatives_cropped.png
+date: 2025-06-24 06:33:59.232824
 ---
 
 # [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)

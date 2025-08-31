@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-07T19:30:56.926119
-image: assets/FrigadeHQ_trench_cropped.png
+date: 2025-08-07 19:30:56.926119
 ---
 
 # [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)

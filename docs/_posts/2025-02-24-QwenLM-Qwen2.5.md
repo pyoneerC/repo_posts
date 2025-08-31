@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T00:44:21.310276
-image: assets/QwenLM_Qwen2.5_cropped.png
+date: 2025-02-24 00:44:21.310276
 ---
 
 # [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5)

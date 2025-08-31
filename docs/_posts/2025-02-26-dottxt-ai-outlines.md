@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-26T05:09:29.987894
-image: assets/dottxt-ai_outlines_cropped.png
+date: 2025-02-26 05:09:29.987894
 ---
 
 # [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)

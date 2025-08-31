@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-21T00:38:15.462840
-image: assets/lynx-family_lynx_cropped.png
+date: 2025-04-21 00:38:15.462840
 ---
 
 # [lynx-family/lynx](https://github.com/lynx-family/lynx)

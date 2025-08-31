@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T08:11:50.530052
-image: assets/tldr-pages_tldr_cropped.png
+date: 2025-08-11 08:11:50.530052
 ---
 
 # [tldr-pages/tldr](https://github.com/tldr-pages/tldr)

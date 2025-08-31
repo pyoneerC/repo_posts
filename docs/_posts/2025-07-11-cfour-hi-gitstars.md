@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T03:47:58.883323
-image: assets/cfour-hi_gitstars_cropped.png
+date: 2025-07-11 03:47:58.883323
 ---
 
 # [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars)

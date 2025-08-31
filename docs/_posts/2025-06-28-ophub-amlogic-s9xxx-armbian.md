@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-28T12:11:37.493933
-image: assets/ophub_amlogic-s9xxx-armbian_cropped.png
+date: 2025-06-28 12:11:37.493933
 ---
 
 # [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian)

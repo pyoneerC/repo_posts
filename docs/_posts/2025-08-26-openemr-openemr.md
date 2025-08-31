@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-26T14:26:39.173089
-image: assets/20250825T032324668--openemr--openemr--20250825T032744147--cropped.png
+date: 2025-08-26 14:26:39.173089
 ---
 
 # [openemr/openemr](https://github.com/openemr/openemr)

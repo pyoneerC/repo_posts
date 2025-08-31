@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T10:26:21.436545
-image: assets/woct0rdho_transformers-qwen3-moe-fused_cropped.png
+date: 2025-07-09 10:26:21.436545
 ---
 
 # [woct0rdho/transformers-qwen3-moe-fused](https://github.com/woct0rdho/transformers-qwen3-moe-fused)

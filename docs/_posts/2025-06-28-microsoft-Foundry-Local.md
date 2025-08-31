@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-28T11:41:23.415215
-image: assets/microsoft_Foundry-Local_cropped.png
+date: 2025-06-28 11:41:23.415215
 ---
 
 # [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)

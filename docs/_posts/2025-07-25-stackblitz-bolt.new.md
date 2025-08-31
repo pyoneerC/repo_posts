@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T10:55:34.459353
-image: assets/stackblitz_bolt.new_cropped.png
+date: 2025-07-25 10:55:34.459353
 ---
 
 # [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)

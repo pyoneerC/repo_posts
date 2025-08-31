@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T11:44:39.975928
-image: assets/tnodir_fort_cropped.png
+date: 2025-08-06 11:44:39.975928
 ---
 
 # [tnodir/fort](https://github.com/tnodir/fort)

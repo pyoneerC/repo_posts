@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T07:21:51.427189
-image: assets/MightyMoud_sidekick_cropped.png
+date: 2025-02-24 07:21:51.427189
 ---
 
 # [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick)

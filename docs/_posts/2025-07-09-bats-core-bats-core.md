@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T11:26:53.561440
-image: assets/bats-core_bats-core_cropped.png
+date: 2025-07-09 11:26:53.561440
 ---
 
 # [bats-core/bats-core](https://github.com/bats-core/bats-core)

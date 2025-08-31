@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-13T02:33:37.064043
-image: assets/20250810T054045--abdulrahman-mh--textrix--20250812T011313--cropped.png
+date: 2025-08-13 02:33:37.064043
 ---
 
 # [abdulrahman-mh/textrix](https://github.com/abdulrahman-mh/textrix)

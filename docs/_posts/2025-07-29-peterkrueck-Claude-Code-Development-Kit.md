@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T10:09:52.525150
-image: assets/peterkrueck_Claude-Code-Development-Kit_cropped.png
+date: 2025-07-29 10:09:52.525150
 ---
 
 # [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit)

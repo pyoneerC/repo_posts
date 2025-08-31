@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-21T00:07:54.930369
-image: assets/fleetdm_fleet_cropped.png
+date: 2025-04-21 00:07:54.930369
 ---
 
 # [fleetdm/fleet](https://github.com/fleetdm/fleet)

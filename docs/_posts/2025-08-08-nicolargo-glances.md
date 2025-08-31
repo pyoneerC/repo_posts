@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T12:08:55.053123
-image: assets/nicolargo_glances_cropped.png
+date: 2025-08-08 12:08:55.053123
 ---
 
 # [nicolargo/glances](https://github.com/nicolargo/glances)

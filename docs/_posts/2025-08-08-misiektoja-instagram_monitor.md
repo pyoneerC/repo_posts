@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T09:07:23.413135
-image: assets/misiektoja_instagram_monitor_cropped.png
+date: 2025-08-08 09:07:23.413135
 ---
 
 # [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor)

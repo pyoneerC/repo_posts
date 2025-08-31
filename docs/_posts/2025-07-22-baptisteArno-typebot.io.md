@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T02:11:38.577938
-image: assets/baptisteArno_typebot.io_cropped.png
+date: 2025-07-22 02:11:38.577938
 ---
 
 # [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)

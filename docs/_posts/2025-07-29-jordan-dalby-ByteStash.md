@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T05:37:38.145836
-image: assets/jordan-dalby_ByteStash_cropped.png
+date: 2025-07-29 05:37:38.145836
 ---
 
 # [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash)

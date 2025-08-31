@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T21:42:20.343948
-image: assets/zinja-coder_apktool-mcp-server_cropped.png
+date: 2025-07-31 21:42:20.343948
 ---
 
 # [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server)

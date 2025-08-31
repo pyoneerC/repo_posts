@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T12:14:25.027714
-image: assets/nunomaduro_pokio_cropped.png
+date: 2025-07-08 12:14:25.027714
 ---
 
 # [nunomaduro/pokio](https://github.com/nunomaduro/pokio)

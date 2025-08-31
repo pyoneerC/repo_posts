@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T10:39:45.419750
-image: assets/parcel-bundler_parcel_cropped.png
+date: 2025-06-19 10:39:45.419750
 ---
 
 # [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)

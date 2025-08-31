@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-28T15:43:23.848940
-image: assets/Huanshere_VideoLingo_cropped.png
+date: 2025-06-28 15:43:23.848940
 ---
 
 # [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)

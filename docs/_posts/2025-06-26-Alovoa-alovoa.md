@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-26T10:43:54.098494
-image: assets/Alovoa_alovoa_cropped.png
+date: 2025-06-26 10:43:54.098494
 ---
 
 # [Alovoa/alovoa](https://github.com/Alovoa/alovoa)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T02:49:14.479213
-image: assets/bcicen_ctop_cropped.png
+date: 2025-07-14 02:49:14.479213
 ---
 
 # [bcicen/ctop](https://github.com/bcicen/ctop)

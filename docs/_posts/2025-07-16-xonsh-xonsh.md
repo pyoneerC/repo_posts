@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T12:24:22.651556
-image: assets/xonsh_xonsh_cropped.png
+date: 2025-07-16 12:24:22.651556
 ---
 
 # [xonsh/xonsh](https://github.com/xonsh/xonsh)

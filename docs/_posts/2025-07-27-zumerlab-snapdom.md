@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T09:19:56.361572
-image: assets/zumerlab_snapdom_cropped.png
+date: 2025-07-27 09:19:56.361572
 ---
 
 # [zumerlab/snapdom](https://github.com/zumerlab/snapdom)

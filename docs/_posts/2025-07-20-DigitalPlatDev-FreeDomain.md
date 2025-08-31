@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T03:45:01.009803
-image: assets/DigitalPlatDev_FreeDomain_cropped.png
+date: 2025-07-20 03:45:01.009803
 ---
 
 # [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)

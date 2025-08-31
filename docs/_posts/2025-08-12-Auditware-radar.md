@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T20:30:38.964343
-image: assets/Auditware_radar--20250812T005040--cropped.png
+date: 2025-08-12 20:30:38.964343
 ---
 
 # [Auditware/radar](https://github.com/Auditware/radar)

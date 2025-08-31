@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T03:27:58.185853
-image: assets/gabrielchua_open-notebooklm_cropped.png
+date: 2025-08-05 03:27:58.185853
 ---
 
 # [gabrielchua/open-notebooklm](https://github.com/gabrielchua/open-notebooklm)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-19T01:23:49.672187
-image: assets/20250818T103633624_bgreenwell_gitego--20250818T103751858--cropped.png
+date: 2025-08-19 01:23:49.672187
 ---
 
 # [bgreenwell/gitego](https://github.com/bgreenwell/gitego)

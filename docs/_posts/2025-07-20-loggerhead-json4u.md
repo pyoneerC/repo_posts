@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T17:53:54.768409
-image: assets/loggerhead_json4u_cropped.png
+date: 2025-07-20 17:53:54.768409
 ---
 
 # [loggerhead/json4u](https://github.com/loggerhead/json4u)

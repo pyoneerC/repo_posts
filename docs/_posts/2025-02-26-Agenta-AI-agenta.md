@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-26T10:13:11.742384
-image: assets/Agenta-AI_agenta_cropped.png
+date: 2025-02-26 10:13:11.742384
 ---
 
 # [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T01:46:13.324932
-image: assets/deathau_markdownload_cropped.png
+date: 2025-07-27 01:46:13.324932
 ---
 
 # [deathau/markdownload](https://github.com/deathau/markdownload)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T12:18:29.044248
-image: assets/jaypyles_Scraperr_cropped.png
+date: 2025-07-04 12:18:29.044248
 ---
 
 # [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr)

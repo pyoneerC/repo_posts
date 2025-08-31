@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T07:51:56.825891
-image: assets/iosifache_annas-mcp_cropped.png
+date: 2025-08-03 07:51:56.825891
 ---
 
 # [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp)

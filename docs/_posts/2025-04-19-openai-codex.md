@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-19T01:44:58.354823
-image: assets/openai_codex_cropped.png
+date: 2025-04-19 01:44:58.354823
 ---
 
 # [openai/codex](https://github.com/openai/codex)

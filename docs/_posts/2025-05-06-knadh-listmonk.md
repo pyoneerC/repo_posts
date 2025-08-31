@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-06T23:50:03.529489
-image: assets/knadh_listmonk_cropped.png
+date: 2025-05-06 23:50:03.529489
 ---
 
 # [knadh/listmonk](https://github.com/knadh/listmonk)

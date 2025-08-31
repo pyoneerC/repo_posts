@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T21:52:18.157999
-image: assets/HKUDS_LightRAG_cropped.png
+date: 2025-02-24 21:52:18.157999
 ---
 
 # [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-15T23:46:54.382397
-image: assets/infernojs_inferno_cropped.png
+date: 2025-07-15 23:46:54.382397
 ---
 
 # [infernojs/inferno](https://github.com/infernojs/inferno)

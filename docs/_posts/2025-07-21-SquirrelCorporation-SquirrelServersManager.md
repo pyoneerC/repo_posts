@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T22:09:26.173634
-image: assets/SquirrelCorporation_SquirrelServersManager_cropped.png
+date: 2025-07-21 22:09:26.173634
 ---
 
 # [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T11:30:38.892687
-image: assets/WeblateOrg_weblate_cropped.png
+date: 2025-07-05 11:30:38.892687
 ---
 
 # [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)

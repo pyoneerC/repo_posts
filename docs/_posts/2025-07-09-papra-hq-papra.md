@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T19:30:47.316929
-image: assets/papra-hq_papra_cropped.png
+date: 2025-07-09 19:30:47.316929
 ---
 
 # [papra-hq/papra](https://github.com/papra-hq/papra)

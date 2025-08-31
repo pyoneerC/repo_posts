@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T16:26:13.877942
-image: assets/trycompai_comp_cropped.png
+date: 2025-07-30 16:26:13.877942
 ---
 
 # [trycompai/comp](https://github.com/trycompai/comp)

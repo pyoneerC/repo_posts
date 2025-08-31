@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T04:53:25.677873
-image: assets/siderolabs_talos_cropped.png
+date: 2025-07-09 04:53:25.677873
 ---
 
 # [siderolabs/talos](https://github.com/siderolabs/talos)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T23:02:53.929381
-image: assets/TencentQQGYLab_AppAgent_cropped.png
+date: 2025-07-09 23:02:53.929381
 ---
 
 # [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent)

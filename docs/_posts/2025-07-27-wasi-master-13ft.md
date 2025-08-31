@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T01:15:58.303242
-image: assets/wasi-master_13ft_cropped.png
+date: 2025-07-27 01:15:58.303242
 ---
 
 # [wasi-master/13ft](https://github.com/wasi-master/13ft)

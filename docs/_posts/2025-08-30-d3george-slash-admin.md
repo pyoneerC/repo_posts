@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-30T23:04:14.261351
-image: assets/20250826T032425008--d3george--slash-admin--20250830T042335621--cropped.png
+date: 2025-08-30 23:04:14.261351
 ---
 
 # [d3george/slash-admin](https://github.com/d3george/slash-admin)

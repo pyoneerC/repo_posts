@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T17:37:01.165822
-image: assets/musistudio_claude-code-router_cropped.png
+date: 2025-07-21 17:37:01.165822
 ---
 
 # [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)

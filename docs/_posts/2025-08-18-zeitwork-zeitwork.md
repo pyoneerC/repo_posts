@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T17:39:53.338568
-image: assets/zeitwork_zeitwork--20250817T082210653--cropped.png
+date: 2025-08-18 17:39:53.338568
 ---
 
 # [zeitwork/zeitwork](https://github.com/zeitwork/zeitwork)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T19:45:11.190303
-image: assets/Achno_gowall_cropped.png
+date: 2025-07-29 19:45:11.190303
 ---
 
 # [Achno/gowall](https://github.com/Achno/gowall)

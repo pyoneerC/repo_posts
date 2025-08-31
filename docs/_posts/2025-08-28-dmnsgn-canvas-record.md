@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-28T16:55:20.829619
-image: assets/20250827T221205643--dmnsgn--canvas-record--20250827T221618120--cropped.png
+date: 2025-08-28 16:55:20.829619
 ---
 
 # [dmnsgn/canvas-record](https://github.com/dmnsgn/canvas-record)

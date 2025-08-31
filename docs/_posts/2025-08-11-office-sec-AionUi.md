@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T18:16:39.219770
-image: assets/office-sec_AionUi_cropped.png
+date: 2025-08-11 18:16:39.219770
 ---
 
 # [office-sec/AionUi](https://github.com/office-sec/AionUi)

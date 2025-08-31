@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T00:17:21.989571
-image: assets/PaulleDemon_PyUIBuilder_cropped.png
+date: 2025-07-16 00:17:21.989571
 ---
 
 # [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T22:42:14.980219
-image: assets/loft-sh_devpod_cropped.png
+date: 2025-07-19 22:42:14.980219
 ---
 
 # [loft-sh/devpod](https://github.com/loft-sh/devpod)

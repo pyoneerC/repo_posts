@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T18:49:46.853274
-image: assets/upscayl_upscayl_cropped.png
+date: 2025-02-24 18:49:46.853274
 ---
 
 # [upscayl/upscayl](https://github.com/upscayl/upscayl)

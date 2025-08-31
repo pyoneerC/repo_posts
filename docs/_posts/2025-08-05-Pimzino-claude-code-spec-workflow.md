@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-05T10:01:46.470846
-image: assets/Pimzino_claude-code-spec-workflow_cropped.png
+date: 2025-08-05 10:01:46.470846
 ---
 
 # [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow)

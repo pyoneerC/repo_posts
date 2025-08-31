@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T16:23:11.609518
-image: assets/mhxion_awesome-discord-communities_cropped.png
+date: 2025-06-23 16:23:11.609518
 ---
 
 # [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)

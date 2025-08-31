@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T09:49:38.618478
-image: assets/TracecatHQ_tracecat_cropped.png
+date: 2025-08-09 09:49:38.618478
 ---
 
 # [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)

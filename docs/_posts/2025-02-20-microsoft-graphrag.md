@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-20T12:08:50.094140
-image: assets/microsoft_graphrag_cropped.png
+date: 2025-02-20 12:08:50.094140
 ---
 
 # [microsoft/graphrag](https://github.com/microsoft/graphrag)

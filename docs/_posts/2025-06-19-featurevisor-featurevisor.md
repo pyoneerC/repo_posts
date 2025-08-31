@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T19:44:19.930383
-image: assets/featurevisor_featurevisor_cropped.png
+date: 2025-06-19 19:44:19.930383
 ---
 
 # [featurevisor/featurevisor](https://github.com/featurevisor/featurevisor)

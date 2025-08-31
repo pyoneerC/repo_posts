@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T11:10:41.043286
-image: assets/20250818T122351983_Autumn-27_ScopeSentry--20250818T123123179--cropped.png
+date: 2025-08-20 11:10:41.043286
 ---
 
 # [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)

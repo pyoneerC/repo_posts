@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T20:29:52.870433
-image: assets/Wilfred_difftastic_cropped.png
+date: 2025-07-14 20:29:52.870433
 ---
 
 # [Wilfred/difftastic](https://github.com/Wilfred/difftastic)

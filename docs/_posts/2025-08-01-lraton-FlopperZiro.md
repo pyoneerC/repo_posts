@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T10:49:28.909937
-image: assets/lraton_FlopperZiro_cropped.png
+date: 2025-08-01 10:49:28.909937
 ---
 
 # [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro)

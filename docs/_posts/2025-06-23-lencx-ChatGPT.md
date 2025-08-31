@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T14:22:15.842275
-image: assets/lencx_ChatGPT_cropped.png
+date: 2025-06-23 14:22:15.842275
 ---
 
 # [lencx/ChatGPT](https://github.com/lencx/ChatGPT)

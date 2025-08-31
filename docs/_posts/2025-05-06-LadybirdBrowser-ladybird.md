@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-06T20:21:24.818480
-image: assets/LadybirdBrowser_ladybird_cropped.png
+date: 2025-05-06 20:21:24.818480
 ---
 
 # [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T08:52:28.119712
-image: assets/spiceai_spiceai_cropped.png
+date: 2025-07-16 08:52:28.119712
 ---
 
 # [spiceai/spiceai](https://github.com/spiceai/spiceai)

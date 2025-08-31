@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T02:14:37.998025
-image: assets/need4swede_Portall_cropped.png
+date: 2025-08-01 02:14:37.998025
 ---
 
 # [need4swede/Portall](https://github.com/need4swede/Portall)

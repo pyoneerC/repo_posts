@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T19:40:53.544768
-image: assets/netbox-community_netbox-docker--20250817T100536444--cropped.png
+date: 2025-08-18 19:40:53.544768
 ---
 
 # [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker)

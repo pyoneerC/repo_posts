@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-22T19:09:17.085425
-image: assets/20250822T020618418--ConardLi--easy-dataset--20250822T020911673--cropped.png
+date: 2025-08-22 19:09:17.085425
 ---
 
 # [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset)

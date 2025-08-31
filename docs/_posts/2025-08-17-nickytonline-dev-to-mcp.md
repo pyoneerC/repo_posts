@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-17T05:52:30.681703
-image: assets/nickytonline_dev-to-mcp--20250816T044746391--cropped.png
+date: 2025-08-17 05:52:30.681703
 ---
 
 # [nickytonline/dev-to-mcp](https://github.com/nickytonline/dev-to-mcp)

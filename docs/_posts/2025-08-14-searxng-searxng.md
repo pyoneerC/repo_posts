@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T15:21:52.128241
-image: assets/searxng_searxng--20250814T042101404--cropped.png
+date: 2025-08-14 15:21:52.128241
 ---
 
 # [searxng/searxng](https://github.com/searxng/searxng)

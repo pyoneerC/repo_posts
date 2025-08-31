@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T08:11:17.119860
-image: assets/frappe_erpnext_cropped.png
+date: 2025-07-24 08:11:17.119860
 ---
 
 # [frappe/erpnext](https://github.com/frappe/erpnext)

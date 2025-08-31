@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T16:03:57.168261
-image: assets/dockur_windows-arm--20250815T015424949--cropped.png
+date: 2025-08-15 16:03:57.168261
 ---
 
 # [dockur/windows-arm](https://github.com/dockur/windows-arm)

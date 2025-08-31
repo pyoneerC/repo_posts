@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T13:24:35.835378
-image: assets/director-run_director_cropped.png
+date: 2025-07-18 13:24:35.835378
 ---
 
 # [director-run/director](https://github.com/director-run/director)

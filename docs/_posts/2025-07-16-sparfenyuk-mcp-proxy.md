@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T09:22:45.742512
-image: assets/sparfenyuk_mcp-proxy_cropped.png
+date: 2025-07-16 09:22:45.742512
 ---
 
 # [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy)

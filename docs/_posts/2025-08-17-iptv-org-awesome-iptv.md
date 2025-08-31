@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-17T09:24:09.360812
-image: assets/iptv-org_awesome-iptv--20250816T050756400--cropped.png
+date: 2025-08-17 09:24:09.360812
 ---
 
 # [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-22T09:34:44.207099
-image: assets/xinntao_Real-ESRGAN--20250820T142510772--cropped.png
+date: 2025-08-22 09:34:44.207099
 ---
 
 # [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)

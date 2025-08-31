@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T16:59:19.828427
-image: assets/DataTalksClub_mlops-zoomcamp_cropped.png
+date: 2025-07-07 16:59:19.828427
 ---
 
 # [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)

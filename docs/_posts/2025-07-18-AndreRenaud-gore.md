@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T01:47:51.065694
-image: assets/AndreRenaud_gore_cropped.png
+date: 2025-07-18 01:47:51.065694
 ---
 
 # [AndreRenaud/gore](https://github.com/AndreRenaud/gore)

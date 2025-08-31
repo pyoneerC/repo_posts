@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T11:39:18.587829
-image: assets/RedisInsight_RedisInsight_cropped.png
+date: 2025-07-10 11:39:18.587829
 ---
 
 # [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)

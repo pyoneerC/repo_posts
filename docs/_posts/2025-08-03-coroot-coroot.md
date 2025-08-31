@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T03:14:00.451444
-image: assets/coroot_coroot_cropped.png
+date: 2025-08-03 03:14:00.451444
 ---
 
 # [coroot/coroot](https://github.com/coroot/coroot)

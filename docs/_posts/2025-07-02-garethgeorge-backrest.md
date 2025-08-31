@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T11:23:04.100314
-image: assets/garethgeorge_backrest_cropped.png
+date: 2025-07-02 11:23:04.100314
 ---
 
 # [garethgeorge/backrest](https://github.com/garethgeorge/backrest)

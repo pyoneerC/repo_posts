@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T22:46:56.230250
-image: assets/SoftwareBrothers_adminjs_cropped.png
+date: 2025-07-29 22:46:56.230250
 ---
 
 # [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)

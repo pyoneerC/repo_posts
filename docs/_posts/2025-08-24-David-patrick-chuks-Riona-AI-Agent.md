@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T20:35:23.330436
-image: assets/20250818T110357214_David-patrick-chuks_Riona-AI-Agent--20250823T013822014--cropped.png
+date: 2025-08-24 20:35:23.330436
 ---
 
 # [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent)

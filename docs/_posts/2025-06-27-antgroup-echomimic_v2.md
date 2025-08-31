@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T00:07:17.767841
-image: assets/antgroup_echomimic_v2_cropped.png
+date: 2025-06-27 00:07:17.767841
 ---
 
 # [antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2)

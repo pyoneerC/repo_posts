@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T07:05:56.150502
-image: assets/DioxusLabs_blitz_cropped.png
+date: 2025-07-17 07:05:56.150502
 ---
 
 # [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz)

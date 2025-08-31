@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T05:38:12.385523
-image: assets/20250830T063438261--ericciarla--trendFinder--20250830T091930238--cropped.png
+date: 2025-08-31 05:38:12.385523
 ---
 
 # [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)

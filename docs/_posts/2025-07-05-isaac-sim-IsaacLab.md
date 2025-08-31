@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T15:32:40.683947
-image: assets/isaac-sim_IsaacLab_cropped.png
+date: 2025-07-05 15:32:40.683947
 ---
 
 # [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab)

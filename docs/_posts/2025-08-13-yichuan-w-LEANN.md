@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-13T07:36:07.823901
-image: assets/yichuan-w_LEANN--20250812T230716--cropped.png
+date: 2025-08-13 07:36:07.823901
 ---
 
 # [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)

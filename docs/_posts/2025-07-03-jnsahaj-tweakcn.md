@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T21:10:31.236860
-image: assets/jnsahaj_tweakcn_cropped.png
+date: 2025-07-03 21:10:31.236860
 ---
 
 # [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)

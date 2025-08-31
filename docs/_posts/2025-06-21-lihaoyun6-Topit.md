@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T03:28:13.696497
-image: assets/lihaoyun6_Topit_cropped.png
+date: 2025-06-21 03:28:13.696497
 ---
 
 # [lihaoyun6/Topit](https://github.com/lihaoyun6/Topit)

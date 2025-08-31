@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T00:50:13.877947
-image: assets/szabodanika_microbin_cropped.png
+date: 2025-07-07 00:50:13.877947
 ---
 
 # [szabodanika/microbin](https://github.com/szabodanika/microbin)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-23T00:26:47.390955
-image: assets/thepersonalaicompany_amurex_cropped.png
+date: 2025-02-23 00:26:47.390955
 ---
 
 # [thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex)

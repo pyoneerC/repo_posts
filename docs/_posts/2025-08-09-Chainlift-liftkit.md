@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T16:23:17.936998
-image: assets/Chainlift_liftkit_cropped.png
+date: 2025-08-09 16:23:17.936998
 ---
 
 # [Chainlift/liftkit](https://github.com/Chainlift/liftkit)

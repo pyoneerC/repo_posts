@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-20T04:48:29.772933
-image: assets/tileshq_mcp-client-toolkit_cropped.png
+date: 2025-06-20 04:48:29.772933
 ---
 
 # [tileshq/mcp-client-toolkit](https://github.com/tileshq/mcp-client-toolkit)

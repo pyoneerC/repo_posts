@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T21:25:48.761438
-image: assets/nocodb_nocodb_cropped.png
+date: 2025-07-20 21:25:48.761438
 ---
 
 # [nocodb/nocodb](https://github.com/nocodb/nocodb)

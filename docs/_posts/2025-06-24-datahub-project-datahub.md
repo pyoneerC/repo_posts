@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-24T00:11:37.408746
-image: assets/datahub-project_datahub_cropped.png
+date: 2025-06-24 00:11:37.408746
 ---
 
 # [datahub-project/datahub](https://github.com/datahub-project/datahub)

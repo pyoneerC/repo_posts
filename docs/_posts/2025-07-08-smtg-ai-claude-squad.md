@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T00:33:24.169626
-image: assets/smtg-ai_claude-squad_cropped.png
+date: 2025-07-08 00:33:24.169626
 ---
 
 # [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)

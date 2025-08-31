@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T13:41:10.654983
-image: assets/webpro-nl_knip_cropped.png
+date: 2025-06-19 13:41:10.654983
 ---
 
 # [webpro-nl/knip](https://github.com/webpro-nl/knip)

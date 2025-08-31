@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T13:59:55.403416
-image: assets/LLMQuant_Magents_cropped.png
+date: 2025-06-22 13:59:55.403416
 ---
 
 # [LLMQuant/Magents](https://github.com/LLMQuant/Magents)

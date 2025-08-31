@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T16:29:03.448796
-image: assets/timgit_pg-boss_cropped.png
+date: 2025-07-07 16:29:03.448796
 ---
 
 # [timgit/pg-boss](https://github.com/timgit/pg-boss)

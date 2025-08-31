@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-25T01:37:44.754298
-image: assets/20250823T014014205--pages-cms--pages-cms--20250823T014429254--cropped.png
+date: 2025-08-25 01:37:44.754298
 ---
 
 # [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms)

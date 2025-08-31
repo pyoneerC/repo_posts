@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-22T23:41:26.161364
-image: assets/20250822T021552282--appwrite--appwrite--20250822T021857977--cropped.png
+date: 2025-08-22 23:41:26.161364
 ---
 
 # [appwrite/appwrite](https://github.com/appwrite/appwrite)

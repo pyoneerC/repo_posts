@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T19:24:43.772639
-image: assets/databuddy-analytics_Databuddy_cropped.png
+date: 2025-08-09 19:24:43.772639
 ---
 
 # [databuddy-analytics/Databuddy](https://github.com/databuddy-analytics/Databuddy)

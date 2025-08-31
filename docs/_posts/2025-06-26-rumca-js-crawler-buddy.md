@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-26T11:14:07.856778
-image: assets/rumca-js_crawler-buddy_cropped.png
+date: 2025-06-26 11:14:07.856778
 ---
 
 # [rumca-js/crawler-buddy](https://github.com/rumca-js/crawler-buddy)

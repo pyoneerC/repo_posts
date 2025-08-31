@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-20T08:06:04.993091
-image: assets/tursodatabase_libsql_cropped.png
+date: 2025-02-20 08:06:04.993091
 ---
 
 # [tursodatabase/libsql](https://github.com/tursodatabase/libsql)

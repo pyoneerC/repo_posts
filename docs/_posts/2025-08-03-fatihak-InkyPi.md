@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T22:13:37.488852
-image: assets/fatihak_InkyPi_cropped.png
+date: 2025-08-03 22:13:37.488852
 ---
 
 # [fatihak/InkyPi](https://github.com/fatihak/InkyPi)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T19:59:18.333312
-image: assets/kelindar_event_cropped.png
+date: 2025-07-16 19:59:18.333312
 ---
 
 # [kelindar/event](https://github.com/kelindar/event)

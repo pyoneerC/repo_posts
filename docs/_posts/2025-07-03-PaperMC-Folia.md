@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T22:41:20.851699
-image: assets/PaperMC_Folia_cropped.png
+date: 2025-07-03 22:41:20.851699
 ---
 
 # [PaperMC/Folia](https://github.com/PaperMC/Folia)

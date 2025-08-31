@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T23:15:30.432040
-image: assets/games-on-whales_wolf_cropped.png
+date: 2025-07-10 23:15:30.432040
 ---
 
 # [games-on-whales/wolf](https://github.com/games-on-whales/wolf)

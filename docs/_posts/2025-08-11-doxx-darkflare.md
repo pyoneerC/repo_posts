@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T04:10:01.180552
-image: assets/doxx_darkflare_cropped.png
+date: 2025-08-11 04:10:01.180552
 ---
 
 # [doxx/darkflare](https://github.com/doxx/darkflare)

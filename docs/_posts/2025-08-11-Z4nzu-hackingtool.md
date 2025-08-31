@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T10:43:02.752940
-image: assets/Z4nzu_hackingtool_cropped.png
+date: 2025-08-11 10:43:02.752940
 ---
 
 # [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)

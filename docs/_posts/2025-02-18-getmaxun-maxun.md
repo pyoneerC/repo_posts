@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-18T17:08:06.289001
-image: assets/getmaxun_maxun_cropped.png
+date: 2025-02-18 17:08:06.289001
 ---
 
 # [getmaxun/maxun](https://github.com/getmaxun/maxun)

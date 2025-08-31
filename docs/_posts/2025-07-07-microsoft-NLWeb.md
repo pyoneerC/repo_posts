@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T06:53:58.273869
-image: assets/microsoft_NLWeb_cropped.png
+date: 2025-07-07 06:53:58.273869
 ---
 
 # [microsoft/NLWeb](https://github.com/microsoft/NLWeb)

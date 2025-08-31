@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T21:32:02.702035
-image: assets/healthchecks_healthchecks_cropped.png
+date: 2025-07-09 21:32:02.702035
 ---
 
 # [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)

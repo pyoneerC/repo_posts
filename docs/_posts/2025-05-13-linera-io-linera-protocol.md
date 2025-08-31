@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-13T03:15:27.670221
-image: assets/linera-io_linera-protocol_cropped.png
+date: 2025-05-13 03:15:27.670221
 ---
 
 # [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)

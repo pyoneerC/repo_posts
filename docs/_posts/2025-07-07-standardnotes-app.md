@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T12:57:12.288189
-image: assets/standardnotes_app_cropped.png
+date: 2025-07-07 12:57:12.288189
 ---
 
 # [standardnotes/app](https://github.com/standardnotes/app)

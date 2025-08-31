@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T01:38:30.514287
-image: assets/blacklanternsecurity_TREVORproxy--20250815T021453724--cropped.png
+date: 2025-08-16 01:38:30.514287
 ---
 
 # [blacklanternsecurity/TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy)

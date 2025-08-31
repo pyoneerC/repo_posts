@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T17:53:28.692706
-image: assets/phasehq_console_cropped.png
+date: 2025-08-01 17:53:28.692706
 ---
 
 # [phasehq/console](https://github.com/phasehq/console)

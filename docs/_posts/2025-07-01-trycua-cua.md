@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T21:15:54.048657
-image: assets/trycua_cua_cropped.png
+date: 2025-07-01 21:15:54.048657
 ---
 
 # [trycua/cua](https://github.com/trycua/cua)

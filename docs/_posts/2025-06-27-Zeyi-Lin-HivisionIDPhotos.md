@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T11:45:18.416697
-image: assets/Zeyi-Lin_HivisionIDPhotos_cropped.png
+date: 2025-06-27 11:45:18.416697
 ---
 
 # [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)

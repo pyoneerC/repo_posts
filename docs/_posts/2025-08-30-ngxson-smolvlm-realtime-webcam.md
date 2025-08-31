@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-30T12:27:01.531601
-image: assets/20250830T040300608--ngxson--smolvlm-realtime-webcam--20250830T040423032--cropped.png
+date: 2025-08-30 12:27:01.531601
 ---
 
 # [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T19:14:24.371229
-image: assets/EasyTier_EasyTier_cropped.png
+date: 2025-07-01 19:14:24.371229
 ---
 
 # [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)

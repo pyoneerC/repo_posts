@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T08:18:35.686952
-image: assets/myshell-ai_MeloTTS_cropped.png
+date: 2025-08-04 08:18:35.686952
 ---
 
 # [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS)

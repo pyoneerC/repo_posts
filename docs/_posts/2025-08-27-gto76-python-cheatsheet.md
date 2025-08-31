@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-27T14:41:26.890774
-image: assets/20250826T030510192--gto76--python-cheatsheet--20250826T031017645--cropped.png
+date: 2025-08-27 14:41:26.890774
 ---
 
 # [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)

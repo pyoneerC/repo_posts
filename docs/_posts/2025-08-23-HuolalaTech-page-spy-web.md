@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-23T02:12:47.151571
-image: assets/20250822T021555230--HuolalaTech--page-spy-web--20250822T022352869--cropped.png
+date: 2025-08-23 02:12:47.151571
 ---
 
 # [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web)

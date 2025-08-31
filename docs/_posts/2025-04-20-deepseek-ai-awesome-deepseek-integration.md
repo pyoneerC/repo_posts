@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T12:29:59.662394
-image: assets/deepseek-ai_awesome-deepseek-integration_cropped.png
+date: 2025-04-20 12:29:59.662394
 ---
 
 # [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)

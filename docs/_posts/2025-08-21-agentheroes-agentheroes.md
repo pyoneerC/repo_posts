@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-21T18:57:08.322673
-image: assets/20250820T133553098_agentheroes_agentheroes--20250820T133836504--cropped.png
+date: 2025-08-21 18:57:08.322673
 ---
 
 # [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes)

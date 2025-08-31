@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-21T06:52:54.879214
-image: assets/MoonshotAI_MoBA_cropped.png
+date: 2025-02-21 06:52:54.879214
 ---
 
 # [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA)

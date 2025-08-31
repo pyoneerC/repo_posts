@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T13:39:49.010519
-image: assets/AppFlowy-IO_AppFlowy_cropped.png
+date: 2025-04-26 13:39:49.010519
 ---
 
 # [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)

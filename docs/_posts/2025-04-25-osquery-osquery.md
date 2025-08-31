@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T15:59:55.620992
-image: assets/osquery_osquery_cropped.png
+date: 2025-04-25 15:59:55.620992
 ---
 
 # [osquery/osquery](https://github.com/osquery/osquery)

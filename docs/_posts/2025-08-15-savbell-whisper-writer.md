@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T06:59:39.995226
-image: assets/savbell_whisper-writer--20250815T011952892--cropped.png
+date: 2025-08-15 06:59:39.995226
 ---
 
 # [savbell/whisper-writer](https://github.com/savbell/whisper-writer)

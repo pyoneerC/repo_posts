@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T14:07:59.967855
-image: assets/ashishpatel26_500-AI-Agents-Projects_cropped.png
+date: 2025-07-31 14:07:59.967855
 ---
 
 # [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T10:10:12.598043
-image: assets/20250818T122606909_i-am-bee_beeai-framework--20250818T122755498--cropped.png
+date: 2025-08-20 10:10:12.598043
 ---
 
 # [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)

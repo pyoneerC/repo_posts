@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-07T13:53:11.624698
-image: assets/PromtEngineer_localGPT_cropped.png
+date: 2025-05-07 13:53:11.624698
 ---
 
 # [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)

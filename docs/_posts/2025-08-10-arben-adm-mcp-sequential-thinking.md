@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T18:04:42.703663
-image: assets/arben-adm_mcp-sequential-thinking_cropped.png
+date: 2025-08-10 18:04:42.703663
 ---
 
 # [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking)

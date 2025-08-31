@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T12:40:36.249244
-image: assets/taskade_mcp_cropped.png
+date: 2025-06-19 12:40:36.249244
 ---
 
 # [taskade/mcp](https://github.com/taskade/mcp)

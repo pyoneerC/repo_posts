@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T19:24:43.791485
-image: assets/jasonxtn_Argus_cropped.png
+date: 2025-07-20 19:24:43.791485
 ---
 
 # [jasonxtn/Argus](https://github.com/jasonxtn/Argus)

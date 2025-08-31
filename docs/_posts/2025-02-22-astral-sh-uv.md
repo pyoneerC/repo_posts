@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-22T17:21:25.142415
-image: assets/astral-sh_uv_cropped.png
+date: 2025-02-22 17:21:25.142415
 ---
 
 # [astral-sh/uv](https://github.com/astral-sh/uv)

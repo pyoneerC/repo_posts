@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-25T16:44:51.021414
-image: assets/20250825T020426262--lookscanned--lookscanned.io--20250825T023934036--cropped.png
+date: 2025-08-25 16:44:51.021414
 ---
 
 # [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io)

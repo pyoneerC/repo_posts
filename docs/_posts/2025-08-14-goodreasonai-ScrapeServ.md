@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T20:24:26.124775
-image: assets/goodreasonai_ScrapeServ--20250814T045121172--cropped.png
+date: 2025-08-14 20:24:26.124775
 ---
 
 # [goodreasonai/ScrapeServ](https://github.com/goodreasonai/ScrapeServ)

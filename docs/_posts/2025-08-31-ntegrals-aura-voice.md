@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T01:05:23.623154
-image: assets/20250830T043547496--ntegrals--aura-voice--20250830T043716191--cropped.png
+date: 2025-08-31 01:05:23.623154
 ---
 
 # [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice)

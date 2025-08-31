@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T21:06:19.684380
-image: assets/plasmicapp_plasmic--20250815T020529804--cropped.png
+date: 2025-08-15 21:06:19.684380
 ---
 
 # [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic)

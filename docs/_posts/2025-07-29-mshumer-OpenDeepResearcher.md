@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T14:11:57.031975
-image: assets/mshumer_OpenDeepResearcher_cropped.png
+date: 2025-07-29 14:11:57.031975
 ---
 
 # [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher)

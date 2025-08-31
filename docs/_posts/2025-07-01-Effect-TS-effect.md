@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T16:42:12.090104
-image: assets/Effect-TS_effect_cropped.png
+date: 2025-07-01 16:42:12.090104
 ---
 
 # [Effect-TS/effect](https://github.com/Effect-TS/effect)

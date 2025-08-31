@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T04:33:20.642521
-image: assets/20250817T072848388_ultimaweapon_tsuki--20250817T073010072--cropped.png
+date: 2025-08-18 04:33:20.642521
 ---
 
 # [ultimaweapon/tsuki](https://github.com/ultimaweapon/tsuki)

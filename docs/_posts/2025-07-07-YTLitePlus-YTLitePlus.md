@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T08:24:48.142696
-image: assets/YTLitePlus_YTLitePlus_cropped.png
+date: 2025-07-07 08:24:48.142696
 ---
 
 # [YTLitePlus/YTLitePlus](https://github.com/YTLitePlus/YTLitePlus)

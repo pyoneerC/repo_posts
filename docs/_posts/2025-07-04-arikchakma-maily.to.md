@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-04T23:24:13.728963
-image: assets/arikchakma_maily.to_cropped.png
+date: 2025-07-04 23:24:13.728963
 ---
 
 # [arikchakma/maily.to](https://github.com/arikchakma/maily.to)

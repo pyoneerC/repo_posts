@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T00:39:02.416484
-image: assets/dream-num_univer_cropped.png
+date: 2025-08-06 00:39:02.416484
 ---
 
 # [dream-num/univer](https://github.com/dream-num/univer)

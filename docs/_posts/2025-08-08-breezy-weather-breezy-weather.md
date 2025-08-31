@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T05:35:51.535073
-image: assets/breezy-weather_breezy-weather_cropped.png
+date: 2025-08-08 05:35:51.535073
 ---
 
 # [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)

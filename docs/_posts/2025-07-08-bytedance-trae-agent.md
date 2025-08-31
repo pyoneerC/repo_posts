@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T19:18:15.551712
-image: assets/bytedance_trae-agent_cropped.png
+date: 2025-07-08 19:18:15.551712
 ---
 
 # [bytedance/trae-agent](https://github.com/bytedance/trae-agent)

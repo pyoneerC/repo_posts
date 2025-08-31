@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T21:36:32.573850
-image: assets/VikParuchuri_marker_cropped.png
+date: 2025-04-22 21:36:32.573850
 ---
 
 # [VikParuchuri/marker](https://github.com/VikParuchuri/marker)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T12:44:21.709078
-image: assets/kubenetworks_kubevpn_cropped.png
+date: 2025-02-24 12:44:21.709078
 ---
 
 # [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn)

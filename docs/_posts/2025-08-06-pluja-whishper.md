@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T01:09:16.777367
-image: assets/pluja_whishper_cropped.png
+date: 2025-08-06 01:09:16.777367
 ---
 
 # [pluja/whishper](https://github.com/pluja/whishper)

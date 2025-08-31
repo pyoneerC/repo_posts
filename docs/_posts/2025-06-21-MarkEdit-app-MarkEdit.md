@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T02:58:00.196931
-image: assets/MarkEdit-app_MarkEdit_cropped.png
+date: 2025-06-21 02:58:00.196931
 ---
 
 # [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-11T16:35:16.754649
-image: assets/pogjester_company-research-agent_cropped.png
+date: 2025-05-11 16:35:16.754649
 ---
 
 # [pogjester/company-research-agent](https://github.com/pogjester/company-research-agent)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-29T22:48:15.246941
-image: assets/20250829T042622190--danerwilliams--charcoal--20250829T043150412--cropped.png
+date: 2025-08-29 22:48:15.246941
 ---
 
 # [danerwilliams/charcoal](https://github.com/danerwilliams/charcoal)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T17:17:09.065496
-image: assets/superglue-ai_superglue_cropped.png
+date: 2025-07-08 17:17:09.065496
 ---
 
 # [superglue-ai/superglue](https://github.com/superglue-ai/superglue)

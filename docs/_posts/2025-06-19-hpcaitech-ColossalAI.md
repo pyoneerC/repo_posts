@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-19T11:09:58.499371
-image: assets/hpcaitech_ColossalAI_cropped.png
+date: 2025-06-19 11:09:58.499371
 ---
 
 # [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)

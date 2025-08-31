@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-18T08:03:19.832577
-image: assets/openai_whisper_cropped.png
+date: 2025-06-18 08:03:19.832577
 ---
 
 # [openai/whisper](https://github.com/openai/whisper)

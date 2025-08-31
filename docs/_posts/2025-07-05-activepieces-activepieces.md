@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T21:05:37.353386
-image: assets/activepieces_activepieces_cropped.png
+date: 2025-07-05 21:05:37.353386
 ---
 
 # [activepieces/activepieces](https://github.com/activepieces/activepieces)

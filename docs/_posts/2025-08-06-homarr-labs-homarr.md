@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T07:42:13.109452
-image: assets/homarr-labs_homarr_cropped.png
+date: 2025-08-06 07:42:13.109452
 ---
 
 # [homarr-labs/homarr](https://github.com/homarr-labs/homarr)

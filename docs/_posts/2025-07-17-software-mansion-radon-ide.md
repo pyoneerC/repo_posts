@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T12:08:42.785022
-image: assets/software-mansion_radon-ide_cropped.png
+date: 2025-07-17 12:08:42.785022
 ---
 
 # [software-mansion/radon-ide](https://github.com/software-mansion/radon-ide)

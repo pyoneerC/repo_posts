@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T17:12:38.932579
-image: assets/lobehub_lobe-chat_cropped.png
+date: 2025-07-01 17:12:38.932579
 ---
 
 # [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)

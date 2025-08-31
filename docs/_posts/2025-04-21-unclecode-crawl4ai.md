@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-21T01:39:01.415454
-image: assets/unclecode_crawl4ai_cropped.png
+date: 2025-04-21 01:39:01.415454
 ---
 
 # [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)

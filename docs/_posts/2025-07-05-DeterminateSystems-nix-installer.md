@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T20:35:20.721011
-image: assets/DeterminateSystems_nix-installer_cropped.png
+date: 2025-07-05 20:35:20.721011
 ---
 
 # [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer)

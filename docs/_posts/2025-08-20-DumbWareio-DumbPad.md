@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T19:45:20.799436
-image: assets/20250818T124434116_DumbWareio_DumbPad--20250818T124947794--cropped.png
+date: 2025-08-20 19:45:20.799436
 ---
 
 # [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad)

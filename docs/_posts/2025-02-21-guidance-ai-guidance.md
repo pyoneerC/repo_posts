@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-21T15:59:08.334612
-image: assets/guidance-ai_guidance_cropped.png
+date: 2025-02-21 15:59:08.334612
 ---
 
 # [guidance-ai/guidance](https://github.com/guidance-ai/guidance)

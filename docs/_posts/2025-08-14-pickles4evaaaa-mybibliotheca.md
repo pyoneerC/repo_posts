@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T00:44:57.161402
-image: assets/pickles4evaaaa_mybibliotheca--20250813T000612--cropped.png
+date: 2025-08-14 00:44:57.161402
 ---
 
 # [pickles4evaaaa/mybibliotheca](https://github.com/pickles4evaaaa/mybibliotheca)

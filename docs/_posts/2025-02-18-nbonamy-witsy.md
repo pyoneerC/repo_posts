@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-18T06:06:09.655754
-image: assets/nbonamy_witsy_cropped.png
+date: 2025-02-18 06:06:09.655754
 ---
 
 # [nbonamy/witsy](https://github.com/nbonamy/witsy)

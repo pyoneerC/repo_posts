@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-26T11:14:28.259235
-image: assets/rany2_edge-tts_cropped.png
+date: 2025-02-26 11:14:28.259235
 ---
 
 # [rany2/edge-tts](https://github.com/rany2/edge-tts)

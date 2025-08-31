@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T04:32:07.034418
-image: assets/alexpasmantier_television_cropped.png
+date: 2025-07-03 04:32:07.034418
 ---
 
 # [alexpasmantier/television](https://github.com/alexpasmantier/television)

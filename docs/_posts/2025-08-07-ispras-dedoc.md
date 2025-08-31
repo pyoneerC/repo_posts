@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-07T01:21:58.967956
-image: assets/ispras_dedoc_cropped.png
+date: 2025-08-07 01:21:58.967956
 ---
 
 # [ispras/dedoc](https://github.com/ispras/dedoc)

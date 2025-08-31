@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-28T17:25:38.831172
-image: assets/20250827T221219153--rohitg00--awesome-ai-apps--20250827T221633197--cropped.png
+date: 2025-08-28 17:25:38.831172
 ---
 
 # [rohitg00/awesome-ai-apps](https://github.com/rohitg00/awesome-ai-apps)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T12:02:00.980472
-image: assets/coaidev_coai--20250815T013514011--cropped.png
+date: 2025-08-15 12:02:00.980472
 ---
 
 # [coaidev/coai](https://github.com/coaidev/coai)

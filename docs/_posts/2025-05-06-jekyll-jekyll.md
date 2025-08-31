@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-06T03:08:56.206838
-image: assets/jekyll_jekyll_cropped.png
+date: 2025-05-06 03:08:56.206838
 ---
 
 # [jekyll/jekyll](https://github.com/jekyll/jekyll)

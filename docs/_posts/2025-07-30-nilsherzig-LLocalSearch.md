@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T06:20:52.485237
-image: assets/nilsherzig_LLocalSearch_cropped.png
+date: 2025-07-30 06:20:52.485237
 ---
 
 # [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)

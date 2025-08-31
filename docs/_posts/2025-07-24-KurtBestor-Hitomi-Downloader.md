@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-24T11:12:44.994450
-image: assets/KurtBestor_Hitomi-Downloader_cropped.png
+date: 2025-07-24 11:12:44.994450
 ---
 
 # [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-24T16:14:17.419259
-image: assets/vanna-ai_vanna_cropped.png
+date: 2025-04-24 16:14:17.419259
 ---
 
 # [vanna-ai/vanna](https://github.com/vanna-ai/vanna)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T11:08:36.074944
-image: assets/zhiyiYo_Fluent-M3U8_cropped.png
+date: 2025-07-26 11:08:36.074944
 ---
 
 # [zhiyiYo/Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8)

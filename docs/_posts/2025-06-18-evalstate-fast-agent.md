@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-18T09:03:53.725676
-image: assets/evalstate_fast-agent_cropped.png
+date: 2025-06-18 09:03:53.725676
 ---
 
 # [evalstate/fast-agent](https://github.com/evalstate/fast-agent)

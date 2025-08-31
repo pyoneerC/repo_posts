@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-26T14:15:36.818070
-image: assets/skarnet_execline_cropped.png
+date: 2025-06-26 14:15:36.818070
 ---
 
 # [skarnet/execline](https://github.com/skarnet/execline)

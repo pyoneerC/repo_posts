@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-23T09:02:34.494347
-image: assets/ComposioHQ_composio_cropped.png
+date: 2025-02-23 09:02:34.494347
 ---
 
 # [ComposioHQ/composio](https://github.com/ComposioHQ/composio)

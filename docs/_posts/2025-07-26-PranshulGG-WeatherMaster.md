@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T20:43:37.935470
-image: assets/PranshulGG_WeatherMaster_cropped.png
+date: 2025-07-26 20:43:37.935470
 ---
 
 # [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster)

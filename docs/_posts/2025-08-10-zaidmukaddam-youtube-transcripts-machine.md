@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T03:58:31.370313
-image: assets/zaidmukaddam_youtube-transcripts-machine_cropped.png
+date: 2025-08-10 03:58:31.370313
 ---
 
 # [zaidmukaddam/youtube-transcripts-machine](https://github.com/zaidmukaddam/youtube-transcripts-machine)

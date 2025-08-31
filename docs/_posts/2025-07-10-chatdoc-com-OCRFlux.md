@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T17:42:28.046317
-image: assets/chatdoc-com_OCRFlux_cropped.png
+date: 2025-07-10 17:42:28.046317
 ---
 
 # [chatdoc-com/OCRFlux](https://github.com/chatdoc-com/OCRFlux)

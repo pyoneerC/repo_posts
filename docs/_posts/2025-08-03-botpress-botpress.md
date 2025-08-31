@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T14:55:12.470982
-image: assets/botpress_botpress_cropped.png
+date: 2025-08-03 14:55:12.470982
 ---
 
 # [botpress/botpress](https://github.com/botpress/botpress)

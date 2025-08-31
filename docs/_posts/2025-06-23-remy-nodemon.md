@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T23:41:23.984479
-image: assets/remy_nodemon_cropped.png
+date: 2025-06-23 23:41:23.984479
 ---
 
 # [remy/nodemon](https://github.com/remy/nodemon)

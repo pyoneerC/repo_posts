@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T14:51:38.088866
-image: assets/mindsdb_minds-mcp--20250814T041941782--cropped.png
+date: 2025-08-14 14:51:38.088866
 ---
 
 # [mindsdb/minds-mcp](https://github.com/mindsdb/minds-mcp)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T20:54:45.974094
-image: assets/lingodotdev_lingo.dev_cropped.png
+date: 2025-08-04 20:54:45.974094
 ---
 
 # [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)

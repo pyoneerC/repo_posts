@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T15:22:42.852599
-image: assets/danny-avila_LibreChat_cropped.png
+date: 2025-06-23 15:22:42.852599
 ---
 
 # [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)

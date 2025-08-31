@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-20T04:25:26.658058
-image: assets/microsoft_OmniParser_cropped.png
+date: 2025-04-20 04:25:26.658058
 ---
 
 # [microsoft/OmniParser](https://github.com/microsoft/OmniParser)

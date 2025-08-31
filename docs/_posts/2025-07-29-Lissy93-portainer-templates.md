@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T15:12:32.085489
-image: assets/Lissy93_portainer-templates_cropped.png
+date: 2025-07-29 15:12:32.085489
 ---
 
 # [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)

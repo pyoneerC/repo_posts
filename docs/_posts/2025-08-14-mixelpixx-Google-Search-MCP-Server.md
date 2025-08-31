@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T09:49:12.405465
-image: assets/20250814T034221003_mixelpixx_Google-Search-MCP-Server--20250814T034428652--cropped.png
+date: 2025-08-14 09:49:12.405465
 ---
 
 # [mixelpixx/Google-Search-MCP-Server](https://github.com/mixelpixx/Google-Search-MCP-Server)

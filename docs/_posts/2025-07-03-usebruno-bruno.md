@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T03:01:21.657877
-image: assets/usebruno_bruno_cropped.png
+date: 2025-07-03 03:01:21.657877
 ---
 
 # [usebruno/bruno](https://github.com/usebruno/bruno)

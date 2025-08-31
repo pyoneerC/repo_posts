@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T17:06:49.344540
-image: assets/krahets_hello-algo_cropped.png
+date: 2025-08-02 17:06:49.344540
 ---
 
 # [krahets/hello-algo](https://github.com/krahets/hello-algo)

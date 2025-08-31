@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-10T09:08:00.819435
-image: assets/supavec_supavec_cropped.png
+date: 2025-07-10 09:08:00.819435
 ---
 
 # [supavec/supavec](https://github.com/supavec/supavec)

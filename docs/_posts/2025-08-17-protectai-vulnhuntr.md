@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-17T01:19:40.331377
-image: assets/protectai_vulnhuntr--20250816T013200176--cropped.png
+date: 2025-08-17 01:19:40.331377
 ---
 
 # [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr)

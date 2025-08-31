@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T12:52:49.770173
-image: assets/remvze_moodist_cropped.png
+date: 2025-07-11 12:52:49.770173
 ---
 
 # [remvze/moodist](https://github.com/remvze/moodist)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T21:36:34.086087
-image: assets/cdleon_awesome-terminals_cropped.png
+date: 2025-06-21 21:36:34.086087
 ---
 
 # [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals)

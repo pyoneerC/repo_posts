@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T11:08:10.540960
-image: assets/jtdowney_tsbridge_cropped.png
+date: 2025-07-17 11:08:10.540960
 ---
 
 # [jtdowney/tsbridge](https://github.com/jtdowney/tsbridge)

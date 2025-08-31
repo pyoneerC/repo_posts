@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-25T00:55:29.705901
-image: assets/johannesjo_super-productivity_cropped.png
+date: 2025-02-25 00:55:29.705901
 ---
 
 # [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)

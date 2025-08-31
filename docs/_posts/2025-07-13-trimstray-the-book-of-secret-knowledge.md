@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-13T05:08:23.154522
-image: assets/trimstray_the-book-of-secret-knowledge_cropped.png
+date: 2025-07-13 05:08:23.154522
 ---
 
 # [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)

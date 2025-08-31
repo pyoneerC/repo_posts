@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-25T23:18:17.036062
-image: assets/20250825T024336256--zlwaterfield--scramble--20250825T025311651--cropped.png
+date: 2025-08-25 23:18:17.036062
 ---
 
 # [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble)

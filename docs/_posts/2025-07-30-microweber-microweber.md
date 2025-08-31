@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T16:57:40.444525
-image: assets/microweber_microweber_cropped.png
+date: 2025-07-30 16:57:40.444525
 ---
 
 # [microweber/microweber](https://github.com/microweber/microweber)

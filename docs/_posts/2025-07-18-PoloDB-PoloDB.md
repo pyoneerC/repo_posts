@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T18:27:08.176822
-image: assets/PoloDB_PoloDB_cropped.png
+date: 2025-07-18 18:27:08.176822
 ---
 
 # [PoloDB/PoloDB](https://github.com/PoloDB/PoloDB)

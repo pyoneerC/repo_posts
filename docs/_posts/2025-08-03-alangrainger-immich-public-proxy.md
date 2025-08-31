@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T09:22:39.078122
-image: assets/alangrainger_immich-public-proxy_cropped.png
+date: 2025-08-03 09:22:39.078122
 ---
 
 # [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy)

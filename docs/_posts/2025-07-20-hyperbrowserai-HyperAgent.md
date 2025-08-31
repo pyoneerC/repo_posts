@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T23:26:52.064843
-image: assets/hyperbrowserai_HyperAgent_cropped.png
+date: 2025-07-20 23:26:52.064843
 ---
 
 # [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent)

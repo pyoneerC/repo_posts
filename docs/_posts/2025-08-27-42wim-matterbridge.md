@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-27T20:44:59.378788
-image: assets/20250826T031222738--42wim--matterbridge--20250826T031638555--cropped.png
+date: 2025-08-27 20:44:59.378788
 ---
 
 # [42wim/matterbridge](https://github.com/42wim/matterbridge)

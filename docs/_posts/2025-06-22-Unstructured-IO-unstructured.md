@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T15:30:39.228196
-image: assets/Unstructured-IO_unstructured_cropped.png
+date: 2025-06-22 15:30:39.228196
 ---
 
 # [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)

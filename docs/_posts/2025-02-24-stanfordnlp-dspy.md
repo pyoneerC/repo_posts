@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T23:54:12.286307
-image: assets/stanfordnlp_dspy_cropped.png
+date: 2025-02-24 23:54:12.286307
 ---
 
 # [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)

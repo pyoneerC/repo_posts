@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T18:34:57.291160
-image: assets/praetorian-inc_ChromeAlone_cropped.png
+date: 2025-08-10 18:34:57.291160
 ---
 
 # [praetorian-inc/ChromeAlone](https://github.com/praetorian-inc/ChromeAlone)

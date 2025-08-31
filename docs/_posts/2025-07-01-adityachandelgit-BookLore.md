@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-01T01:34:27.939882
-image: assets/adityachandelgit_BookLore_cropped.png
+date: 2025-07-01 01:34:27.939882
 ---
 
 # [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore)

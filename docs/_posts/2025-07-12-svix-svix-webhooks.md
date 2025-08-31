@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-12T00:59:06.442909
-image: assets/svix_svix-webhooks_cropped.png
+date: 2025-07-12 00:59:06.442909
 ---
 
 # [svix/svix-webhooks](https://github.com/svix/svix-webhooks)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T21:35:52.779014
-image: assets/microsandbox_microsandbox_cropped.png
+date: 2025-07-05 21:35:52.779014
 ---
 
 # [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)

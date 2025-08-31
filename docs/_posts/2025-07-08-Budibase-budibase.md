@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T13:45:10.660405
-image: assets/Budibase_budibase_cropped.png
+date: 2025-07-08 13:45:10.660405
 ---
 
 # [Budibase/budibase](https://github.com/Budibase/budibase)

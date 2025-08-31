@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T14:55:24.358559
-image: assets/zamalali_DeepGit_cropped.png
+date: 2025-07-30 14:55:24.358559
 ---
 
 # [zamalali/DeepGit](https://github.com/zamalali/DeepGit)

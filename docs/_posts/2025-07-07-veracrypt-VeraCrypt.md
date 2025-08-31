@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T13:57:47.447970
-image: assets/veracrypt_VeraCrypt_cropped.png
+date: 2025-07-07 13:57:47.447970
 ---
 
 # [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt)

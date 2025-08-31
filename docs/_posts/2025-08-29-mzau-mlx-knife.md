@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-29T08:06:52.630355
-image: assets/20250827T100411510--mzau--mlx-knife--20250829T034154075--cropped.png
+date: 2025-08-29 08:06:52.630355
 ---
 
 # [mzau/mlx-knife](https://github.com/mzau/mlx-knife)

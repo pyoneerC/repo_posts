@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T06:56:47.854590
-image: assets/All-Hands-AI_OpenHands_cropped.png
+date: 2025-06-22 06:56:47.854590
 ---
 
 # [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)

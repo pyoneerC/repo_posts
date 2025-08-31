@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T16:31:10.729698
-image: assets/hashicorp_consul_cropped.png
+date: 2025-06-22 16:31:10.729698
 ---
 
 # [hashicorp/consul](https://github.com/hashicorp/consul)

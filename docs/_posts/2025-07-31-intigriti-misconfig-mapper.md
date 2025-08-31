@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T22:12:36.013273
-image: assets/intigriti_misconfig-mapper_cropped.png
+date: 2025-07-31 22:12:36.013273
 ---
 
 # [intigriti/misconfig-mapper](https://github.com/intigriti/misconfig-mapper)

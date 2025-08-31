@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-17T23:59:42.545764
-image: assets/SonyResearch_micro_diffusion_cropped.png
+date: 2025-02-17 23:59:42.545764
 ---
 
 # [SonyResearch/micro_diffusion](https://github.com/SonyResearch/micro_diffusion)

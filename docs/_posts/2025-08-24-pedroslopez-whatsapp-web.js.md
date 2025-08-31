@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T20:05:06.486810
-image: assets/20250823T012247600--pedroslopez--whatsapp-web.js--20250823T013803207--cropped.png
+date: 2025-08-24 20:05:06.486810
 ---
 
 # [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)

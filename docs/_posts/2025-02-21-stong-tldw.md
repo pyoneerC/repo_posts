@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-21T02:18:32.954362
-image: assets/stong_tldw_cropped.png
+date: 2025-02-21 02:18:32.954362
 ---
 
 # [stong/tldw](https://github.com/stong/tldw)

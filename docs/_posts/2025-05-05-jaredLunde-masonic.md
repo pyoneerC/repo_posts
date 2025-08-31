@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T19:16:47.475589
-image: assets/jaredLunde_masonic_cropped.png
+date: 2025-05-05 19:16:47.475589
 ---
 
 # [jaredLunde/masonic](https://github.com/jaredLunde/masonic)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-09T00:45:15.278053
-image: assets/learnhouse_learnhouse_cropped.png
+date: 2025-08-09 00:45:15.278053
 ---
 
 # [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse)

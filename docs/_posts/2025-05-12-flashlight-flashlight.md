@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T22:39:04.886618
-image: assets/flashlight_flashlight_cropped.png
+date: 2025-05-12 22:39:04.886618
 ---
 
 # [flashlight/flashlight](https://github.com/flashlight/flashlight)

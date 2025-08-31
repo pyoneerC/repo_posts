@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T09:07:01.672068
-image: assets/gomlx_gomlx_cropped.png
+date: 2025-07-17 09:07:01.672068
 ---
 
 # [gomlx/gomlx](https://github.com/gomlx/gomlx)

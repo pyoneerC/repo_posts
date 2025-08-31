@@ -1,0 +1,10 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: #fafbfc; color: #222; }
+header { padding: 2rem 1rem 1rem 1rem; text-align: center; }
+#search { width: 100%; max-width: 400px; padding: 0.5rem; font-size: 1rem; margin-top: 1rem; }
+main { max-width: 600px; margin: 2rem auto; padding: 1rem; }
+ul#repo-list { list-style: none; padding: 0; }
+ul#repo-list li { background: #fff; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 1px 4px #0001; padding: 1rem; transition: box-shadow 0.2s; }
+ul#repo-list li:hover { box-shadow: 0 4px 16px #0002; }
+footer { text-align: center; padding: 2rem 1rem 1rem 1rem; color: #888; font-size: 0.9rem; }
+a { color: #0077cc; text-decoration: none; }
+a:hover { text-decoration: underline; }

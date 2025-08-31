@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-15T07:29:52.900011
-image: assets/aediliclabs_nonescape--20250815T012044934--cropped.png
+date: 2025-08-15 07:29:52.900011
 ---
 
 # [aediliclabs/nonescape](https://github.com/aediliclabs/nonescape)

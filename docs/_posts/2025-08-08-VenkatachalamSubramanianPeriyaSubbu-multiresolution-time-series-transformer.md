@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-08T00:33:28.558112
-image: assets/VenkatachalamSubramanianPeriyaSubbu_multiresolution-time-series-transformer_cropped.png
+date: 2025-08-08 00:33:28.558112
 ---
 
 # [VenkatachalamSubramanianPeriyaSubbu/multiresolution-time-series-transformer](https://github.com/VenkatachalamSubramanianPeriyaSubbu/multiresolution-time-series-transformer)

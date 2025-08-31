@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T06:38:24.782212
-image: assets/20250818T121456664_dittofeed_dittofeed--20250818T121742450--cropped.png
+date: 2025-08-20 06:38:24.782212
 ---
 
 # [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)

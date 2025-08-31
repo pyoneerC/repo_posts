@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-17T10:54:51.211896
-image: assets/20250816T004902760_0x4m4_hexstrike-ai--20250816T051128964--cropped.png
+date: 2025-08-17 10:54:51.211896
 ---
 
 # [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-22T08:26:55.623339
-image: assets/refly-ai_refly_cropped.png
+date: 2025-04-22 08:26:55.623339
 ---
 
 # [refly-ai/refly](https://github.com/refly-ai/refly)

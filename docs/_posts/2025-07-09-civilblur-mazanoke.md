@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-09T05:23:41.005328
-image: assets/civilblur_mazanoke_cropped.png
+date: 2025-07-09 05:23:41.005328
 ---
 
 # [civilblur/mazanoke](https://github.com/civilblur/mazanoke)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-20T23:47:35.177758
-image: assets/20250818T095807103_souzatharsis_podcastfy--20250820T130029188--cropped.png
+date: 2025-08-20 23:47:35.177758
 ---
 
 # [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy)

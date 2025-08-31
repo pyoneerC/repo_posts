@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-06T05:40:13.068163
-image: assets/OfficialAroCodes_AroCrypt_cropped.png
+date: 2025-07-06 05:40:13.068163
 ---
 
 # [OfficialAroCodes/AroCrypt](https://github.com/OfficialAroCodes/AroCrypt)

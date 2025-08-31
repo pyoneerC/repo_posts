@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-28T08:39:47.094351
-image: assets/Beingpax_VoiceInk_cropped.png
+date: 2025-06-28 08:39:47.094351
 ---
 
 # [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)

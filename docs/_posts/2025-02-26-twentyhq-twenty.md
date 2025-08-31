@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-26T01:06:42.655812
-image: assets/twentyhq_twenty_cropped.png
+date: 2025-02-26 01:06:42.655812
 ---
 
 # [twentyhq/twenty](https://github.com/twentyhq/twenty)

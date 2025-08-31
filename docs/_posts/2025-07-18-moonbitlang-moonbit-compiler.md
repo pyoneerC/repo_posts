@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T07:51:37.368960
-image: assets/moonbitlang_moonbit-compiler_cropped.png
+date: 2025-07-18 07:51:37.368960
 ---
 
 # [moonbitlang/moonbit-compiler](https://github.com/moonbitlang/moonbit-compiler)

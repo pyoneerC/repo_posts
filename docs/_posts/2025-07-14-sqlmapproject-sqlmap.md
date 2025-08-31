@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-14T04:50:15.776711
-image: assets/sqlmapproject_sqlmap_cropped.png
+date: 2025-07-14 04:50:15.776711
 ---
 
 # [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)

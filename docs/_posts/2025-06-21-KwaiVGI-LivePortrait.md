@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T01:57:33.634351
-image: assets/KwaiVGI_LivePortrait_cropped.png
+date: 2025-06-21 01:57:33.634351
 ---
 
 # [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)

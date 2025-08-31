@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-13T00:02:24.072548
-image: assets/megadose_holehe--20250812T010517--cropped.png
+date: 2025-08-13 00:02:24.072548
 ---
 
 # [megadose/holehe](https://github.com/megadose/holehe)

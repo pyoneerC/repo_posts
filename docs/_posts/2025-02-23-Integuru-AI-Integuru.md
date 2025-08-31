@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-23T08:01:50.530638
-image: assets/Integuru-AI_Integuru_cropped.png
+date: 2025-02-23 08:01:50.530638
 ---
 
 # [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru)

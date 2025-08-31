@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T10:23:07.368132
-image: assets/shcherbak-ai_contextgem_cropped.png
+date: 2025-08-03 10:23:07.368132
 ---
 
 # [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem)

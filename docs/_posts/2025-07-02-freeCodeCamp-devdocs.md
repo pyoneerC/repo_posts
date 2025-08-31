@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-02T18:26:53.179080
-image: assets/freeCodeCamp_devdocs_cropped.png
+date: 2025-07-02 18:26:53.179080
 ---
 
 # [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)

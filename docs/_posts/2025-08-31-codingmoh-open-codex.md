@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T04:07:24.286536
-image: assets/20250830T050852248--codingmoh--open-codex--20250830T051324986--cropped.png
+date: 2025-08-31 04:07:24.286536
 ---
 
 # [codingmoh/open-codex](https://github.com/codingmoh/open-codex)

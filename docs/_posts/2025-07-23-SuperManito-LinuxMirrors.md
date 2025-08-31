@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T09:28:22.372799
-image: assets/SuperManito_LinuxMirrors_cropped.png
+date: 2025-07-23 09:28:22.372799
 ---
 
 # [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-07T04:52:17.393835
-image: assets/browser-use_workflow-use_cropped.png
+date: 2025-07-07 04:52:17.393835
 ---
 
 # [browser-use/workflow-use](https://github.com/browser-use/workflow-use)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-27T12:40:14.400882
-image: assets/20250826T030219556--gyoridavid--short-video-maker--20250826T030859400--cropped.png
+date: 2025-08-27 12:40:14.400882
 ---
 
 # [gyoridavid/short-video-maker](https://github.com/gyoridavid/short-video-maker)

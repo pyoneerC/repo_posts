@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-08T09:12:59.002016
-image: assets/t3dotgg_stripe-recommendations_cropped.png
+date: 2025-07-08 09:12:59.002016
 ---
 
 # [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)

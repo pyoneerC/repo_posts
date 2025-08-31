@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T05:40:50.567958
-image: assets/flydelabs_flyde_cropped.png
+date: 2025-06-27 05:40:50.567958
 ---
 
 # [flydelabs/flyde](https://github.com/flydelabs/flyde)

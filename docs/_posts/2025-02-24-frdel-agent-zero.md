@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-24T18:19:48.901273
-image: assets/frdel_agent-zero_cropped.png
+date: 2025-02-24 18:19:48.901273
 ---
 
 # [frdel/agent-zero](https://github.com/frdel/agent-zero)

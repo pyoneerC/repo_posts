@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-16T05:10:13.214540
-image: assets/googleanalytics_google-analytics-mcp--20250815T022321866--cropped.png
+date: 2025-08-16 05:10:13.214540
 ---
 
 # [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp)

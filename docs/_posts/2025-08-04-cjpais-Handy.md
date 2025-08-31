@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-04T21:55:13.621177
-image: assets/cjpais_Handy_cropped.png
+date: 2025-08-04 21:55:13.621177
 ---
 
 # [cjpais/Handy](https://github.com/cjpais/Handy)

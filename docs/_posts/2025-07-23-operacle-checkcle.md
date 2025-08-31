@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T09:58:40.037461
-image: assets/operacle_checkcle_cropped.png
+date: 2025-07-23 09:58:40.037461
 ---
 
 # [operacle/checkcle](https://github.com/operacle/checkcle)

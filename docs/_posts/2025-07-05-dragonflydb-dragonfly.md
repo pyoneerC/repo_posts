@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T20:05:05.680955
-image: assets/dragonflydb_dragonfly_cropped.png
+date: 2025-07-05 20:05:05.680955
 ---
 
 # [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)

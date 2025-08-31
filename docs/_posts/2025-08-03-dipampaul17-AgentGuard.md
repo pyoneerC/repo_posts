@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-03T08:22:10.743154
-image: assets/dipampaul17_AgentGuard_cropped.png
+date: 2025-08-03 08:22:10.743154
 ---
 
 # [dipampaul17/AgentGuard](https://github.com/dipampaul17/AgentGuard)

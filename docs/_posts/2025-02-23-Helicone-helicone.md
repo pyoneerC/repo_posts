@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-23T10:03:17.178764
-image: assets/Helicone_helicone_cropped.png
+date: 2025-02-23 10:03:17.178764
 ---
 
 # [Helicone/helicone](https://github.com/Helicone/helicone)

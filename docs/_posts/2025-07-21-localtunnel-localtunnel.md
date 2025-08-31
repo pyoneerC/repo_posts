@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-21T20:38:38.177948
-image: assets/localtunnel_localtunnel_cropped.png
+date: 2025-07-21 20:38:38.177948
 ---
 
 # [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)

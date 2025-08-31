@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-23T14:00:52.516745
-image: assets/mongodb_kingfisher_cropped.png
+date: 2025-07-23 14:00:52.516745
 ---
 
 # [mongodb/kingfisher](https://github.com/mongodb/kingfisher)

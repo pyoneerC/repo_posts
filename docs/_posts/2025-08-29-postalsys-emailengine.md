@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-29T15:42:47.377099
-image: assets/20250829T041340885--postalsys--emailengine--20250829T041429387--cropped.png
+date: 2025-08-29 15:42:47.377099
 ---
 
 # [postalsys/emailengine](https://github.com/postalsys/emailengine)

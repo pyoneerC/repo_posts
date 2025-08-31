@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-25T17:00:26.333699
-image: assets/hcengineering_platform_cropped.png
+date: 2025-04-25 17:00:26.333699
 ---
 
 # [hcengineering/platform](https://github.com/hcengineering/platform)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-17T13:39:38.140727
-image: assets/cofob_autogenlib_cropped.png
+date: 2025-07-17 13:39:38.140727
 ---
 
 # [cofob/autogenlib](https://github.com/cofob/autogenlib)

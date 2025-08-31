@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-22T08:57:40.684727
-image: assets/browser-use_browser-use_cropped.png
+date: 2025-06-22 08:57:40.684727
 ---
 
 # [browser-use/browser-use](https://github.com/browser-use/browser-use)

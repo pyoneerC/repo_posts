@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-20T23:16:33.354782
-image: assets/meshtastic_firmware_cropped.png
+date: 2025-02-20 23:16:33.354782
 ---
 
 # [meshtastic/firmware](https://github.com/meshtastic/firmware)

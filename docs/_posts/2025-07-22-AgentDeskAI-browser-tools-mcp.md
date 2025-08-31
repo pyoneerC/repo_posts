@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T19:20:57.045963
-image: assets/AgentDeskAI_browser-tools-mcp_cropped.png
+date: 2025-07-22 19:20:57.045963
 ---
 
 # [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp)

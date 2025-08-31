@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-29T21:46:23.410734
-image: assets/nikmcfly_ANUS_cropped.png
+date: 2025-07-29 21:46:23.410734
 ---
 
 # [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS)

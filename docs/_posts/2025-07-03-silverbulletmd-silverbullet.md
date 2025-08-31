@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-03T09:04:15.334396
-image: assets/silverbulletmd_silverbullet_cropped.png
+date: 2025-07-03 09:04:15.334396
 ---
 
 # [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet)

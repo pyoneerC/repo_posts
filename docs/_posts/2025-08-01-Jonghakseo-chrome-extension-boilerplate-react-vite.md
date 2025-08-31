@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T21:55:54.349511
-image: assets/Jonghakseo_chrome-extension-boilerplate-react-vite_cropped.png
+date: 2025-08-01 21:55:54.349511
 ---
 
 # [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)

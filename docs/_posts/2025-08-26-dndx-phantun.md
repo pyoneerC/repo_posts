@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-26T00:49:02.478033
-image: assets/20250825T024946257--dndx--phantun--20250825T025934378--cropped.png
+date: 2025-08-26 00:49:02.478033
 ---
 
 # [dndx/phantun](https://github.com/dndx/phantun)

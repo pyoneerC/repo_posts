@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-20T01:43:55.380009
-image: assets/ccbikai_Sink_cropped.png
+date: 2025-07-20 01:43:55.380009
 ---
 
 # [ccbikai/Sink](https://github.com/ccbikai/Sink)

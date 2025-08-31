@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-13T02:37:09.521014
-image: assets/lllyasviel_FramePack_cropped.png
+date: 2025-07-13 02:37:09.521014
 ---
 
 # [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-14T16:52:39.094100
-image: assets/sentient-agi_OpenDeepSearch--20250814T043555473--cropped.png
+date: 2025-08-14 16:52:39.094100
 ---
 
 # [sentient-agi/OpenDeepSearch](https://github.com/sentient-agi/OpenDeepSearch)

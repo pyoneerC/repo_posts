@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T10:53:35.868995
-image: assets/basecamp_omakub_cropped.png
+date: 2025-07-16 10:53:35.868995
 ---
 
 # [basecamp/omakub](https://github.com/basecamp/omakub)

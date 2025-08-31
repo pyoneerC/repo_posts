@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T20:16:59.370597
-image: assets/unvalley_ephe_cropped.png
+date: 2025-06-25 20:16:59.370597
 ---
 
 # [unvalley/ephe](https://github.com/unvalley/ephe)

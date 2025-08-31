@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-01T14:21:14.820692
-image: assets/osTicket_osTicket_cropped.png
+date: 2025-08-01 14:21:14.820692
 ---
 
 # [osTicket/osTicket](https://github.com/osTicket/osTicket)

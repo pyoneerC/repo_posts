@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T13:54:09.606608
-image: assets/platformatic_kafka_cropped.png
+date: 2025-05-12 13:54:09.606608
 ---
 
 # [platformatic/kafka](https://github.com/platformatic/kafka)

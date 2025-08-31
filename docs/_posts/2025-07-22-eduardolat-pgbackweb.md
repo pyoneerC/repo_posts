@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-22T04:12:45.147701
-image: assets/eduardolat_pgbackweb_cropped.png
+date: 2025-07-22 04:12:45.147701
 ---
 
 # [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb)

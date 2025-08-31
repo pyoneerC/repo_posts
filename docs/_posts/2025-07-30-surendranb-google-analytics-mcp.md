@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-30T08:21:53.214454
-image: assets/surendranb_google-analytics-mcp_cropped.png
+date: 2025-07-30 08:21:53.214454
 ---
 
 # [surendranb/google-analytics-mcp](https://github.com/surendranb/google-analytics-mcp)

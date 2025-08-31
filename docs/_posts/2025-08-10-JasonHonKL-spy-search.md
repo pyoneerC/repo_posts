@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T07:29:59.033828
-image: assets/JasonHonKL_spy-search_cropped.png
+date: 2025-08-10 07:29:59.033828
 ---
 
 # [JasonHonKL/spy-search](https://github.com/JasonHonKL/spy-search)

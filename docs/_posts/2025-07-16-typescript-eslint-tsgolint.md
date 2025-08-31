@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-16T08:22:02.745072
-image: assets/typescript-eslint_tsgolint_cropped.png
+date: 2025-07-16 08:22:02.745072
 ---
 
 # [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint)

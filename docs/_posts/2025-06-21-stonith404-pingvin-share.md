@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T19:05:21.799105
-image: assets/stonith404_pingvin-share_cropped.png
+date: 2025-06-21 19:05:21.799105
 ---
 
 # [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share)

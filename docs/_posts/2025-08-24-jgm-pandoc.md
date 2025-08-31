@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-24T04:26:35.117236
-image: assets/20250822T025629261--jgm--pandoc--20250822T030247729--cropped.png
+date: 2025-08-24 04:26:35.117236
 ---
 
 # [jgm/pandoc](https://github.com/jgm/pandoc)

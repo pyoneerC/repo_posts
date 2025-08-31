@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-23T21:42:15.780761
-image: assets/gristlabs_grist-core_cropped.png
+date: 2025-06-23 21:42:15.780761
 ---
 
 # [gristlabs/grist-core](https://github.com/gristlabs/grist-core)

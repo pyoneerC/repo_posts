@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-21T08:30:31.457580
-image: assets/Cinnamon_kotaemon_cropped.png
+date: 2025-06-21 08:30:31.457580
 ---
 
 # [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)

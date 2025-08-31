@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-28T21:27:37.968421
-image: assets/20250827T221917665--fccview--rwMarkable--20250827T223040320--cropped.png
+date: 2025-08-28 21:27:37.968421
 ---
 
 # [fccview/rwMarkable](https://github.com/fccview/rwMarkable)

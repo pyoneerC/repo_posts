@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-02T04:59:49.776972
-image: assets/domainaware_parsedmarc_cropped.png
+date: 2025-08-02 04:59:49.776972
 ---
 
 # [domainaware/parsedmarc](https://github.com/domainaware/parsedmarc)

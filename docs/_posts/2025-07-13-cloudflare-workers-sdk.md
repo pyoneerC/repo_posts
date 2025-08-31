@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-13T21:46:45.671602
-image: assets/cloudflare_workers-sdk_cropped.png
+date: 2025-07-13 21:46:45.671602
 ---
 
 # [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)

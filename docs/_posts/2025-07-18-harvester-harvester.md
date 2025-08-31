@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-18T09:22:21.794258
-image: assets/harvester_harvester_cropped.png
+date: 2025-07-18 09:22:21.794258
 ---
 
 # [harvester/harvester](https://github.com/harvester/harvester)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-25T13:26:51.508189
-image: assets/tonghohin_screen-sharing_cropped.png
+date: 2025-07-25 13:26:51.508189
 ---
 
 # [tonghohin/screen-sharing](https://github.com/tonghohin/screen-sharing)

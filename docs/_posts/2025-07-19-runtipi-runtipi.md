@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T07:03:21.750045
-image: assets/runtipi_runtipi_cropped.png
+date: 2025-07-19 07:03:21.750045
 ---
 
 # [runtipi/runtipi](https://github.com/runtipi/runtipi)

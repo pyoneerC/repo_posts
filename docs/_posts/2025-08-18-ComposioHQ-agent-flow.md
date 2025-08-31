@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-18T01:01:41.606891
-image: assets/ComposioHQ_agent-flow--20250817T071321928--cropped.png
+date: 2025-08-18 01:01:41.606891
 ---
 
 # [ComposioHQ/agent-flow](https://github.com/ComposioHQ/agent-flow)

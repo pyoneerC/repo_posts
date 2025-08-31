@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-21T22:15:02.581899
-image: assets/chartdb_chartdb_cropped.png
+date: 2025-04-21 22:15:02.581899
 ---
 
 # [chartdb/chartdb](https://github.com/chartdb/chartdb)

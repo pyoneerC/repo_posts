@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T03:40:23.387503
-image: assets/hadriansecurity_subwiz_cropped.png
+date: 2025-08-06 03:40:23.387503
 ---
 
 # [hadriansecurity/subwiz](https://github.com/hadriansecurity/subwiz)

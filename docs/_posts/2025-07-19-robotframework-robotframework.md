@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-19T00:30:18.436836
-image: assets/robotframework_robotframework_cropped.png
+date: 2025-07-19 00:30:18.436836
 ---
 
 # [robotframework/robotframework](https://github.com/robotframework/robotframework)

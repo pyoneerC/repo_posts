@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-31T09:05:22.017096
-image: assets/browseros-ai_BrowserOS_cropped.png
+date: 2025-07-31 09:05:22.017096
 ---
 
 # [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-20T09:37:03.549192
-image: assets/chonkie-ai_chonkie_cropped.png
+date: 2025-02-20 09:37:03.549192
 ---
 
 # [chonkie-ai/chonkie](https://github.com/chonkie-ai/chonkie)

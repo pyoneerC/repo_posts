@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T03:51:14.383807
-image: assets/20250810T213816--anthropics--claude-code-security-review--20250811T005740--cropped.png
+date: 2025-08-12 03:51:14.383807
 ---
 
 # [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T23:06:28.340853
-image: assets/caddyserver_caddy_cropped.png
+date: 2025-05-05 23:06:28.340853
 ---
 
 # [caddyserver/caddy](https://github.com/caddyserver/caddy)

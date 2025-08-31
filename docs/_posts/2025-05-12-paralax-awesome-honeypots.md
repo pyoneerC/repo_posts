@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-12T08:20:23.040552
-image: assets/paralax_awesome-honeypots_cropped.png
+date: 2025-05-12 08:20:23.040552
 ---
 
 # [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots)

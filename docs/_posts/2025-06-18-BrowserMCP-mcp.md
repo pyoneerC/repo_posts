@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-18T07:33:03.970059
-image: assets/BrowserMCP_mcp_cropped.png
+date: 2025-06-18 07:33:03.970059
 ---
 
 # [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp)

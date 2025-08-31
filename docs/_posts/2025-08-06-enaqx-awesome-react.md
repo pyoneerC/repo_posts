@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T16:16:48.424629
-image: assets/enaqx_awesome-react_cropped.png
+date: 2025-08-06 16:16:48.424629
 ---
 
 # [enaqx/awesome-react](https://github.com/enaqx/awesome-react)

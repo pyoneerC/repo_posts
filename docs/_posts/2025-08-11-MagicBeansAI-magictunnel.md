@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-11T03:09:34.411121
-image: assets/MagicBeansAI_magictunnel_cropped.png
+date: 2025-08-11 03:09:34.411121
 ---
 
 # [MagicBeansAI/magictunnel](https://github.com/MagicBeansAI/magictunnel)

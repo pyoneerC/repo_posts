@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-02-21T04:51:00.557426
-image: assets/thiswillbeyourgithub_wdoc_cropped.png
+date: 2025-02-21 04:51:00.557426
 ---
 
 # [thiswillbeyourgithub/wdoc](https://github.com/thiswillbeyourgithub/wdoc)

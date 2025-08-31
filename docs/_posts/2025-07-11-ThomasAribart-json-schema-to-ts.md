@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-11T08:50:32.706224
-image: assets/ThomasAribart_json-schema-to-ts_cropped.png
+date: 2025-07-11 08:50:32.706224
 ---
 
 # [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts)

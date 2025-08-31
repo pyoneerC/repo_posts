@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-26T16:41:28.670190
-image: assets/MarkPDFdown_markpdfdown_cropped.png
+date: 2025-07-26 16:41:28.670190
 ---
 
 # [MarkPDFdown/markpdfdown](https://github.com/MarkPDFdown/markpdfdown)

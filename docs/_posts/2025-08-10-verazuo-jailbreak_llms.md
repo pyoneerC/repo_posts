@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-10T06:29:34.490609
-image: assets/verazuo_jailbreak_llms_cropped.png
+date: 2025-08-10 06:29:34.490609
 ---
 
 # [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms)

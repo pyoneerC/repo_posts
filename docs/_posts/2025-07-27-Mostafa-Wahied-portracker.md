@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-27T08:19:27.143189
-image: assets/Mostafa-Wahied_portracker_cropped.png
+date: 2025-07-27 08:19:27.143189
 ---
 
 # [Mostafa-Wahied/portracker](https://github.com/Mostafa-Wahied/portracker)

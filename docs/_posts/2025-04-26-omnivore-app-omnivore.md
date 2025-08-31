@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-04-26T14:10:05.606748
-image: assets/omnivore-app_omnivore_cropped.png
+date: 2025-04-26 14:10:05.606748
 ---
 
 # [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)

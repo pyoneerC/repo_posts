@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-25T19:16:26.399609
-image: assets/vivoCameraResearch_Magic-TryOn_cropped.png
+date: 2025-06-25 19:16:26.399609
 ---
 
 # [vivoCameraResearch/Magic-TryOn](https://github.com/vivoCameraResearch/Magic-TryOn)

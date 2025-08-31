@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-06-27T08:43:12.476669
-image: assets/rxhanson_Rectangle_cropped.png
+date: 2025-06-27 08:43:12.476669
 ---
 
 # [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)

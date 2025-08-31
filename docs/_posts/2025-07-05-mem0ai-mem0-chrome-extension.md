@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-07-05T00:55:03.142498
-image: assets/mem0ai_mem0-chrome-extension_cropped.png
+date: 2025-07-05 00:55:03.142498
 ---
 
 # [mem0ai/mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension)

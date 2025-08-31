@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-05-05T08:10:25.953970
-image: assets/LibChecker_LibChecker_cropped.png
+date: 2025-05-05 08:10:25.953970
 ---
 
 # [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker)

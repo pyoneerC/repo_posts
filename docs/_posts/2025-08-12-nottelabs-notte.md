@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-12T14:57:19.013078
-image: assets/nottelabs_notte--20250812T002637--cropped.png
+date: 2025-08-12 14:57:19.013078
 ---
 
 # [nottelabs/notte](https://github.com/nottelabs/notte)

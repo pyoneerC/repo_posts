@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-06T20:49:04.892904
-image: assets/stretchcloud_deepscrape_cropped.png
+date: 2025-08-06 20:49:04.892904
 ---
 
 # [stretchcloud/deepscrape](https://github.com/stretchcloud/deepscrape)
