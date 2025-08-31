@@ -20,7 +20,7 @@ KEYWORDS = [
     "semantic search", "semantic retrieval", "knowledge graph", "knowledge graphs",
     "embedding", "embeddings", "vector", "vectors", "vector database", "vector databases", "dataset", "datasets", "model card", "model zoo",
     # Frameworks, libraries, and tools
-    "langchain", "llama-index", "haystack","mcp", "prompt", "ml", "comfyui", "voice", "chromadb", "chroma", "weaviate", "milvus", "pinecone", "qdrant", "faiss", "annlite", "marqo", "vespa", "elasticsearch", "vllm", "exllama", "exllamav2", "flashattention", "bitsandbytes", "huggingface", "huggingface transformers", "deepspeed",
+    "langchain", "llama-index", "haystack","mcp", "agentic", "prompt", "ml", "comfyui", "voice", "chromadb", "chroma", "weaviate", "milvus", "pinecone", "qdrant", "faiss", "annlite", "marqo", "vespa", "elasticsearch", "vllm", "exllama", "exllamav2", "flashattention", "bitsandbytes", "huggingface", "huggingface transformers", "deepspeed",
     # General/other
     "ai api", "ai apis", "ai service", "ai services", "ai framework", "ai toolkit", "ai pipeline", "ai workflow", "ai platform", "open source llm", "open-source llm"
 ]
