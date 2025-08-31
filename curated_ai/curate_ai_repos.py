@@ -8,7 +8,21 @@ POSTS_DIR = os.path.join(os.path.dirname(__file__), '..', 'docs', '_posts')
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), 'repos.js')
 
 KEYWORDS = [
-    'ai', 'llm', 'llms', 'large language model', 'diffusion', 'ocr', 'model', 'gemini', 'genai', 'generation', 'language model', 'agents', 'agent', 'RAG', 'unstructured data', 'structured data', 'vector', 'vectors', 'embedding', 'embeddings', 'fine-tune', 'finetune', 'fine tuning', 'fine-tuning', 'transformer', 'transformers', 'chatbot', 'chatbots', 'chat gpt', 'chatgpt', 'gpt-4', 'gpt4', 'gpt-3.5', 'gpt3.5', 'gpt-3', 'gpt3', 'dalle-2', 'dalle2', 'dalle-3', 'dalle3', 'stable diffusion', 'midjourney', 'whisper', 'text-to-image', 'text to image', 'text-to-speech', 'text to speech', 'rag', 'retrieval augmented generation', 'retrieval-augmented generation', 'vector database', 'vector databases', 'knowledge graph', 'knowledge graphs', 'semantic search', 'semantic retrieval', 'llama', 'llama2', 'llama 2', 'falcon', 'mistral', 'mistral ai', 'mistral-ai', 'mistralai', 'ai model', 'ai models', 'ai api', 'ai apis', 'ai service', 'ai services'
+    # Core AI/LLM/GenAI
+    "ai", "llm", "llms", "large language model", "language model", "genai", "generation", "model", "models",
+    "diffusion", "diffusion model", "diffusion models", "diffusion pipeline", "stable-diffusion", "stable diffusion", "sd-webui", "comfyui", "controlnet",
+    "transformer", "transformers", "vision transformer", "clip", "sam", "segment anything", "segment anything model", "autoencoder", "vae", "gan", "cnn", "rnn",
+    "gpt", "gpt-4", "gpt4", "gpt-3.5", "gpt3.5", "gpt-3", "gpt3", "chatgpt", "chat gpt", "openai", "ollapa", "llama", "llama2", "llama 2", "llama.cpp", "mistral", "mistral ai", "mistral-ai", "mistralai", "qwen", "phi", "mamba", "rwkv",
+    "dalle", "dalle-2", "dalle2", "dalle-3", "dalle3", "midjourney", "whisper", "whisper.cpp", "voice cloning", "tts", "stt", "speech-to-text", "speech2text", "text-to-speech", "text2speech",
+    "text-to-image", "text to image", "text2image", "text2img", "img2img", "image-to-image",
+    "multimodal", "prompt engineering", "prompt injection", "instruction tuning", "rlhf", "zero-shot", "few-shot", "fine-tune", "finetune", "fine tuning", "fine-tuning", "fine-tuner", "fine-tuning toolkit", "quantization", "lora", "peft",
+    "agent", "agents", "agentic", "agent framework", "retrieval", "retriever", "rag", "retrieval augmented generation", "retrieval-augmented generation",
+    "semantic search", "semantic retrieval", "knowledge graph", "knowledge graphs",
+    "embedding", "embeddings", "vector", "vectors", "vector database", "vector databases", "dataset", "datasets", "model card", "model zoo",
+    # Frameworks, libraries, and tools
+    "langchain", "llama-index", "haystack","mcp", "prompt", "ml", "comfyui", "voice", "chromadb", "chroma", "weaviate", "milvus", "pinecone", "qdrant", "faiss", "annlite", "marqo", "vespa", "elasticsearch", "vllm", "exllama", "exllamav2", "flashattention", "bitsandbytes", "huggingface", "huggingface transformers", "deepspeed",
+    # General/other
+    "ai api", "ai apis", "ai service", "ai services", "ai framework", "ai toolkit", "ai pipeline", "ai workflow", "ai platform", "open source llm", "open-source llm"
 ]
 EXCLUDE_WORDS = ['nothing']
 
