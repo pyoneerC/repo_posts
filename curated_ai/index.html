@@ -122,6 +122,22 @@
   <script>
     const repoList = document.getElementById('repo-list');
     const searchInput = document.getElementById('search');
+    function highlightKeywords(text) {
+      const keywords = [
+        'ai', 'llm', 'llms', 'large language model', 'diffusion', 'ocr', 'model', 'gemini', 'genai', 'generation', 'language model'
+      ];
+      let result = text;
+      keywords.forEach(word => {
+        const re = new RegExp(`(${word})`, 'ig');
+        result = result.replace(re, '<b>$1</b>');
+      });
+      return result;
+    }
+    function getRepoName(url) {
+      if (!url) return '';
+      const parts = url.replace('https://github.com/', '').split('/');
+      return parts.length >= 2 ? `${parts[0]}/${parts[1]}` : url;
+    }
     function render(reposToShow) {
       repoList.innerHTML = '';
       if (!reposToShow.length) {
@@ -130,7 +146,11 @@
       }
       reposToShow.forEach(repo => {
         const li = document.createElement('li');
-        li.innerHTML = `<a href="${repo.url}" target="_blank">${repo.url.replace('https://github.com/', '')}</a><span>${repo.description}</span>`;
+        li.innerHTML = `
+          <div><a href="${repo.url}" target="_blank">${getRepoName(repo.url)}</a></div>
+          <div style="margin: 0.2em 0 0.2em 0;">${highlightKeywords(repo.description)}</div>
+          <div style="font-size:0.93em;color:#888;"><a href="${repo.url}" target="_blank">${repo.url}</a></div>
+        `;
         repoList.appendChild(li);
       });
     }
