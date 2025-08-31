@@ -125,12 +125,44 @@
       color: #888;
       font-size: 0.95rem;
     }
+    #scroll-top-btn {
+      position: fixed;
+      right: 2.2rem;
+      bottom: 2.2rem;
+      z-index: 100;
+      background: #e0e7ff;
+      color: #222;
+      border: 1px solid #b3bcf5;
+      border-radius: 50%;
+      width: 48px;
+      height: 48px;
+      font-size: 1.5rem;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 8px #b3bcf533;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s, opacity 0.2s;
+      opacity: 0.92;
+    }
+    #scroll-top-btn:hover {
+      background: #b3bcf5;
+      color: #0056b3;
+      opacity: 1;
+    }
     @media (max-width: 600px) {
       .container { max-width: 100%; }
       body { padding: 20px 4px; }
       h1 { font-size: 1.5rem; }
       .subtitle { font-size: 1rem; }
       ul#repo-list li { font-size: 0.98rem; padding: 0.7rem; }
+      #scroll-top-btn {
+        right: 1rem;
+        bottom: 1rem;
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+      }
     }
   </style>
 </head>
@@ -150,12 +182,14 @@
       <span>Auto-curated from upstream posts. Minimal UI by LLM.</span>
     </footer>
   </div>
+  <button id="scroll-top-btn" title="Scroll to top">↑</button>
   <script src="repos.js"></script>
   <script>
     const repoList = document.getElementById('repo-list');
     const searchInput = document.getElementById('search');
     const repoCount = document.getElementById('repo-count');
     const randomBtn = document.getElementById('random-btn');
+    const scrollTopBtn = document.getElementById('scroll-top-btn');
     function highlightKeywords(text) {
       const keywords = [
         'ai', 'llm', 'llms', 'large language model', 'diffusion', 'ocr', 'model', 'gemini', 'genai', 'generation', 'language model', 'agents'
@@ -205,6 +239,16 @@
       li.scrollIntoView({ behavior: 'smooth', block: 'center' });
       li.style.background = '#ffe066';
       setTimeout(() => { li.style.background = ''; }, 1800);
+    });
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 200) {
+        scrollTopBtn.style.display = 'flex';
+      } else {
+        scrollTopBtn.style.display = 'none';
+      }
+    });
+    scrollTopBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     });
     render(repos);
   </script>
