@@ -10,15 +10,23 @@ OUTPUT_FILE = os.path.join(os.path.dirname(__file__), 'repos.js')
 KEYWORDS = [
     'ai', 'llm', 'llms', 'large language model', 'diffusion', 'ocr', 'model', 'gemini', 'genai', 'generation', 'language model', 'agents', 'agent', 'RAG', 'unstructured data', 'structured data', 'vector', 'vectors', 'embedding', 'embeddings', 'fine-tune', 'finetune', 'fine tuning', 'fine-tuning', 'transformer', 'transformers', 'chatbot', 'chatbots', 'chat gpt', 'chatgpt', 'gpt-4', 'gpt4', 'gpt-3.5', 'gpt3.5', 'gpt-3', 'gpt3', 'dalle-2', 'dalle2', 'dalle-3', 'dalle3', 'stable diffusion', 'midjourney', 'whisper', 'text-to-image', 'text to image', 'text-to-speech', 'text to speech'
 ]
+EXCLUDE_WORDS = ['mac', 'sql', 'wearable']
 
 repo_pattern = re.compile(r'\[View Repository\]\((.*?)\)', re.IGNORECASE)
 link_pattern_md = re.compile(r'\[(.*?)\]\((https?://[^\)]+)\)')
 
 # Compile regex for whole word matching
 KEYWORD_REGEXES = [re.compile(r'(?<!\w)'+re.escape(k)+r'(?!\w)', re.IGNORECASE) for k in KEYWORDS]
+EXCLUDE_REGEXES = [re.compile(r'(?<!\w)'+re.escape(w)+r'(?!\w)', re.IGNORECASE) for w in EXCLUDE_WORDS]
 
 def matches_keywords(text):
     for regex in KEYWORD_REGEXES:
+        if regex.search(text):
+            return True
+    return False
+
+def matches_exclude(text):
+    for regex in EXCLUDE_REGEXES:
         if regex.search(text):
             return True
     return False
@@ -61,8 +69,8 @@ for md_file in glob.glob(os.path.join(POSTS_DIR, '*.md')):
     # Get first non-empty line as description
     desc_lines = [l.strip() for l in body.split('\n') if l.strip() and not l.strip().startswith('#')]
     description = desc_lines[0] if desc_lines else ''
-    # Only include if description matches AI keywords as whole words
-    if repo_link and matches_keywords(description):
+    # Only include if description matches AI keywords as whole words and does NOT match exclude words
+    if repo_link and matches_keywords(description) and not matches_exclude(description):
         repos.append({
             'url': repo_link,
             'description': description
