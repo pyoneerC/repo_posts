@@ -89,32 +89,49 @@
       padding: 0;
       margin: 0;
     }
+    .keyword-highlight {
+      background: #fffbe6;
+      color: #b07d00;
+      font-weight: 600;
+      border-radius: 4px;
+      padding: 0 4px;
+      margin: 0 1px;
+      box-shadow: 0 1px 2px #ffe06633;
+    }
     ul#repo-list li {
       background: #fff;
-      margin-bottom: 1rem;
-      border-radius: 8px;
-      box-shadow: 0 1px 4px #0001;
-      padding: 1rem;
-      transition: box-shadow 0.2s;
-      font-size: 1rem;
+      margin-bottom: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 2px 12px #b3bcf522;
+      padding: 1.2rem 1.2rem 1.1rem 1.2rem;
+      transition: box-shadow 0.2s, transform 0.18s;
+      font-size: 1.08rem;
       display: flex;
       flex-direction: column;
-      gap: 0.3rem;
-      border-left: 4px solid #b3bcf5;
+      gap: 0.4rem;
+      border-left: 5px solid #b3bcf5;
+      line-height: 1.8;
     }
     ul#repo-list li:hover {
-      box-shadow: 0 4px 16px #0002;
+      box-shadow: 0 8px 32px #b3bcf555;
+      transform: translateY(-2px) scale(1.012);
     }
-    a {
-      color: var(--link-color);
-      text-decoration: none;
-      font-weight: 500;
-      font-family: var(--font-mono);
-      word-break: break-all;
+    .repo-title {
+      font-size: 1.13em;
+      font-weight: 600;
+      color: #2a2a2a;
+      margin-bottom: 0.1em;
+      letter-spacing: 0.01em;
     }
-    a:hover {
-      color: var(--link-hover-color);
-      text-decoration: underline;
+    .repo-desc {
+      font-size: 1em;
+      color: #444;
+      margin-bottom: 0.1em;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
     .footer {
       margin-top: 3rem;
@@ -155,7 +172,13 @@
       body { padding: 20px 4px; }
       h1 { font-size: 1.5rem; }
       .subtitle { font-size: 1rem; }
-      ul#repo-list li { font-size: 0.98rem; padding: 0.7rem; }
+      ul#repo-list li {
+        font-size: 1em;
+        padding: 0.85rem 0.7rem 0.8rem 0.9rem;
+        border-radius: 8px;
+      }
+      .repo-title { font-size: 1em; }
+      .repo-desc { font-size: 0.97em; }
       #scroll-top-btn {
         right: 1rem;
         bottom: 1rem;
@@ -164,6 +187,7 @@
         font-size: 1.2rem;
       }
     }
+    html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
   </style>
 </head>
 <body>
@@ -192,12 +216,12 @@
     const scrollTopBtn = document.getElementById('scroll-top-btn');
     function highlightKeywords(text) {
       const keywords = [
-        'ai', 'llm', 'llms', 'large language model', 'diffusion', 'ocr', 'model', 'gemini', 'genai', 'generation', 'language model', 'agents'
+        'ai', 'llm', 'llms', 'large language model', 'diffusion', 'ocr', 'model', 'gemini', 'genai', 'generation', 'language model', 'agents', 'agent', 'RAG', 'unstructured data', 'structured data', 'vector', 'vectors', 'embedding', 'embeddings', 'fine-tune', 'finetune', 'fine tuning', 'fine-tuning', 'transformer', 'transformers', 'chatbot', 'chatbots', 'chat gpt', 'chatgpt', 'gpt-4', 'gpt4', 'gpt-3.5', 'gpt3.5', 'gpt-3', 'gpt3', 'dalle-2', 'dalle2', 'dalle-3', 'dalle3', 'stable diffusion', 'midjourney', 'whisper', 'text-to-image', 'text to image', 'text-to-speech', 'text to speech', 'rag', 'retrieval augmented generation', 'retrieval-augmented generation', 'vector database', 'vector databases', 'knowledge graph', 'knowledge graphs', 'semantic search', 'semantic retrieval', 'llama', 'llama2', 'llama 2', 'falcon', 'mistral', 'mistral ai', 'mistral-ai', 'mistralai', 'ai model', 'ai models', 'ai api', 'ai apis', 'ai service', 'ai services'
       ];
       let result = text;
       keywords.forEach(word => {
         const re = new RegExp(`(?<!\\w)(${word})(?!\\w)`, 'ig');
-        result = result.replace(re, '<b>$1</b>');
+        result = result.replace(re, '<span class="keyword-highlight">$1</span>');
       });
       return result;
     }
@@ -216,8 +240,8 @@
       reposToShow.forEach(repo => {
         const li = document.createElement('li');
         li.innerHTML = `
-          <div><a href="${repo.url}" target="_blank">${getRepoName(repo.url)}</a></div>
-          <div style="margin: 0.2em 0 0.2em 0;">${highlightKeywords(repo.description)}</div>
+          <div class="repo-title"><a href="${repo.url}" target="_blank">${getRepoName(repo.url)}</a></div>
+          <div class="repo-desc">${highlightKeywords(repo.description)}</div>
         `;
         repoList.appendChild(li);
       });
