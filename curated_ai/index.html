@@ -167,6 +167,31 @@
       color: #0056b3;
       opacity: 1;
     }
+    #roll-dice-btn {
+      position: fixed;
+      right: 2.2rem;
+      bottom: 5.5rem;
+      z-index: 100;
+      background: #e0e7ff;
+      color: #222;
+      border: 1px solid #b3bcf5;
+      border-radius: 50%;
+      width: 48px;
+      height: 48px;
+      font-size: 1.5rem;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 8px #b3bcf533;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s, opacity 0.2s;
+      opacity: 0.92;
+    }
+    #roll-dice-btn:hover {
+      background: #b3bcf5;
+      color: #0056b3;
+      opacity: 1;
+    }
     @media (max-width: 600px) {
       .container { max-width: 100%; }
       body { padding: 20px 4px; }
@@ -182,6 +207,13 @@
       #scroll-top-btn {
         right: 1rem;
         bottom: 1rem;
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+      }
+      #roll-dice-btn {
+        right: 1rem;
+        bottom: 6rem;
         width: 40px;
         height: 40px;
         font-size: 1.2rem;
@@ -207,6 +239,7 @@
     </footer>
   </div>
   <button id="scroll-top-btn" title="Scroll to top">↑</button>
+  <button id="roll-dice-btn" title="Random repo" style="position:fixed;right:2.2rem;bottom:5.5rem;z-index:100;background:#e0e7ff;color:#222;border:1px solid #b3bcf5;border-radius:50%;width:48px;height:48px;font-size:1.5rem;display:none;align-items:center;justify-content:center;box-shadow:0 2px 8px #b3bcf533;cursor:pointer;transition:background 0.2s,color 0.2s,opacity 0.2s;opacity:0.92;">🎲</button>
   <script src="repos.js"></script>
   <script>
     const repoList = document.getElementById('repo-list');
@@ -214,6 +247,7 @@
     const repoCount = document.getElementById('repo-count');
     const randomBtn = document.getElementById('random-btn');
     const scrollTopBtn = document.getElementById('scroll-top-btn');
+    const rollDiceBtn = document.getElementById('roll-dice-btn');
     function highlightKeywords(text) {
       const keywords = [
         'ai', 'llm', 'llms', 'large language model', 'diffusion', 'ocr', 'model', 'gemini', 'genai', 'generation', 'language model', 'agents', 'agent', 'RAG', 'unstructured data', 'structured data', 'vector', 'vectors', 'embedding', 'embeddings', 'fine-tune', 'finetune', 'fine tuning', 'fine-tuning', 'transformer', 'transformers', 'chatbot', 'chatbots', 'chat gpt', 'chatgpt', 'gpt-4', 'gpt4', 'gpt-3.5', 'gpt3.5', 'gpt-3', 'gpt3', 'dalle-2', 'dalle2', 'dalle-3', 'dalle3', 'stable diffusion', 'midjourney', 'whisper', 'text-to-image', 'text to image', 'text-to-speech', 'text to speech', 'rag', 'retrieval augmented generation', 'retrieval-augmented generation', 'vector database', 'vector databases', 'knowledge graph', 'knowledge graphs', 'semantic search', 'semantic retrieval', 'llama', 'llama2', 'llama 2', 'falcon', 'mistral', 'mistral ai', 'mistral-ai', 'mistralai', 'ai model', 'ai models', 'ai api', 'ai apis', 'ai service', 'ai services'
@@ -267,12 +301,24 @@
     window.addEventListener('scroll', () => {
       if (window.scrollY > 200) {
         scrollTopBtn.style.display = 'flex';
+        rollDiceBtn.style.display = 'flex';
       } else {
         scrollTopBtn.style.display = 'none';
+        rollDiceBtn.style.display = 'none';
       }
     });
     scrollTopBtn.addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    rollDiceBtn.addEventListener('click', () => {
+      const items = repoList.querySelectorAll('li');
+      if (!items.length) return;
+      items.forEach(li => li.style.background = '');
+      const idx = Math.floor(Math.random() * items.length);
+      const li = items[idx];
+      li.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      li.style.background = '#ffe066';
+      setTimeout(() => { li.style.background = ''; }, 1800);
     });
     render(repos);
   </script>
