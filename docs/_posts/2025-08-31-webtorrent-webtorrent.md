@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-08-31T23:17:59.216219
-image: assets/20250830T174231998--webtorrent--webtorrent--20250830T174615531--cropped.png
+date: 2025-08-31 23:17:59.216219
 ---
 
 # [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)

@@ -1549,6 +1549,10 @@ const repos = [
     "description": "streaming markdown for AI chat apps"
   },
   {
+    "url": "https://github.com/InternLM/MindSearch",
+    "description": "multi-agent AI search engine mimicking human info seeking"
+  },
+  {
     "url": "https://github.com/CodeJawn/karakeep-homedash",
     "description": "dashboard for saving bookmarks, notes, images with AI tagging"
   },
@@ -3421,6 +3425,10 @@ const repos = [
     "description": "open-source platform for custom AI code agents"
   },
   {
+    "url": "https://github.com/a16z-infra/ai-town",
+    "description": "virtual town where AI characters chat and interact"
+  },
+  {
     "url": "https://github.com/modelcontextprotocol/servers",
     "description": "collection of example servers for Model Context Protocol,connecting LLMs to APIs and data sources"
   },
@@ -4551,6 +4559,10 @@ const repos = [
   {
     "url": "https://github.com/continuedev/continue",
     "description": "open-source tool for making and using AI code assistants in your IDE"
+  },
+  {
+    "url": "https://github.com/dinoki-ai/osaurus",
+    "description": "local LLM server for Apple Silicon with OpenAI API endpoints"
   },
   {
     "url": "https://github.com/davidkimai/Context-Engineering",
