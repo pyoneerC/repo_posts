@@ -8,9 +8,9 @@ POSTS_DIR = os.path.join(os.path.dirname(__file__), '..', 'docs', '_posts')
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), 'repos.js')
 
 KEYWORDS = [
-    'ai', 'llm', 'llms', 'large language model', 'diffusion', 'ocr', 'model', 'gemini', 'genai', 'generation', 'language model', 'agents', 'agent', 'RAG', 'unstructured data', 'structured data', 'vector', 'vectors', 'embedding', 'embeddings', 'fine-tune', 'finetune', 'fine tuning', 'fine-tuning', 'transformer', 'transformers', 'chatbot', 'chatbots', 'chat gpt', 'chatgpt', 'gpt-4', 'gpt4', 'gpt-3.5', 'gpt3.5', 'gpt-3', 'gpt3', 'dalle-2', 'dalle2', 'dalle-3', 'dalle3', 'stable diffusion', 'midjourney', 'whisper', 'text-to-image', 'text to image', 'text-to-speech', 'text to speech'
+    'ai', 'llm', 'llms', 'large language model', 'diffusion', 'ocr', 'model', 'gemini', 'genai', 'generation', 'language model', 'agents', 'agent', 'RAG', 'unstructured data', 'structured data', 'vector', 'vectors', 'embedding', 'embeddings', 'fine-tune', 'finetune', 'fine tuning', 'fine-tuning', 'transformer', 'transformers', 'chatbot', 'chatbots', 'chat gpt', 'chatgpt', 'gpt-4', 'gpt4', 'gpt-3.5', 'gpt3.5', 'gpt-3', 'gpt3', 'dalle-2', 'dalle2', 'dalle-3', 'dalle3', 'stable diffusion', 'midjourney', 'whisper', 'text-to-image', 'text to image', 'text-to-speech', 'text to speech', 'rag', 'retrieval augmented generation', 'retrieval-augmented generation', 'vector database', 'vector databases', 'knowledge graph', 'knowledge graphs', 'semantic search', 'semantic retrieval', 'llama', 'llama2', 'llama 2', 'falcon', 'mistral', 'mistral ai', 'mistral-ai', 'mistralai', 'ai model', 'ai models', 'ai api', 'ai apis', 'ai service', 'ai services'
 ]
-EXCLUDE_WORDS = ['mac', 'sql', 'wearable', 'private', 'laravel']
+EXCLUDE_WORDS = ['nothing']
 
 repo_pattern = re.compile(r'\[View Repository\]\((.*?)\)', re.IGNORECASE)
 link_pattern_md = re.compile(r'\[(.*?)\]\((https?://[^\)]+)\)')
