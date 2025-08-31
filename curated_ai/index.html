@@ -170,12 +170,6 @@
       const parts = url.replace('https://github.com/', '').split('/');
       return parts.length >= 2 ? `${parts[0]}/${parts[1]}` : url;
     }
-    function copyToClipboard(text, btn) {
-      navigator.clipboard.writeText(text).then(() => {
-        btn.textContent = 'Copied!';
-        setTimeout(() => { btn.textContent = 'Copy'; }, 1200);
-      });
-    }
     function render(reposToShow) {
       repoList.innerHTML = '';
       repoCount.textContent = `${reposToShow.length} curated repos`;
@@ -188,13 +182,7 @@
         li.innerHTML = `
           <div><a href="${repo.url}" target="_blank">${getRepoName(repo.url)}</a></div>
           <div style="margin: 0.2em 0 0.2em 0;">${highlightKeywords(repo.description)}</div>
-          <div style="font-size:0.93em;color:#888;display:flex;align-items:center;gap:0.5em;">
-            <a href="${repo.url}" target="_blank">${repo.url}</a>
-            <button class="copy-btn" title="Copy URL">Copy</button>
-          </div>
         `;
-        const btn = li.querySelector('.copy-btn');
-        btn.addEventListener('click', () => copyToClipboard(repo.url, btn));
         repoList.appendChild(li);
       });
     }
