@@ -22,7 +22,7 @@ KEYWORDS = [
     # Frameworks, libraries, and tools
     "langchain", "llama-index", "haystack","mcp", "agentic", "prompt", "ml", "comfyui", "voice", "chromadb", "chroma", "weaviate", "milvus", "pinecone", "qdrant", "faiss", "annlite", "marqo", "vespa", "elasticsearch", "vllm", "exllama", "exllamav2", "flashattention", "bitsandbytes", "huggingface", "huggingface transformers", "deepspeed",
     # General/other
-    "ai api", "ai apis", "ai service", "ai services", "models", "vision", "face", "recognition", "ai framework", "ai toolkit", "ai pipeline", "ai workflow", "ai platform", "open source llm", "open-source llm"
+    "ai api", "ai apis", "ai service", "memory", "ai services", "models", "vision", "face", "recognition", "ai framework", "ai toolkit", "ai pipeline", "ai workflow", "ai platform", "open source llm", "open-source llm"
 ]
 EXCLUDE_WORDS = ['nothing']
 

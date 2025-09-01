@@ -1505,6 +1505,10 @@ const repos = [
     "description": "Code and tutorials for building GPT-style language models from the ground up in PyTorch"
   },
   {
+    "url": "https://github.com/RealKai42/qwerty-learner",
+    "description": "typing practice tool for learning vocabulary with muscle memory focus"
+  },
+  {
     "url": "https://github.com/Sanster/IOPaint",
     "description": "Remove or replace stuff in photos using AI-powered inpainting"
   },
@@ -1631,6 +1635,10 @@ const repos = [
   {
     "url": "https://github.com/web-infra-dev/midscene",
     "description": "AI tool for automating browser actions with natural language commands"
+  },
+  {
+    "url": "https://github.com/ZhuoZhuoCrayon/throttled-py",
+    "description": "Python library for rate limiting with several algorithms and Redis or in-memory storage"
   },
   {
     "url": "https://github.com/arc53/DocsGPT",
@@ -1861,6 +1869,10 @@ const repos = [
     "description": "genome modeling and design tool using AI trained on DNA from 100,000+ species"
   },
   {
+    "url": "https://github.com/bloomberg/memray",
+    "description": "memray: memory profiler for Python that tracks allocations in Python code and native extensions"
+  },
+  {
     "url": "https://github.com/deepsense-ai/ragbits",
     "description": "rag app building blocks for GenAI projects"
   },
@@ -1969,6 +1981,10 @@ const repos = [
     "description": "open suite of AI video foundation models for text-to-video, image-to-video, video editing, text-to-image, and video-to-audio tasks"
   },
   {
+    "url": "https://github.com/Abdenasser/neohtop",
+    "description": "system monitor for tracking processes, CPU, and memory in real-time across platforms"
+  },
+  {
     "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
     "description": "collection of AI, machine learning, deep learning, computer vision, NLP projects with code"
   },
@@ -1983,6 +1999,10 @@ const repos = [
   {
     "url": "https://github.com/deepseek-ai/DeepSeek-V3",
     "description": "DeepSeek-V3, a Mixture-of-Experts language model with 671B parameters and 37B active per token, focused on math and coding tasks"
+  },
+  {
+    "url": "https://github.com/DiceDB/dice",
+    "description": "open-source in-memory database, redis compatible, reactive, used for caching"
   },
   {
     "url": "https://github.com/e2b-dev/E2B",
@@ -2151,6 +2171,10 @@ const repos = [
   {
     "url": "https://github.com/danielmiessler/Fabric",
     "description": "open-source AI framework for modular task automation"
+  },
+  {
+    "url": "https://github.com/ferronweb/ferron",
+    "description": "fast Rust web server with memory safety"
   },
   {
     "url": "https://github.com/HiDream-ai/HiDream-I1",
@@ -2607,6 +2631,10 @@ const repos = [
   {
     "url": "https://github.com/lllyasviel/Fooocus",
     "description": "AI image generator that runs offline, just prompt and go"
+  },
+  {
+    "url": "https://github.com/maypok86/otter",
+    "description": "Go package for in-memory caching with configurable policies, TTL, eviction, stats, and generics"
   },
   {
     "url": "https://github.com/open-webui/mcpo",
@@ -3451,6 +3479,10 @@ const repos = [
   {
     "url": "https://github.com/bodo-run/yek",
     "description": "serialize repo files fast for LLMs"
+  },
+  {
+    "url": "https://github.com/centminmod/my-claude-code-setup",
+    "description": "Claude Code starter config with memory bank setup"
   },
   {
     "url": "https://github.com/Chainlit/chainlit",
@@ -4393,6 +4425,10 @@ const repos = [
     "description": "cleans up AI pixel art and turns images into vectors"
   },
   {
+    "url": "https://github.com/k1nd0ne/VolWeb",
+    "description": "web app for memory forensics with Volatility 3"
+  },
+  {
     "url": "https://github.com/koaning/bespoken",
     "description": "terminal chat for building LLM agents"
   },
@@ -4859,6 +4895,10 @@ const repos = [
   {
     "url": "https://github.com/coleam00/Archon",
     "description": "AI coding assistants command center with docs, tasks, and smart search"
+  },
+  {
+    "url": "https://github.com/exelban/stats",
+    "description": "macOS menu bar system monitor for CPU, GPU, memory, disk, network, battery, sensors"
   },
   {
     "url": "https://github.com/Jackywine/Bella",
