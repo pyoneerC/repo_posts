@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T22:01:39.886829
-image: assets/20250831T003430345--florinpop17--app-ideas--20250831T005559604--cropped.png
+date: 2025-09-01 22:01:39.886829
 ---
 
 # [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)

@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T23:32:58.160048
-image: assets/20250831T004803608--ish-app--ish--20250831T005922147--cropped.png
+date: 2025-09-01 23:32:58.160048
 ---
 
 # [ish-app/ish](https://github.com/ish-app/ish)

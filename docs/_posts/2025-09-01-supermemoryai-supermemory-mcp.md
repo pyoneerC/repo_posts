@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T07:52:55.058829
-image: assets/20250830T175416325--supermemoryai--supermemory-mcp--20250830T184530513--cropped.png
+date: 2025-09-01 07:52:55.058829
 ---
 
 # [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp)

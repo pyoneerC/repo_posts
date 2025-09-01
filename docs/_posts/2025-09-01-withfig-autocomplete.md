@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T12:25:58.946476
-image: assets/withfig_autocomplete--20250831T000355171--cropped.png
+date: 2025-09-01 12:25:58.946476
 ---
 
 # [withfig/autocomplete](https://github.com/withfig/autocomplete)

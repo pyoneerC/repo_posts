@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T03:50:23.575571
-image: assets/20250830T174751587--pimalaya--himalaya--20250830T183759708--cropped.png
+date: 2025-09-01 03:50:23.575571
 ---
 
 # [pimalaya/himalaya](https://github.com/pimalaya/himalaya)

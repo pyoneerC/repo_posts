@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T15:58:14.605357
-image: assets/20250831T001321817--dlvhdr--gh-dash--20250831T002844838--cropped.png
+date: 2025-09-01 15:58:14.605357
 ---
 
 # [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)

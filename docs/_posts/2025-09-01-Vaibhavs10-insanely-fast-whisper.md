@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T01:49:15.578225
-image: assets/20250830T174532845--Vaibhavs10--insanely-fast-whisper--20250830T183602438--cropped.png
+date: 2025-09-01 01:49:15.578225
 ---
 
 # [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)

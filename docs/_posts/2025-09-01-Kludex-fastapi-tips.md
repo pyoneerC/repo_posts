@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T06:21:56.323332
-image: assets/20250830T175140569--Kludex--fastapi-tips--20250830T184222347--cropped.png
+date: 2025-09-01 06:21:56.323332
 ---
 
 # [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips)

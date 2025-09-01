@@ -5379,5 +5379,61 @@ const repos = [
   {
     "url": "https://github.com/Zyphra/Zonos",
     "description": "open-source text-to-speech with voice cloning and emotion control"
+  },
+  {
+    "url": "https://github.com/Acly/krita-ai-diffusion",
+    "description": "AI image generation inside Krita with Stable Diffusion"
+  },
+  {
+    "url": "https://github.com/Deci-AI/super-gradients",
+    "description": "Train and deploy SOTA computer vision models with SuperGradients"
+  },
+  {
+    "url": "https://github.com/exadel-inc/CompreFace",
+    "description": "open-source face recognition REST API with docker support"
+  },
+  {
+    "url": "https://github.com/karpathy/llama2.c",
+    "description": "run Llama 2 models in pure C with a single file"
+  },
+  {
+    "url": "https://github.com/KoljaB/RealtimeTTS",
+    "description": "Realtime text-to-speech library for instant audio from text"
+  },
+  {
+    "url": "https://github.com/microsoft/BitNet",
+    "description": "1-bit LLM inference on CPUs and GPUs with BitNet"
+  },
+  {
+    "url": "https://github.com/microsoft/JARVIS",
+    "description": "AI agent framework for connecting language models with other AI tools"
+  },
+  {
+    "url": "https://github.com/open-mmlab/Amphion",
+    "description": "toolkit for audio, music, and speech generation research"
+  },
+  {
+    "url": "https://github.com/SakanaAI/AI-Scientist",
+    "description": "AI Scientist helps brainstorm ideas, run experiments, and write or review papers with large language models"
+  },
+  {
+    "url": "https://github.com/Stability-AI/StableStudio",
+    "description": "open-source web app for generating AI images"
+  },
+  {
+    "url": "https://github.com/supermemoryai/supermemory-mcp",
+    "description": "universal memory server for sharing context across all your AI apps"
+  },
+  {
+    "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+    "description": "CLI for super fast on-device Whisper transcriptions"
+  },
+  {
+    "url": "https://github.com/willccbb/verifiers",
+    "description": "Build and train custom RL environments for LLM agents with modular tools and easy integration"
+  },
+  {
+    "url": "https://github.com/ictnlp/LLaMA-Omni",
+    "description": "speech-to-text and text-to-speech with Llama-3, real-time chatbot"
   }
 ];

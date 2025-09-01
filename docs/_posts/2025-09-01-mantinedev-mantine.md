@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T08:53:36.812413
-image: assets/mantinedev_mantine--20250830T184901018--cropped.png
+date: 2025-09-01 08:53:36.812413
 ---
 
 # [mantinedev/mantine](https://github.com/mantinedev/mantine)

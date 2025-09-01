@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T22:31:54.824950
-image: assets/20250831T003440668--KoljaB--RealtimeTTS--20250831T005622445--cropped.png
+date: 2025-09-01 22:31:54.824950
 ---
 
 # [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS)

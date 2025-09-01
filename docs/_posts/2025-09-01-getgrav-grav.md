@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T11:25:18.147897
-image: assets/20250830T185609994--getgrav--grav--20250830T190624647--cropped.png
+date: 2025-09-01 11:25:18.147897
 ---
 
 # [getgrav/grav](https://github.com/getgrav/grav)

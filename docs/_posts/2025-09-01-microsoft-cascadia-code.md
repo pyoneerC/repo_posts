@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T20:30:48.535652
-image: assets/20250831T004603983--microsoft--cascadia-code--20250831T005051403--cropped.png
+date: 2025-09-01 20:30:48.535652
 ---
 
 # [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)

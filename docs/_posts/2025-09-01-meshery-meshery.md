@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T01:19:00.598726
-image: assets/20250830T174459632--meshery--meshery--20250830T183547206--cropped.png
+date: 2025-09-01 01:19:00.598726
 ---
 
 # [meshery/meshery](https://github.com/meshery/meshery)

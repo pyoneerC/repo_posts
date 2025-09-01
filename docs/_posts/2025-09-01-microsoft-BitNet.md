@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T02:49:48.664216
-image: assets/20250830T174558133--microsoft--BitNet--20250830T183639132--cropped.png
+date: 2025-09-01 02:49:48.664216
 ---
 
 # [microsoft/BitNet](https://github.com/microsoft/BitNet)

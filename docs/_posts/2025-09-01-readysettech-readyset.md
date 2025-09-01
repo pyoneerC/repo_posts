@@ -1,7 +1,5 @@
 ---
-layout: default
-date: 2025-09-01T13:57:04.438809
-image: assets/20250831T001321424--readysettech--readyset--20250831T002019113--cropped.png
+date: 2025-09-01 13:57:04.438809
 ---
 
 # [readysettech/readyset](https://github.com/readysettech/readyset)
