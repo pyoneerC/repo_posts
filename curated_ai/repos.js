@@ -69,6 +69,10 @@ const repos = [
     "description": "PydanticAI: Build AI apps with Pydantic and LLMs"
   },
   {
+    "url": "https://github.com/serengil/deepface",
+    "description": "Face recognition and analysis library for Python"
+  },
+  {
     "url": "https://github.com/TEN-framework/TEN-Agent",
     "description": "Real-time multimodal AI agent framework"
   },
@@ -315,6 +319,10 @@ const repos = [
   {
     "url": "https://github.com/getomni-ai/zerox",
     "description": "OCR & document extraction using vision models"
+  },
+  {
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "description": "Real-time face swap tool for videos and webcams"
   },
   {
     "url": "https://github.com/infiniflow/ragflow",
@@ -945,6 +953,10 @@ const repos = [
     "description": "Chat with your SQL databaseusing Python and LLMs"
   },
   {
+    "url": "https://github.com/cgzirim/seek-tune",
+    "description": "Shazam-like song recognition tool using audio fingerprinting"
+  },
+  {
     "url": "https://github.com/CherryHQ/cherry-studio",
     "description": "Desktop client for chatting with different AI models, handling files, and managing notes."
   },
@@ -983,6 +995,14 @@ const repos = [
   {
     "url": "https://github.com/punkpeye/awesome-mcp-servers",
     "description": "Curated list of MCP servers for connecting AI models to tools and data sources"
+  },
+  {
+    "url": "https://github.com/timerring/bilive",
+    "description": "Bilibili live stream recorder with auto slicing, danmaku rendering, subtitle recognition, and uploading"
+  },
+  {
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "description": "Real-time face swap tool that works with a single image"
   },
   {
     "url": "https://github.com/eyaltoledano/claude-task-master",
@@ -1035,6 +1055,10 @@ const repos = [
   {
     "url": "https://github.com/josStorer/chatGPTBox",
     "description": "Browser extension that integrates ChatGPT into your browsing experience"
+  },
+  {
+    "url": "https://github.com/m-bain/whisperX",
+    "description": "WhisperX: speech recognition with word timestamps and speaker diarization"
   },
   {
     "url": "https://github.com/modelcontextprotocol/typescript-sdk",
@@ -1491,6 +1515,10 @@ const repos = [
   {
     "url": "https://github.com/voideditor/void",
     "description": "AI-powered code editor, works with any model, keeps data local, based on VS Code"
+  },
+  {
+    "url": "https://github.com/wenet-e2e/wenet",
+    "description": "speech recognition toolkit for transcribing audio to text"
   },
   {
     "url": "https://github.com/ant-design/x",
@@ -2181,6 +2209,10 @@ const repos = [
     "description": "PHP server for Model Context Protocol, lets AI tools talk to your backend"
   },
   {
+    "url": "https://github.com/RapidAI/RapidOCR",
+    "description": "multi-language OCR tool for fast offline text recognition"
+  },
+  {
     "url": "https://github.com/RedPlanetHQ/core",
     "description": "plug and play memory layer for LLMs"
   },
@@ -2471,6 +2503,10 @@ const repos = [
   {
     "url": "https://github.com/pushpak1300/ai-chat",
     "description": "AI chat starter kit for Laravel with real-time streaming"
+  },
+  {
+    "url": "https://github.com/roboflow/sports",
+    "description": "tools for sports field and player detection with computer vision"
   },
   {
     "url": "https://github.com/supercorp-ai/supergateway",
@@ -2953,6 +2989,10 @@ const repos = [
     "description": "AI orchestration platform with hive-mind agents and dev tools"
   },
   {
+    "url": "https://github.com/serengil/deepface",
+    "description": "face recognition and analysis in python"
+  },
+  {
     "url": "https://github.com/superdesigndev/superdesign",
     "description": "open-source design agent for UI mockups in your IDE"
   },
@@ -3137,6 +3177,10 @@ const repos = [
     "description": "open-source browser agent automates web tasks with API"
   },
   {
+    "url": "https://github.com/MarkPDFdown/markpdfdown",
+    "description": "convert PDFs to markdown with visual recognition"
+  },
+  {
     "url": "https://github.com/MorDavid/BruteForceAI",
     "description": "AI that cracks passwords with brute force"
   },
@@ -3167,6 +3211,10 @@ const repos = [
   {
     "url": "https://github.com/felixrieseberg/clippy",
     "description": "Clippy brings 90s chat vibes to local AI models"
+  },
+  {
+    "url": "https://github.com/FunAudioLLM/SenseVoice",
+    "description": "multilingual speech recognition and emotion detection toolkit"
   },
   {
     "url": "https://github.com/guy-hartstein/company-research-agent",
@@ -3997,6 +4045,10 @@ const repos = [
     "description": "lightweight LLM framework for code and agents"
   },
   {
+    "url": "https://github.com/facefusion/facefusion",
+    "description": "face swap and face manipulation toolkit"
+  },
+  {
     "url": "https://github.com/groq/groq-desktop-beta",
     "description": "Groq Desktop Beta local chat app with MCP server features"
   },
@@ -4199,6 +4251,10 @@ const repos = [
   {
     "url": "https://github.com/NevaMind-AI/memU",
     "description": "memory framework for AI companions"
+  },
+  {
+    "url": "https://github.com/photoview/photoview",
+    "description": "self‑hosted photo gallery with face recognition and raw support"
   },
   {
     "url": "https://github.com/roboflow/maestro",
@@ -4873,6 +4929,10 @@ const repos = [
     "description": "minimalist Python AI agents that write and run code"
   },
   {
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "description": "real-time face swap for streaming or video calls"
+  },
+  {
     "url": "https://github.com/laravel/boost",
     "description": "AI tools for Laravel projects"
   },
@@ -4907,6 +4967,10 @@ const repos = [
   {
     "url": "https://github.com/ant-research/MagicQuill",
     "description": "AI image editing with brush and prompt"
+  },
+  {
+    "url": "https://github.com/borglab/gtsam",
+    "description": "C++ library for robotics and vision smoothing, mapping, and sensor fusion"
   },
   {
     "url": "https://github.com/iflow-ai/iflow-cli",
@@ -4979,6 +5043,10 @@ const repos = [
   {
     "url": "https://github.com/hrithikkoduri/WebRover",
     "description": "AI agent for web research and automation"
+  },
+  {
+    "url": "https://github.com/kornia/kornia",
+    "description": "differentiable computer vision tools for PyTorch"
   },
   {
     "url": "https://github.com/mayneyao/eidos",
@@ -5203,6 +5271,10 @@ const repos = [
   {
     "url": "https://github.com/hmorimitsu/ptlflow",
     "description": "Unified platform for training and evaluating multiple optical flow models using PyTorch Lightning"
+  },
+  {
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "description": "deepfake face swapping toolkit for videos"
   },
   {
     "url": "https://github.com/microsoft/VibeVoice",
